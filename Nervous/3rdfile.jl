@@ -56,5 +56,13 @@ for loopvar in 1:4
     loopvar = loopvar + 4
     println("loopvar is $loopvar")    
     println(('α' + loopvar)^loopvar)
-
 end
+
+#######################################
+#y = [x -> x^2 for x in 1:4]
+#println(y)
+
+y = [x for x in "My A1 Jag is XJ6"]; filter(x -> x < 'a', y)
+
+println([x^2 + 2x + 1 for x in -5:3])
+println(map(x -> x^2 + 2x + 1, -5:3))
