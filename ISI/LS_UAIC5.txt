@@ -1,0 +1,1331 @@
+-----------------------------------------------------------------------
+[5] 	 Markou, A; Panagiotopoulos, I; Stoleriu, L; Stancu, A; Ott, F, Coupling dependent reversal in Co/Pt based mixed anisotropy multilayer stacks, J MAGN MAGN MATER, vol. 485, pp. 205-211, (2019) 10.1016/J.JMMM.2019.04.080
+		[5.1] Wang, XQ; Wei, YR; He, KZ; Liu, YY; Huang, Y; Liu, QF; Wang, JB; Han, GL, Effect of the repeat number and Co layer thickness on the magnetization reversal process in [Pt/Co(x)](N) multilayers, J PHYS D APPL PHYS, vol. 53(21), art.no. 215001, (2020) 10.1088/1361-6463/AB78D7
+					IF CITARE: 3.207
+		[5.2] Wang, XQ; Liu, YY; Wei, YR; He, KZ; Huang, Y; Wang, JB; Liu, QF; Han, GL, Magnetic properties and magnetization reversal process in (Pt/CoFe/MgO)(10) multilayers at low temperature, J MAGN MAGN MATER, vol. 499, art.no. 166318, (2020) 10.1016/J.JMMM.2019.166318
+					IF CITARE: 2.993
+		[5.3] Choi, S; Bac, SK; Liu, XY; Lee, S; Dong, SN; Dobrowolska, M; Furdyna, JK, Exchange bias in ferromagnetic bilayers with orthogonal anisotropies: the case of GaMnAsP/GaMnAs combination, SCI REP-UK, vol. 9, art.no. 13061, (2019) 10.1038/S41598-019-49492-4
+					IF CITARE: 3.998
+ autori=5 	 	 IF=2.717 	 	 UAIC I.1(ISI)=37.604 	 nr.citari=3 	 UAIC I.12 (Citari)=46.792
+-----------------------------------------------------------------------
+[6] 	 Stoleriu, L; Enachescu, C, ELASTIC MODEL FOR SPIN CROSSOVER NANOPARTICLES IN MATRICES, P ROMANIAN ACAD A, vol. 20(1), pp. 59-66, (2019) 
+ autori=2 	 	 IF=1.294 	 	 UAIC I.1(ISI)=51.320 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[7] 	 He, WQ; Wang, W; Luo, XB; Stoleriu, L; Stancu, A, Lorentz magneto-resonator model and colossal magnetodielectric effect of magnetoelectric heterostructures, SENSOR ACTUAT A-PHYS, vol. 281, pp. 150-155, (2018) 10.1016/J.SNA.2018.08.040
+ autori=5 	 	 IF=2.739 	 	 UAIC I.1(ISI)=37.868 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[8] 	 Markou, A; Mourkas, A; Koume, A; Panagiotopoulos, I; Stoleriu, L; Stancu, A, Study of magnetization reversal in layered heterostructures by vector magnetometry, J MAGN MAGN MATER, vol. 445, pp. 95-102, (2018) 10.1016/J.JMMM.2017.08.084
+		[8.1] Paes, VZC; Lopes, RF; Geshev, J, Reversal asymmetry and anomalous magnetic viscosity in exchange-bias systems, EUR PHYS J PLUS, vol. 135(9), art.no. 714, (2020) 10.1140/EPJP/S13360-020-00747-4
+					IF CITARE: 3.911
+ autori=6 	 	 IF=2.683 	 	 UAIC I.1(ISI)=30.997 	 nr.citari=1 	 UAIC I.12 (Citari)=14.703
+-----------------------------------------------------------------------
+[9] 	 Stoleriu, L; Nishino, M; Miyashita, S; Stancu, A; Hauser, A; Enachescu, C, Cluster evolution in molecular three-dimensional spin-crossover systems, PHYS REV B, vol. 96(6), art.no. 064115, (2017) 10.1103/PHYSREVB.96.064115
+		[9.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[9.2] Traiche, R; Oubouchou, H; Boukheddaden, K, Elastic Modeling of Two-Step Transitions in Sterically Frustrated 1D Binuclear Spin-Crossover Chains, SYMMETRY-BASEL, vol. 13(10), art.no. 1836, (2021) 10.3390/SYM13101836
+					IF CITARE: 2.713
+		[9.3] Affes, K; Slimani, A; Singh, Y; Maalej, A; Boukheddaden, K, Magneto-elastic properties of a spin crossover membrane deposited on a deformable substrate, J PHYS-CONDENS MAT, vol. 32(25), art.no. 255402, (2020) 10.1088/1361-648X/AB7A4A
+					IF CITARE: 2.333
+		[9.4] Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Guenee, L; Besnard, C, Evidencing size-dependent cooperative effects on spin crossover nanoparticles following their HSLS relaxation, J MATER CHEM C, vol. 6(46), pp. 12698-12706, , (2018) 10.1039/C8TC04315A
+					IF CITARE: 6.641
+		[9.5] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[9.6] Paez-Espejo, M; Sy, M; Boukheddaden, K, Unprecedented Bistability in Spin-Crossover Solids Based on the Retroaction of the High Spin Low-Spin Interface with the Crystal Bending, J AM CHEM SOC, vol. 140(38), pp. 11954-11964, , (2018) 10.1021/JACS.8B04802
+					IF CITARE: 14.695
+		[9.7] Oubouchou, H; Singh, Y; Boukheddaden, K, Magnetoelastic modeling of core-shell spin-crossover nanocomposites, PHYS REV B, vol. 98(1), art.no. 014106, (2018) 10.1103/PHYSREVB.98.014106
+					IF CITARE: 3.736
+		[9.8] Delgado, T; Enachescu, C; Tissot, A; Guenee, L; Hauser, A; Besnard, C, The influence of the sample dispersion on a solid surface in the thermal spin transition of [Fe(pz)Pt(CN)(4)] nanoparticles, PHYS CHEM CHEM PHYS, vol. 20(18), pp. 12493-12502, , (2018) 10.1039/C8CP00775F
+					IF CITARE: 3.567
+		[9.9] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+ autori=6 	 	 IF=3.813 	 	 UAIC I.1(ISI)=42.297 	 nr.citari=9 	 UAIC I.12 (Citari)=149.860
+-----------------------------------------------------------------------
+[10] 	 Enachescu, C; Stoleriu, L; Nishino, M; Miyashita, S; Stancu, A; Lorenc, M; Bertoni, R; Cailleau, H; Collet, E, Theoretical approach for elastically driven cooperative switching of spin-crossover compounds impacted by an ultrashort laser pulse, PHYS REV B, vol. 95(22), art.no. 224107, (2017) 10.1103/PHYSREVB.95.224107
+		[10.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[10.2] Traiche, R; Oubouchou, H; Boukheddaden, K, Elastic Modeling of Two-Step Transitions in Sterically Frustrated 1D Binuclear Spin-Crossover Chains, SYMMETRY-BASEL, vol. 13(10), art.no. 1836, (2021) 10.3390/SYM13101836
+					IF CITARE: 2.713
+		[10.3] Cruddas, J; Powell, BJ, Multiple Coulomb phases with temperature-tunable ice rules in pyrochlore spin-crossover materials, PHYS REV B, vol. 104(2), art.no. 024433, (2021) 10.1103/PHYSREVB.104.024433
+					IF CITARE: 4.036
+		[10.4] Baker, W; van Veenendaal, M, Theory of ultrafast photoinduced low-to-high spin crossover in divalent iron systems, PHYS REV B, vol. 104(1), art.no. 014407, (2021) 10.1103/PHYSREVB.104.014407
+					IF CITARE: 4.036
+		[10.5] Cruddas, J; Ruzzi, G; Powell, BJ, Spin-state smectics in spin crossover materials, J APPL PHYS, vol. 129(18), art.no. 185102, (2021) 10.1063/5.0045763
+					IF CITARE: 2.546
+		[10.6] Collet, E; Azzolina, G, Coupling and decoupling of spin crossover and ferroelastic distortion: Unsymmetric hysteresis loop, phase diagram, and sequence of phases, PHYS REV MATER, vol. 5(4), art.no. 044401, (2021) 10.1103/PHYSREVMATERIALS.5.044401
+					IF CITARE: 0.000
+		[10.7] Linares, J; Cazelles, C; Dahoo, PR; Sohier, D; Dufaud, T; Boukheddaden, K, Shape, size, pressure and matrix effects on 2D spin crossover nanomaterials studied using density of states obtained by dynamic programming, COMP MATER SCI, vol. 187, art.no. 110061, (2021) 10.1016/J.COMMATSCI.2020.110061
+					IF CITARE: 3.300
+		[10.8] Jakobsen, VB; Trzop, E; Gavin, LC; Dobbelaar, E; Chikara, S; Ding, XX; Esien, K; Muller-Bunz, H; Felton, S; Zapf, VS; Collet, E; Carpenter, MA; Morgan, GG, Stress-Induced Domain Wall Motion in a Ferroelastic Mn3+ Spin Crossover Complex, ANGEW CHEM INT EDIT, vol. 59(32), pp. 13305-13312, , (2020) 10.1002/ANIE.202003041
+					IF CITARE: 15.336
+		[10.9] Furmeyer, F; Carrella, LM; Ksenofontov, V; Moller, A; Rentschler, E, Phase Trapping in Multistep Spin Crossover Compound, INORG CHEM, vol. 59(5), pp. 2843-2852, , (2020) 10.1021/ACS.INORGCHEM.9B03170
+					IF CITARE: 5.165
+		[10.10] Cruddas, J; Powell, BJ, Spin-State Ice in Elastically Frustrated Spin-Crossover Materials, J AM CHEM SOC, vol. 141(50), pp. 19790-19799, , (2019) 10.1021/JACS.9B09191
+					IF CITARE: 14.612
+		[10.11] Zerdane, S; Cammarata, M; Iasco, O; Boillot, ML; Collet, E, Photoselective MLCT to d-d pathways for light-induced excited spin state trapping, J CHEM PHYS, vol. 151(17), art.no. 171101, (2019) 10.1063/1.5127507
+					IF CITARE: 2.991
+		[10.12] Nishino, M; Enachescu, C; Miyashita, S, Multistep spin-crossover transitions induced by the interplay between short- and long-range interactions with frustration on a triangular lattice, PHYS REV B, vol. 100(13), art.no. 134414, (2019) 10.1103/PHYSREVB.100.134414
+					IF CITARE: 3.575
+		[10.13] Molnar, G; Mikolasek, M; Ridier, K; Fahs, A; Nicolazzi, W; Bousseksou, A, Molecular Spin Crossover Materials: Review of the Lattice Dynamical Properties, ANN PHYS-BERLIN, vol. 531(10), art.no. 1900076, (2019) 10.1002/ANDP.201900076
+					IF CITARE: 3.317
+		[10.14] Bertoni, R; Collet, E; Cailleau, H; Boillot, ML; Tissot, A; Laisney, J; Enachescu, C; Lorenc, M, Temperature dependence of the cooperative out-of-equilibrium elastic switching in a spin-crossover material, PHYS CHEM CHEM PHYS, vol. 21(12), pp. 6606-6612, , (2019) 10.1039/C8CP07074A
+					IF CITARE: 3.430
+		[10.15] Chastanet, G; Lorenc, M; Bertoni, R; Desplanches, C, Light-induced spin crossover-Solution and solid-state processes, CR CHIM, vol. 21(12), pp. 1075-1094, , (2018) 10.1016/J.CRCI.2018.02.011
+					IF CITARE: 2.366
+		[10.16] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[10.17] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[10.18] Parpiiev, T; Servol, M; Lorenc, M; Chaban, I; Lefort, R; Collet, E; Cailleau, H; Ruello, P; Daro, N; Chastanet, G; Pezeril, T, Ultrafast non-thermal laser excitation of gigahertz longitudinal and shear acoustic waves in spin-crossover molecular crystals [Fe(PM-AzA)(2)(NCS)(2)], APPL PHYS LETT, vol. 111(15), art.no. 151901, (2017) 10.1063/1.4996538
+					IF CITARE: 3.495
+ autori=9 	 	 IF=3.813 	 	 UAIC I.1(ISI)=28.198 	 nr.citari=18 	 UAIC I.12 (Citari)=192.647
+-----------------------------------------------------------------------
+[11] 	 Bertoni, R; Lorenc, M; Cailleau, H; Tissot, A; Laisney, J; Boillot, ML; Stoleriu, L; Stancu, A; Enachescu, C; Collet, E, Elastically driven cooperative response of a molecular material impacted by a laser pulse, NAT MATER, vol. 15(6), pp. 606-+, (2016) 10.1038/NMAT4606
+		[11.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[11.2] Traiche, R; Oubouchou, H; Boukheddaden, K, Elastic Modeling of Two-Step Transitions in Sterically Frustrated 1D Binuclear Spin-Crossover Chains, SYMMETRY-BASEL, vol. 13(10), art.no. 1836, (2021) 10.3390/SYM13101836
+					IF CITARE: 2.713
+		[11.3] Kelai, M; Repain, V; Tauzin, A; Li, WB; Girard, Y; Lagoute, J; Rousset, S; Otero, E; Sainctavit, P; Arrio, MA; Boillot, ML; Mallah, T; Enachescu, C; Bellec, A, Thermal Bistability of an Ultrathin Film of Iron(II) Spin-Crossover Molecules Directly Adsorbed on a Metal Surface, J PHYS CHEM LETT, vol. 12(26), pp. 6152-6158, , (2021) 10.1021/ACS.JPCLETT.1C01366
+					IF CITARE: 6.475
+		[11.4] Baker, W; van Veenendaal, M, Theory of ultrafast photoinduced low-to-high spin crossover in divalent iron systems, PHYS REV B, vol. 104(1), art.no. 014407, (2021) 10.1103/PHYSREVB.104.014407
+					IF CITARE: 4.036
+		[11.5] Tokoro, H; Maeda, N; Imoto, K; Nakabayashi, K; Chiba, K; Ohkoshi, S, Observation of the correlation between the phonon frequency and long-range magnetic ordering on a MnW octacyanide molecule-based magnet, J MATER CHEM C, vol. 9(33), pp. 10689-10696, , (2021) 10.1039/D1TC01048D
+					IF CITARE: 7.393
+		[11.6] Pillet, S, Spin-crossover materials: Getting the most from x-ray crystallography, J APPL PHYS, vol. 129(18), art.no. 181101, (2021) 10.1063/5.0047681
+					IF CITARE: 2.546
+		[11.7] Azzolina, G; Bertoni, R; Mariette, C; Cammarata, M; Trzop, E; Ecolivet, C; Sander, M; Levantino, M; Tokoro, H; Imoto, K; Yoshikiyo, M; Ohkoshi, S; Collet, E, Out-of-equilibrium lattice response to photo-induced charge-transfer in a MnFe Prussian blue analogue, J MATER CHEM C, vol. 9(21), pp. 6773-6780, , (2021) 10.1039/D1TC01487K
+					IF CITARE: 7.393
+		[11.8] Sadashivaiah, S; Wolny, JA; Scherthan, L; Jenni, K; Omlor, A; Muller, CS; Sergueev, I; Herlitschke, M; Leupold, O; Wille, HC; Rohlsberger, R; Schunemann, V, High-Repetition Rate Optical Pump-Nuclear Resonance Probe Experiments Identify Transient Molecular Vibrations after Photoexcitation of a Spin Crossover Material, J PHYS CHEM LETT, vol. 12(12), pp. 3240-3245, , (2021) 10.1021/ACS.JPCLETT.0C03733
+					IF CITARE: 6.475
+		[11.9] Barlow, K; Johansson, JO, Ultrafast photoinduced dynamics in Prussian blue analogues, PHYS CHEM CHEM PHYS, vol. 23(14), pp. 8118-8131, , (2021) 10.1039/D1CP00535A
+					IF CITARE: 3.676
+		[11.10] Hao, H; Jia, T; Zheng, XH; Liu, P; Zeng, Z, One-electron reduction induced spin transition in Fe(ii) spin crossover molecules and the effect of the ligand, J MATER CHEM C, vol. 9(14), pp. 4808-4814, , (2021) 10.1039/D1TC00041A
+					IF CITARE: 7.393
+		[11.11] Mariette, C; Lorenc, M; Cailleau, H; Collet, E; Guerin, L; Volte, A; Trzop, E; Bertoni, R; Dong, X; Lepine, B; Hernandez, O; Janod, E; Cario, L; Phuoc, VT; Ohkoshi, S; Tokoro, H; Patthey, L; Babic, A; Usov, I; Ozerov, D; Sala, L; Ebner, S; Bohler, P; Keller, A; Oggenfuss, A; Zmofing, T; Redford, S; Vetter, S; Follath, R; Juranic, P; Schreiber, A; Beaud, P; Esposito, V; Deng, Y; Ingold, G; Chergui, M; Mancini, GF; Mankowsky, R; Svetina, C; Zerdane, S; Mozzanica, A; Bosak, A; Wulff, M; Levantino, M; Lemke, H; Cammarata, M, Strain wave pathway to semiconductor-to-metal transition revealed by time-resolved X-ray powder diffraction, NAT COMMUN, vol. 12(1), art.no. 1239, (2021) 10.1038/S41467-021-21316-Y
+					IF CITARE: 14.919
+		[11.12] Nakaya, M; Ohtani, R; Lindoy, LF; Hayami, S, Light-induced excited spin state trapping in iron(III) complexes, INORG CHEM FRONT, vol. 8(2), pp. 484-498, , (2021) 10.1039/D0QI01188F
+					IF CITARE: 6.569
+		[11.13] Araki, Y; Ohkoshi, S; Tokoro, H, Synthesis of lambda-Ti3O5 nanocrystals using a block copolymer, MATER TODAY ENERGY, vol. 18, art.no. 100525, (2020) 10.1016/J.MTENER.2020.100525
+					IF CITARE: 0.000
+		[11.14] Kumar, KS; Ruben, M, Sublimable Spin-Crossover Complexes: From Spin-State Switching to Molecular Devices, ANGEW CHEM INT EDIT, vol. 60(14), pp. 7502-7521, , (2021) 10.1002/ANIE.201911256
+					IF CITARE: 15.336
+		[11.15] Azzolina, G; Bertoni, R; Ecolivet, C; Tokoro, H; Ohkoshi, S; Collet, E, Landau theory for non-symmetry-breaking electronic instability coupled to symmetry-breaking order parameter applied to Prussian blue analog, PHYS REV B, vol. 102(13), art.no. 134104, (2020) 10.1103/PHYSREVB.102.134104
+					IF CITARE: 4.036
+		[11.16] Ohkoshi, S; Yoshikiyo, M; Imoto, K; Nakagawa, K; Namai, A; Tokoro, H; Yahagi, Y; Takeuchi, K; Jia, FD; Miyashita, S; Nakajima, M; Qiu, HS; Kato, K; Yamaoka, T; Shirata, M; Naoi, K; Yagishita, K; Doshita, H, Magnetic-Pole Flip by Millimeter Wave, ADV MATER, vol. 32(48), art.no. 2004897, (2020) 10.1002/ADMA.202004897
+					IF CITARE: 30.849
+		[11.17] Brennan, AT; Zenere, KA; Brand, HEA; Price, JR; Bhadbhade, MM; Turner, GF; Moggach, SA; Valverde-Munoz, FJ; Real, JA; Clegg, JK; Kepert, CJ; Neville, SM, Guest Removal and External Pressure Variation Induce Spin Crossover in Halogen-Functionalized 2-D Hofmann Frameworks, INORG CHEM, vol. 59(19), pp. 14296-14305, , (2020) 10.1021/ACS.INORGCHEM.0C02092
+					IF CITARE: 5.165
+		[11.18] Gudyma, I; Boboshko, K; Boukheddaden, K, Reentrant behavior of magnetic ordered phase in spin-crossover solids with quenched disordered ligand field, PHYS LETT A, vol. 384(26), art.no. 126677, (2020) 10.1016/J.PHYSLETA.2020.126677
+					IF CITARE: 2.654
+		[11.19] Guo, WB; Daro, N; Pillet, S; Marchivie, M; Bendeif, E; Tailleur, E; Chainok, K; Denux, D; Chastanet, G; Guionneau, P, Unprecedented Reverse Volume Expansion in Spin-Transition Crystals, CHEM-EUR J, vol. 26(57), pp. 12927-12930, , (2020) 10.1002/CHEM.202001821
+					IF CITARE: 5.236
+		[11.20] Yoshida, T; Nakabayashi, K; Tokoro, H; Yoshikiyo, M; Namai, A; Imoto, K; Chiba, K; Ohkoshi, S, Extremely low-frequency phonon material and its temperature- and photo-induced switching effects, CHEM SCI, vol. 11(33), pp. 8989-8998, , (2020) 10.1039/D0SC02605K
+					IF CITARE: 9.825
+		[11.21] Ishibashi, Y; Nakai, S; Masuda, K; Kitagawa, D; Kobatake, S; Asahi, T, Nanosecond laser photothermal effect-triggered amplification of photochromic reactions in diarylethene nanoparticles, CHEM COMMUN, vol. 56(52), pp. 7088-7091, , (2020) 10.1039/D0CC00884B
+					IF CITARE: 6.222
+		[11.22] Tokoro, H; Araki, Y; Nagata, I; Kondo, T; Imoto, K; Ohkoshi, S, Synthesis of nanosize tetratitanium heptoxide and its anomalous phase transition, MATER RES LETT, vol. 8(7), pp. 261-267, , (2020) 10.1080/21663831.2020.1743788
+					IF CITARE: 7.323
+		[11.23] Laisney, J; Morineau, D; Enachescu, C; Tanasa, R; Riviere, E; Guillot, R; Boillot, ML, Mechanical-tuning of the cooperativity of SC particles via the matrix crystallization and related size effects, J MATER CHEM C, vol. 8(21), pp. 7067-7078, , (2020) 10.1039/D0TC00067A
+					IF CITARE: 7.393
+		[11.24] Jiang, YF; Liu, LC; Sarracini, A; Krawczyk, KM; Wentzell, JS; Lu, C; Field, RL; Matar, SF; Gawelda, W; Muller-Werkmeister, HM; Miller, RJD, Direct observation of nuclear reorganization driven by ultrafast spin transitions, NAT COMMUN, vol. 11(1), art.no. 1530, (2020) 10.1038/S41467-020-15187-Y
+					IF CITARE: 14.919
+		[11.25] Naumova, MA; Kalinko, A; Wong, JWL; Abdellah, M; Geng, HF; Domenichini, E; Meng, J; Gutierrez, SA; Mante, PA; Lin, WH; Zalden, P; Galler, A; Lima, F; Kubicek, K; Biednov, M; Britz, A; Checchia, S; Kabanova, V; Wulff, M; Zimara, J; Schwarzer, D; Demeshko, S; Murzin, V; Gosztola, D; Jarenmark, M; Zhang, JX; Bauer, M; Daku, MLL; Gawelda, W; Khakhulin, D; Bressler, C; Meyer, F; Zheng, KB; Canton, SE, Revealing Hot and Long-Lived Metastable Spin States in the Photoinduced Switching of Solvated Metallogrid Complexes with Femtosecond Optical and X-ray Spectroscopies, J PHYS CHEM LETT, vol. 11(6), pp. 2133-2141, , (2020) 10.1021/ACS.JPCLETT.9B03883
+					IF CITARE: 6.475
+		[11.26] Ohkoshi, S; Nakagawa, K; Imoto, K; Tokoro, H; Shibata, Y; Okamoto, K; Miyamoto, Y; Komine, M; Yoshikiyo, M; Namai, A, A photoswitchable polar crystal that exhibits superionic conduction, NAT CHEM, vol. 12(4), pp. 338-+, , (2020) 10.1038/S41557-020-0427-2
+					IF CITARE: 24.427
+		[11.27] Dankhoff, K; Lochenie, C; Weber, B, Iron(II) Spin Crossover Complexes with 4,4 '-Dipyridylethyne-Crystal Structures and Spin Crossover with Hysteresis, MOLECULES, vol. 25(3), art.no. 581, (2020) 10.3390/MOLECULES25030581
+					IF CITARE: 4.411
+		[11.28] Hochdorffer, T; Chumakov, AI; Wille, HC; Schunemann, V; Wolny, JA, Vibrational properties and cooperativity of the 3D spin crossover network [Fe(pyrazine)][Pt(CN)(4)], DALTON T, vol. 48(41), pp. 15625-15634, , (2019) 10.1039/C9DT02139F
+					IF CITARE: 4.174
+		[11.29] Zerdane, S; Cammarata, M; Iasco, O; Boillot, ML; Collet, E, Photoselective MLCT to d-d pathways for light-induced excited spin state trapping, J CHEM PHYS, vol. 151(17), art.no. 171101, (2019) 10.1063/1.5127507
+					IF CITARE: 2.991
+		[11.30] Nishino, M; Enachescu, C; Miyashita, S, Multistep spin-crossover transitions induced by the interplay between short- and long-range interactions with frustration on a triangular lattice, PHYS REV B, vol. 100(13), art.no. 134414, (2019) 10.1103/PHYSREVB.100.134414
+					IF CITARE: 3.575
+		[11.31] Molnar, G; Mikolasek, M; Ridier, K; Fahs, A; Nicolazzi, W; Bousseksou, A, Molecular Spin Crossover Materials: Review of the Lattice Dynamical Properties, ANN PHYS-BERLIN, vol. 531(10), art.no. 1900076, (2019) 10.1002/ANDP.201900076
+					IF CITARE: 3.317
+		[11.32] Azzolina, G; Collet, E; Mariette, C; Cammarata, M; Trzop, E; Sander, M; Levantino, M; Nakagawa, K; Tokoro, H; Ohkoshi, S; Bertoni, R, Single Laser Shot Photoinduced Phase Transition of Rubidium Manganese Hexacyanoferrate Investigated by X-ray Diffraction, EUR J INORG CHEM, vol. (27), pp. 3142-3147, , (2019) 10.1002/EJIC.201801478
+					IF CITARE: 2.529
+		[11.33] Ishihara, S, Photoinduced Ultrafast Phenomena in Correlated Electron Magnets, J PHYS SOC JPN, vol. 88(7), art.no. 072001, (2019) 10.7566/JPSJ.88.072001
+					IF CITARE: 1.579
+		[11.34] Ridier, K; Bas, AC; Shalabaeva, V; Nicolazzi, W; Salmon, L; Molnar, G; Bousseksou, A; Lorenc, M; Bertoni, R; Collet, E; Cailleau, H, Finite Size Effects on the Switching Dynamics of Spin-Crossover Thin Films Photoexcited by a Femtosecond Laser Pulse, ADV MATER, vol. 31(25), art.no. 1901361, (2019) 10.1002/ADMA.201901361
+					IF CITARE: 27.398
+		[11.35] Bertoni, R; Collet, E; Cailleau, H; Boillot, ML; Tissot, A; Laisney, J; Enachescu, C; Lorenc, M, Temperature dependence of the cooperative out-of-equilibrium elastic switching in a spin-crossover material, PHYS CHEM CHEM PHYS, vol. 21(12), pp. 6606-6612, , (2019) 10.1039/C8CP07074A
+					IF CITARE: 3.430
+		[11.36] Ksiazek, M; Weselski, M; Ilczyszyn, M; Kusz, J; Bronisz, R, Sliding Polymeric Layers and Anion Displacement Coupled with Spin Crossover in Two-Dimensional Networks of [Fe(hbtz)(2)(CH3 CN)(2)](BF4)(2), CHEM-EUR J, vol. 25(9), pp. 2250-2261, , (2019) 10.1002/CHEM.201804721
+					IF CITARE: 4.857
+		[11.37] Ohkoshi, S; Imoto, K; Namai, A; Yoshikiyo, M; Miyashita, S; Qiu, HS; Kimoto, S; Kato, K; Nakajima, M, Rapid Faraday Rotation on epsilon-Iron Oxide Magnetic Nanoparticles by Visible and Terahertz Pulsed Light, J AM CHEM SOC, vol. 141(4), pp. 1775-1780, , (2019) 10.1021/JACS.8B12910
+					IF CITARE: 14.612
+		[11.38] Collet, E; Azzolina, G; Ichii, T; Guerin, L; Bertoni, R; Moreac, A; Cammarata, M; Daro, N; Chastanet, G; Kubicki, J; Tanaka, K; Matar, SF, Lattice phonon modes of the spin crossover crystal [Fe(phen)(2)(NCS)(2)] studied by THz, IR, Raman spectroscopies and DFT calculations, EUR PHYS J B, vol. 92(1), art.no. 12, (2019) 10.1140/EPJB/E2018-90553-2
+					IF CITARE: 1.347
+		[11.39] Chastanet, G; Lorenc, M; Bertoni, R; Desplanches, C, Light-induced spin crossover-Solution and solid-state processes, CR CHIM, vol. 21(12), pp. 1075-1094, , (2018) 10.1016/J.CRCI.2018.02.011
+					IF CITARE: 2.366
+		[11.40] Collet, E; Guionneau, P, Structural analysis of spin-crossover materials: From molecules to materials, CR CHIM, vol. 21(12), pp. 1133-1151, , (2018) 10.1016/J.CRCI.2018.02.003
+					IF CITARE: 2.366
+		[11.41] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[11.42] Nicolazzi, W; Bousseksou, A, Thermodynamical aspects of the spin crossover phenomenon, CR CHIM, vol. 21(12), pp. 1060-1074, , (2018) 10.1016/J.CRCI.2018.10.003
+					IF CITARE: 2.366
+		[11.43] Collet, E; Cammarata, M, Disentangling Ultrafast Electronic and Structural Dynamics with X-Ray Lasers, CHEM-EUR J, vol. 24(59), pp. 15696-15705, , (2018) 10.1002/CHEM.201802105
+					IF CITARE: 5.160
+		[11.44] Nishino, M; Rikvold, PA; Omand, C; Miyashita, S, Multistability in an unusual phase diagram induced by the competition between antiferromagnetic-like short-range and ferromagnetic-like long-range interactions, PHYS REV B, vol. 98(14), art.no. 144402, (2018) 10.1103/PHYSREVB.98.144402
+					IF CITARE: 3.736
+		[11.45] Djemel, A; Stefanczyk, O; Marchivie, M; Trzop, E; Collet, E; Desplanches, C; Delimi, R; Chastanet, G, Solvatomorphism-Induced 45 K Hysteresis Width in a Spin-Crossover Mononuclear Compound, CHEM-EUR J, vol. 24(55), pp. 14760-14767, , (2018) 10.1002/CHEM.201802572
+					IF CITARE: 5.160
+		[11.46] Brinzari, TV; Rajan, D; Ferreira, CF; Stoian, SA; Quintero, PA; Meisel, MW; Talham, DR, Light-induced magnetization changes in aggregated and isolated cobalt ferrite nanoparticles, J APPL PHYS, vol. 124(10), art.no. 103904, (2018) 10.1063/1.5040327
+					IF CITARE: 2.328
+		[11.47] Marlette, C; Volte, A; Tokoro, H; Okhoshi, SI; Lemke, H; Levantino, M; Cammarata, M; Lorenc, M, Multscale real-time XRD probing of the semiconductor to metal ultrafast phase transition in Ti3O5 nanocrystals, ACTA CRYSTALLOGR A, vol. 74, pp. E401-E401, , (2018) 10.1107/S2053273318089167
+					IF CITARE: 1.878
+		[11.48] Volte, A; Mariette, C; Boillot, ML; Cammarata, M; Azzolina, G; Levantino, M; Bertoni, R; Lorenc, M, Understanding elastically driven cooperativity in molecular photomagnetic materials, ACTA CRYSTALLOGR A, vol. 74, pp. E400-E400, , (2018) 10.1107/S2053273318089179
+					IF CITARE: 1.878
+		[11.49] Li, JJ; Sun, K; Li, J; Meng, QP; Fu, XW; Yin, WG; Lu, DY; Li, Y; Babzien, M; Fedurin, M; Swinson, C; Malone, R; Palmer, M; Mathurin, L; Mason, R; Chen, JY; Konik, RM; Cava, RJ; Zhu, YM; Tao, J, Probing the pathway of an ultrafast structural phase transition to illuminate the transition mechanism in Cu2S, APPL PHYS LETT, vol. 113(4), art.no. 041904, (2018) 10.1063/1.5032132
+					IF CITARE: 3.521
+		[11.50] Laisney, J; Shepherd, HJ; Rechignat, L; Molnar, G; Riviere, E; Boillot, ML, Pressure-induced switching properties of the iron(III) spin-transition complex [Fe-III(3-OMeSalEen)(2)]PF6, PHYS CHEM CHEM PHYS, vol. 20(23), pp. 15951-15959, , (2018) 10.1039/C8CP02376J
+					IF CITARE: 3.567
+		[11.51] Burzuri, E; Garcia-Fuente, A; Garcia-Suarez, V; Kumar, KS; Ruben, M; Ferrer, J; van der Zant, HSJ, Spin-state dependent conductance switching in single molecule-graphene junctions, NANOSCALE, vol. 10(17), pp. 7905-7911, , (2018) 10.1039/C8NR00261D
+					IF CITARE: 6.970
+		[11.52] Zerdane, S; Collet, E; Dong, X; Matar, SF; Wang, HF; Desplanches, C; Chastanet, G; Chollet, M; Glownia, JM; Lemke, HT; Lorenc, M; Cammarata, M, Electronic and Structural Dynamics During the Switching of the Photomagnetic Complex [Fe(L222N5)(CN)(2)], CHEM-EUR J, vol. 24(20), pp. 5064-5069, , (2018) 10.1002/CHEM.201704746
+					IF CITARE: 5.160
+		[11.53] Daku, LML, Spin-state dependence of the structural and vibrational properties of solvated iron(II) polypyridyl complexes from AIMD simulations: aqueous [Fe(bpy)(3)]Cl-2, a case study, PHYS CHEM CHEM PHYS, vol. 20(9), pp. 6236-6253, , (2018) 10.1039/C7CP07862E
+					IF CITARE: 3.567
+		[11.54] Biswas, S; Husek, J; Londo, S; Baker, LR, Highly Localized Charge Transfer Excitons in Metal Oxide Semiconductors, NANO LETT, vol. 18(2), pp. 1228-1233, , (2018) 10.1021/ACS.NANOLETT.7B04818
+					IF CITARE: 12.279
+		[11.55] Molnar, G; Rat, S; Salmon, L; Nicolazzi, W; Bousseksou, A, Spin Crossover Nanomaterials: From Fundamental Concepts to Devices, ADV MATER, vol. 30(5), art.no. 17003862, (2018) 10.1002/ADMA.201703862
+					IF CITARE: 25.809
+		[11.56] Zerdane, S; Cammarata, M; Balducci, L; Bertoni, R; Catala, L; Mazerat, S; Mallah, T; Pedersen, MN; Wulff, M; Nakagawa, K; Tokoro, H; Ohkoshi, S; Collet, E, Probing Transient Photoinduced Charge Transfer in Prussian Blue Analogues with Time-Resolved XANES and Optical Spectroscopy, EUR J INORG CHEM, vol. (3-4), pp. 272-277, , (2018) 10.1002/EJIC.201700657
+					IF CITARE: 2.578
+		[11.57] Tokoro, H; Namai, A; Yoshikiyo, M; Fujiwara, R; Chiba, K; Ohkoshi, S, Theoretical prediction of a charge-transfer phase transition, SCI REP-UK, vol. 8, art.no. 63, (2018) 10.1038/S41598-017-18213-0
+					IF CITARE: 4.011
+		[11.58] Feist, A; da Silva, NR; Liang, WX; Ropers, C; Schafer, S, Nanoscale diffractive probing of strain dynamics in ultrafast transmission electron microscopy, STRUCT DYNAM-US, vol. 5(1), art.no. 014302, (2018) 10.1063/1.5009822
+					IF CITARE: 2.953
+		[11.59] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[11.60] Lasco, O; Boillot, ML; Bellec, A; Guillot, R; Riviere, E; Mazerat, S; Nowak, S; Morineau, D; Brosseau, A; Miserque, F; Repain, V; Mallah, T, The disentangling of hysteretic spin transition, polymorphism and metastability in bistable thin films formed by sublimation of bis(scorpionate) Fe(II) molecules, J MATER CHEM C, vol. 5(42), pp. 11067-11075, , (2017) 10.1039/C7TC03276E
+					IF CITARE: 5.976
+		[11.61] Mortel, M; Witt, A; Heinemann, FW; Bochmann, S; Bachmann, J; Khusniyarov, MM, Synthesis, Characterization, and Properties of Iron(II) Spin-Crossover Molecular Photoswitches Functioning at Room Temperature, INORG CHEM, vol. 56(21), pp. 13174-13186, , (2017) 10.1021/ACS.INORGCHEM.7B01952
+					IF CITARE: 4.700
+		[11.62] Nishino, M; Miyashita, S; Rikvold, PA, Nontrivial phase diagram for an elastic interaction model of spin crossover materials with antiferromagnetic-like short-range interactions, PHYS REV B, vol. 96(14), art.no. 144425, (2017) 10.1103/PHYSREVB.96.144425
+					IF CITARE: 3.813
+		[11.63] Magott, M; Stefanczyk, O; Sieklucka, B; Pinkowicz, D, Octacyanidotungstate(IV) Coordination Chains Demonstrate a Light-Induced Excited Spin State Trapping Behavior and Magnetic Exchange Photoswitching, ANGEW CHEM INT EDIT, vol. 56(43), pp. 13283-13287, , (2017) 10.1002/ANIE.201703934
+					IF CITARE: 12.102
+		[11.64] Barskaya, IY; Veber, SL; Suturina, EA; Sherin, PS; Maryunina, KY; Artiukhova, NA; Tretyakov, EV; Sagdeev, RZ; Ovcharenko, VI; Gritsan, NP; Fedin, MV, Spin-state-correlated optical properties of copper(II)-nitroxide based molecular magnets, DALTON T, vol. 46(38), pp. 13108-13117, , (2017) 10.1039/C7DT02719B
+					IF CITARE: 4.099
+		[11.65] Parpiiev, T; Servol, M; Lorenc, M; Chaban, I; Lefort, R; Collet, E; Cailleau, H; Ruello, P; Daro, N; Chastanet, G; Pezeril, T, Ultrafast non-thermal laser excitation of gigahertz longitudinal and shear acoustic waves in spin-crossover molecular crystals [Fe(PM-AzA)(2)(NCS)(2)], APPL PHYS LETT, vol. 111(15), art.no. 151901, (2017) 10.1063/1.4996538
+					IF CITARE: 3.495
+		[11.66] Tumanov, SV; Veber, SL; Tolstikov, SE; Artiukhova, NA; Romanenko, GV; Ovcharenko, VI; Fedin, MV, Light-Induced Spin State Switching and Relaxation in Spin Pairs of Copper(II)-Nitroxide Based Molecular Magnets, INORG CHEM, vol. 56(19), pp. 11729-11737, , (2017) 10.1021/ACS.INORGCHEM.7B01689
+					IF CITARE: 4.700
+		[11.67] Buron-Le Cointe, M; Collet, E; Toudic, B; Czarnecki, P; Cailleau, H, Back to the Structural and Dynamical Properties of Neutral-Ionic Phase Transitions, CRYSTALS, vol. 7(10), art.no. 285, (2017) 10.3390/CRYST7100285
+					IF CITARE: 2.144
+		[11.68] Kumar, KS; Ruben, M, Emerging trends in spin crossover (SCO) based functional materials and devices, COORDIN CHEM REV, vol. 346, pp. 176-205, , (2017) 10.1016/J.CCR.2017.03.024
+					IF CITARE: 14.499
+		[11.69] Chergui, M; Collet, E, Photoinduced Structural Dynamics of Molecular Systems Mapped by Time-Resolved X-ray Methods, CHEM REV, vol. 117(16), pp. 11025-11065, , (2017) 10.1021/ACS.CHEMREV.6B00831
+					IF CITARE: 52.613
+		[11.70] Mariette, C; Trzop, E; Zerdane, S; Fertey, P; Zhang, DP; Valverde-Munoz, FJ; Real, JA; Collet, E, Formation of local spin-state concentration waves during the relaxation from a photoinduced state in a spin-crossover polymer, ACTA CRYSTALLOGR B, vol. 73, pp. 660-668, , (2017) 10.1107/S2052520617007685
+					IF CITARE: 6.467
+		[11.71] Dierre, B; Costuas, K; Dumait, N; Paofai, S; Amela-Cortes, M; Molard, Y; Grasset, F; Cho, YJ; Takahashi, K; Ohashi, N; Uchikoshi, T; Cordier, S, Mo-6 cluster-based compounds for energy conversion applications: comparative study of photoluminescence and cathodoluminescence, SCI TECHNOL ADV MAT, vol. 18(1), pp. 458-466, , (2017) 10.1080/14686996.2017.1338496
+					IF CITARE: 4.787
+		[11.72] Park, ST; van der Veen, RM, Modeling nonequilibrium dynamics of phase transitions at the nanoscale: Application to spin-crossover, STRUCT DYN-US, vol. 4(4), art.no. 044028, (2017) 10.1063/1.4985058
+					IF CITARE: 0.000
+		[11.73] Zerdane, S; Wilbraham, L; Cammarata, M; Iasco, O; Riviere, E; Boillot, ML; Ciofini, I; Collet, E, Comparison of structural dynamics and coherence of d-d and MLCT light-induced spin state trapping, CHEM SCI, vol. 8(7), pp. 4978-4986, , (2017) 10.1039/C6SC05624E
+					IF CITARE: 9.063
+		[11.74] Jiang, YF; Liu, LC; Muller-Werkmeister, HM; Lu, C; Zhang, DF; Field, RL; Sarracini, A; Moriena, G; Collet, E; Miller, RJD, Structural Dynamics upon Photoexcitation in a Spin Crossover Crystal Probed with Femtosecond Electron Diffraction, ANGEW CHEM INT EDIT, vol. 56(25), pp. 7130-7134, , (2017) 10.1002/ANIE.201702497
+					IF CITARE: 12.102
+		[11.75] Ishikawa, T; Hayes, SA; Miller, RJD; Hada, M; Koshihara, S, The photoinduced dynamics of X[M(dmit)(2)](2) salts, PHYS SCRIPTA, vol. 92(3), art.no. 034005, (2017) 10.1088/1402-4896/AA54C3
+					IF CITARE: 1.902
+		[11.76] Milne, CJ; Beaud, P; Deng, YP; Erny, C; Follath, R; Flechsig, U; Hauri, CP; Ingold, G; Juranic, P; Knopp, G; Lemke, H; Pedrini, B; Radi, P; Patthey, L, Opportunities for Chemistry at the SwissFEL X-ray Free Electron Laser, CHIMIA, vol. 71(5), pp. 299-307, , (2017) 10.2533/CHIMIA.2017.299
+					IF CITARE: 1.245
+ autori=10 	 	 IF=39.737 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=76 	 UAIC I.12 (Citari)=1139.602
+-----------------------------------------------------------------------
+[12] 	 Pascariu, P; Airinei, A; Grigoras, M; Fifere, N; Sacarescu, L; Lupu, N; Stoleriu, L, Structural, optical and magnetic properties of Ni doped SnO2 nanoparticles, J ALLOY COMPD, vol. 668, pp. 65-72, (2016) 10.1016/J.JALLCOM.2016.01.183
+		[12.1] Ongun, MZ, Investigation of brightness and decay characteristics of YAG:Ce3+, Ca-alpha-Sialon:Eu2+ and CaAl12O19:Mn4+ phosphors incorporated with Ni-doped SnO2 particles, J LUMIN, vol. 240, art.no. 118405, (2021) 10.1016/J.JLUMIN.2021.118405
+					IF CITARE: 3.599
+		[12.2] Ahmed, A; Nasir, M; Hashim, M; Tripathi, P; Choi, BS, Improved Room-Temperature Ferromagnetism in Nd-Doped SnO2 Nanostructures through Defect Engineering, J PHYS CHEM C, vol. 125(40), pp. 22175-22187, , (2021) 10.1021/ACS.JPCC.1C04440
+					IF CITARE: 4.126
+		[12.3] John, J; Suresh, S; Pillai, SS; Philip, R; Pillai, VPM, Structural, Morphological, Magnetic and Optical Limiting Performance of Ni Doped BaSnO3, J ELECTRON MATER, vol. 50(10), pp. 5868-5880, , (2021) 10.1007/S11664-021-09116-Y
+					IF CITARE: 1.938
+		[12.4] Archana, V; Mohan, L; Kathirvel, P; Saravanakumar, S, Grain boundary effect on structural, optical, and electrical properties of sol-gel synthesized Fe-doped SnO2 nanoparticles, CHINESE PHYS B, vol. 30(4), art.no. 048202, (2021) 10.1088/1674-1056/ABC2C1
+					IF CITARE: 1.494
+		[12.5] Renuga, R; Manikandan, A; Mary, JA; Muthukrishnaraj, A; Khan, A; Srinivasan, S; Al Alwan, BAM; Khedher, KM, Enhanced Magneto-Optical, Morphological, and Photocatalytic Properties of Nickel-Substituted SnO2 Nanoparticles, J SUPERCOND NOV MAGN, vol. 34(3), pp. 825-836, , (2021) 10.1007/S10948-020-05766-X
+					IF CITARE: 1.506
+		[12.6] Singh, J; Kumar, R; Verma, V; Kumar, R, Role of Ni2+ substituent on the structural, optical and magnetic properties of chromium oxide (Cr2-xNixO3) nanoparticles, CERAM INT, vol. 46(15), pp. 24071-24082, , (2020) 10.1016/J.CERAMINT.2020.06.185
+					IF CITARE: 4.527
+		[12.7] Chaudhary, S; Saraswat, H; Devi, D; Kulriya, P; Singh, F; Won, SO; Shin, HJ; Parkash, J; Sharma, A, Structural and electronic-structure investigations of defects in Cu-ion-implanted SnO2 thin films, VACUUM, vol. 179, art.no. 109481, (2020) 10.1016/J.VACUUM.2020.109481
+					IF CITARE: 3.627
+		[12.8] Khalfallah, M; Guermat, N; Daranfed, W; Bouarissa, N; Bakhti, H, Hydrophilic nickel doped porous SnO(2)thin films prepared by spray pyrolysis, PHYS SCRIPTA, vol. 95(9), art.no. 095805, (2020) 10.1088/1402-4896/ABA8C5
+					IF CITARE: 2.487
+		[12.9] Rahaman, S; Abushad, M; Naseem, S; Arshad, M; Husain, S; Varshney, RK; Khan, W, Unravelling the effect of Ni doping on the structural, optical and dielectric properties of nanocrystalline SnO2, CHINESE J PHYS, vol. 66, pp. 543-552, , (2020) 10.1016/J.CJPH.2020.05.017
+					IF CITARE: 3.237
+		[12.10] Divya, J; Pramothkumar, A; Gnanamuthu, SJ; Victoria, DCB; Prabakar, PCJ, Structural, optical, electrical and magnetic properties of Cu and Ni doped SnO2 nanoparticles prepared via Co-precipitation approach, PHYSICA B, vol. 588, art.no. 412169, (2020) 10.1016/J.PHYSB.2020.412169
+					IF CITARE: 2.436
+		[12.11] Qu, T; Tan, Q; Liu, LT; Guo, SW; Li, S; Liu, YN, Polymer fiber membrane-based direct ethanol fuel cell with Ni-doped SnO(2)promoted Pd/C catalyst, CATAL SCI TECHNOL, vol. 10(12), pp. 4099-4108, , (2020) 10.1039/D0CY00477D
+					IF CITARE: 6.119
+		[12.12] Jiang, F; Pen, LZ; Liu, TF, Ni-Doped SnO2 Dilute Magnetic Semiconductors: Morphological Characteristics and Optical and Magnetic Properties, J SUPERCOND NOV MAGN, vol. 33(10), pp. 3051-3058, , (2020) 10.1007/S10948-020-05533-Y
+					IF CITARE: 1.506
+		[12.13] Jahnavi, VS; Tripathy, SK; Rao, AVNR, Study of the Structural, Optical, Dielectric and Magnetic Properties of Copper-Doped SnO2 Nanoparticles, J ELECTRON MATER, vol. 49(6), pp. 3540-3554, , (2020) 10.1007/S11664-020-08028-7
+					IF CITARE: 1.938
+		[12.14] Suthakaran, S; Dhanapandian, S; Krishnakumar, N; Ponpandian, N, Hydrothermal synthesis of surfactant assisted Zn doped SnO2 nanoparticles with enhanced photocatalytic performance and energy storage performance, J PHYS CHEM SOLIDS, vol. 141, art.no. 109407, (2020) 10.1016/J.JPCS.2020.109407
+					IF CITARE: 3.995
+		[12.15] Gupta, A; Zhang, R; Kumar, P; Kumar, V; Kumar, A, Nano-Structured Dilute Magnetic Semiconductors for Efficient Spintronics at Room Temperature, MAGNETOCHEMISTRY, vol. 6(1), art.no. 15, (2020) 10.3390/MAGNETOCHEMISTRY6010015
+					IF CITARE: 0.000
+		[12.16] Manikandan, V; Petrila, I; Vigneselvan, S; Mane, RS; Vasile, B; Dharmavarapu, R; Lundgaard, S; Juodkazis, S; Chandrasekaran, J, A reliable chemiresistive sensor of nickel-doped tin oxide (Ni-SnO2) for sensing carbon dioxide gas and humidity, RSC ADV, vol. 10(7), pp. 3796-3804, , (2020) 10.1039/C9RA09579A
+					IF CITARE: 3.361
+		[12.17] Wang, J; Liu, SM; Cao, X; Wang, ZN; Guo, Y; Li, XT; Liu, CQ; Jiang, WW; Wang, HL; Wang, N; Wu, SM; Tao, HL; Ding, WY, One-pot synthesis and gas sensitivity of SnO2 nanoparticles prepared using two Sn salts of SnCl4 center dot 5H(2)O and SnCl2 center dot 2H(2)O, APPL PHYS A-MATER, vol. 126(1), art.no. 44, (2020) 10.1007/S00339-019-3230-4
+					IF CITARE: 2.584
+		[12.18] Gurakar, S; Serin, T, Comprehensive structural analysis and electrical properties of (Cu, Al and In)-doped SnO2 thin films, MATER SCI ENG B-ADV, vol. 251, art.no. 114445, (2019) 10.1016/J.MSEB.2019.114445
+					IF CITARE: 4.706
+		[12.19] Srivastava, SK; Brahma, R; Datta, S; Guha, S; Aakansha; Baro, SS; Narzary, B; Basumatary, DR; Kar, M; Ravi, S, Effect of (Ni-Ag) co-doping on crystal structure and magnetic Property of SnO2, MATER RES EXPRESS, vol. 6(12), , (2019) 10.1088/2053-1591/AB58B1
+					IF CITARE: 1.929
+		[12.20] Nachiar, RA; Muthukumaran, S, Impact of size and defects on structure, optical and photoluminescence properties of Ni-doped SnO2 nanoparticles co-doped with Cu, J MATER SCI-MATER EL, vol. 30(20), pp. 18759-18766, , (2019) 10.1007/S10854-019-02229-5
+					IF CITARE: 2.220
+		[12.21] Li, N; Fan, Y; Shi, Y; Xiang, Q; Wang, XH; Xu, JQ, A low temperature formaldehyde gas sensor based on hierarchical SnO/SnO2 nano-flowers assembled from ultrathin nanosheets: Synthesis, sensing performance and mechanism, SENSOR ACTUAT B-CHEM, vol. 294, pp. 106-115, , (2019) 10.1016/J.SNB.2019.04.061
+					IF CITARE: 7.100
+		[12.22] Li, GJ; Wang, XH; Yan, LM; Wang, Y; Zhang, ZY; Xu, JQ, PdPt Bimetal-Functionalized SnO2 Nanosheets: Controllable Synthesis and its Dual Selectivity for Detection of Carbon Monoxide and Methane, ACS APPL MATER INTER, vol. 11(29), pp. 26116-26126, , (2019) 10.1021/ACSAMI.9B08408
+					IF CITARE: 8.758
+		[12.23] Moore, EA; Mohammed, AA; Widatallah, HM; Arbab, AI, Fluorinated perovskite as magnetic spin-polarised semiconductor, SOLID STATE COMMUN, vol. 294, pp. 39-42, , (2019) 10.1016/J.SSC.2019.03.005
+					IF CITARE: 1.521
+		[12.24] Sagadevan, S; Bin Johan, MR; Aziz, FA; Hsu, HL; Selvin, R; Hegazy, HH; Umar, A; Algarni, H; Roselin, LS, Nickel Doped Tin Oxide Nanoparticles: Magnetic, Dielectric and Electrical Properties, J NANOELECTRON OPTOE, vol. 14(5), pp. 614-621, , (2019) 10.1166/JNO.2019.2589
+					IF CITARE: 0.771
+		[12.25] Zhu, SW; Chen, CZ; Li, Z, Magnetic enhancement and magnetic signal tunability of (Mn, Co) co-doped SnO2 dilute magnetic semiconductor nanoparticles, J MAGN MAGN MATER, vol. 471, pp. 370-380, , (2019) 10.1016/J.JMMM.2018.09.106
+					IF CITARE: 2.717
+		[12.26] Singh, K; Rawal, I; Gautam, P; Sharma, N; Dhar, R, Diluted magnetic semiconducting properties of nanocrystalline Zn0.98X0.02O (X = Fe, Ga, Ni) thin films deposited by PLD technique for spintronic applications, J MAGN MAGN MATER, vol. 468, pp. 259-268, , (2018) 10.1016/J.JMMM.2018.08.024
+					IF CITARE: 2.683
+		[12.27] Bharathi, RN; Sankar, S, Effects of transition metal element (Co, Fe, Ni) codoping on structural, optical and magnetic properties of CeO2:Er nanoparticles, SUPERLATTICE MICROST, vol. 123, pp. 37-51, , (2018) 10.1016/J.SPMI.2017.12.048
+					IF CITARE: 2.385
+		[12.28] Salehi, A; Ghodsi, FE; Mazloom, J; Ebrahimi-Koodehi, S, Tuning of optical bandgap, conductivity parameters, and PL emissions of SnO2:Ni thin films under Ar, N-2, and O-2 annealing, APPL PHYS A-MATER, vol. 124(10), art.no. 661, (2018) 10.1007/S00339-018-2087-2
+					IF CITARE: 1.784
+		[12.29] Sarangi, SN; Pradhan, GK; Samal, D, Band gap engineering in SnO2 by Pb doping, J ALLOY COMPD, vol. 762, pp. 16-20, , (2018) 10.1016/J.JALLCOM.2018.05.143
+					IF CITARE: 4.175
+		[12.30] Ebrahimi-Koodehi, S; Ghodsi, FE; Mazloom, J, Optical, electrical, and electrochemical behavior of p-type nanostructured SnO2:Ni (NTO) thin films, J SOLID STATE ELECTR, vol. 22(8), pp. 2375-2384, , (2018) 10.1007/S10008-018-3951-X
+					IF CITARE: 2.531
+		[12.31] Apostolov, AT; Apostolova, IN; Wesselinowa, JM, Size and doping dependence of the phonon properties of SnO2 nanoparticles, MOD PHYS LETT B, vol. 32(21), art.no. 1850250, (2018) 10.1142/S0217984918502500
+					IF CITARE: 0.929
+		[12.32] Barakat, MAY; Shaban, M; El Sayed, AM, Structural, ultrasonic and spectroscopic studies of tin oxide thin films; effect of Ir and (Ni, Ir) double doping, MATER RES EXPRESS, vol. 5(6), art.no. 066407, (2018) 10.1088/2053-1591/AAC80A
+					IF CITARE: 1.449
+		[12.33] Babu, B; Kadam, AN; Rao, GT; Lee, SW; Byon, C; Shim, J, Enhancement of visible-light-driven photoresponse of Mn-doped SnO2 quantum dots obtained by rapid and energy efficient synthesis, J LUMIN, vol. 195, pp. 283-289, , (2018) 10.1016/J.JLUMIN.2017.11.040
+					IF CITARE: 2.961
+		[12.34] Manjula, N; Selvan, G; Balu, AR, Improved photodegradation activity of SnO2 nanopowder against methyl orange dye through Ag doping, J MATER SCI-MATER EL, vol. 29(5), pp. 3657-3664, , (2018) 10.1007/S10854-017-8296-1
+					IF CITARE: 2.195
+		[12.35] Dorneanu, P; Airinei, A; Olaru, N, Advances in Polymer Nanofibers Containing Metal Oxide Nanoparticles, , vol. , pp. 23-44, , (2018) 
+					IF CITARE: 0.000
+		[12.36] Selvi, ET; Sundar, SM, Popcorn like morphology and absence of room temperature ferromagnetism in Ni doped SnO2 nanoparticles, J MATER SCI-MATER EL, vol. 29(1), pp. 38-48, , (2018) 10.1007/S10854-017-7885-3
+					IF CITARE: 2.195
+		[12.37] Shen, LH; An, YK; Zhang, RK; Zhang, P; Wu, ZH; Yan, H; Liu, JW, Enhanced room-temperature ferromagnetism on (In0.98-xCoxSn0.02)(2)O-3 films: magnetic mechanism, optical and transport properties, PHYS CHEM CHEM PHYS, vol. 19(43), pp. 29472-29482, , (2017) 10.1039/C7CP05764D
+					IF CITARE: 3.906
+		[12.38] Gomathy, P; Sundar, SM, Influence of dopant concentration on the structural, optical and magnetic properties of nickel doped SnO2 nanoparticles, J MATER SCI-MATER EL, vol. 28(20), pp. 15319-15326, , (2017) 10.1007/S10854-017-7416-2
+					IF CITARE: 2.324
+		[12.39] Priyadarshini, DM; Mannam, R; Rao, MSR; DasGupta, N, Effect of annealing ambient on SnO2 thin film transistors, APPL SURF SCI, vol. 418, pp. 414-417, , (2017) 10.1016/J.APSUSC.2016.11.233
+					IF CITARE: 4.439
+		[12.40] Inderan, V; Arafat, MM; Kumar, S; Haseeb, ASMA; Jiang, ZT; Altarawneh, M; Lee, HL, Study of structural properties and defects of Ni-doped SnO2 nanorods as ethanol gas sensors, NANOTECHNOLOGY, vol. 28(26), art.no. 265702, (2017) 10.1088/1361-6528/AA731C
+					IF CITARE: 3.404
+		[12.41] Pascariu-Dorneanu, P; Airinei, A; Olaru, N; Fifere, N; Doroftei, C; Iacomi, F, Preparation and characterization of some electrospun polysulfone nanocomposites reinforced with Ni doped SnO2 nanoparticles, EUR POLYM J, vol. 91, pp. 326-336, , (2017) 10.1016/J.EURPOLYMJ.2017.04.004
+					IF CITARE: 3.741
+		[12.42] Gu, CP; Guan, WM; Liu, XS; Gao, LL; Wang, LY; Shim, JJ; Huang, JR, Controlled synthesis of porous Ni-doped SnO2 microstructures and their enhanced gas sensing properties, J ALLOY COMPD, vol. 692, pp. 855-864, , (2017) 10.1016/J.JALLCOM.2016.09.103
+					IF CITARE: 3.779
+		[12.43] Bhuvana, S; Ramalingam, HB; Thilakavathi, G; Vadivel, K, Structural, optical and magnetic properties of (Ni-Mn) co-doped tin oxide nanoparticles, MATER TECHNOL, vol. 32(5), pp. 305-309, , (2017) 10.1080/10667857.2016.1215088
+					IF CITARE: 1.232
+		[12.44] Nassar, MY; El-Moety, EA; El-Shahat, MF, Synthesis and characterization of a ZnMn2O4 nanostructure as a chemical nanosensor: a facile and new approach for colorimetric determination of omeprazole and lansoprazole drugs, RSC ADV, vol. 7(69), pp. 43798-43811, , (2017) 10.1039/C7RA08010G
+					IF CITARE: 2.936
+ autori=7 	 	 IF=3.133 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=44 	 UAIC I.12 (Citari)=426.429
+-----------------------------------------------------------------------
+[13] 	 Atitoaie, A; Stoleriu, L; Tanasa, R; Stancu, A; Enachescu, C, Thermal hysteresis kinetic effects of spin crossover nanoparticulated systems studied by FORC diagram method on an Ising-like model, PHYSICA B, vol. 486, pp. 138-141, (2016) 10.1016/J.PHYSB.2015.08.035
+		[13.1] Xu, XH; Yan, H; Wang, ZW; Zou, XL, Microstructure and mechanical properties of SiCp/ZL105 composite prepared by electromagnetic stirring, ADV MECH ENG, vol. 10(12), art.no. 1687814018821004, (2018) 10.1177/1687814018821004
+					IF CITARE: 1.024
+		[13.2] Pavlik, J; Linares, J, Microscopic models of spin crossover, CR CHIM, vol. 21(12), pp. 1170-1178, , (2018) 10.1016/J.CRCI.2018.05.001
+					IF CITARE: 2.366
+ autori=5 	 	 IF=1.386 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=17.560
+-----------------------------------------------------------------------
+[14] 	 Rotarescu, C; Atitoaie, A; Stoleriu, L; Ovari, TA; Lupu, N; Chiriac, H, Shape anisotropy in zero-magnetostrictive rapidly solidified amorphous nanowires, PHYSICA B, vol. 486, pp. 73-76, (2016) 10.1016/J.PHYSB.2015.12.002
+		[14.1] Peng, Y; Yue, M; Li, HJ; Li, YQ; Li, CL; Xu, HH; Wu, Q; Xi, W, The Effect of Easy Axis Deviations on the Magnetization Reversal of Co Nanowire, IEEE T MAGN, vol. 54(11), art.no. 7100605, (2018) 10.1109/TMAG.2018.2831671
+					IF CITARE: 1.651
+ autori=6 	 	 IF=1.386 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=7.170
+-----------------------------------------------------------------------
+[15] 	 Stoleriu, L; Stancu, A; Chakraborty, P; Hauser, A; Enachescu, C, Analysis of first order reversal curves in the thermal hysteresis of spin-crossover nanoparticles within the mechanoelastic model, J APPL PHYS, vol. 117(17), art.no. 17B307, (2015) 10.1063/1.4914953
+		[15.1] Affes, K; Slimani, A; Singh, Y; Maalej, A; Boukheddaden, K, Magneto-elastic properties of a spin crossover membrane deposited on a deformable substrate, J PHYS-CONDENS MAT, vol. 32(25), art.no. 255402, (2020) 10.1088/1361-648X/AB7A4A
+					IF CITARE: 2.333
+		[15.2] Singh, Y; Oubouchou, H; Nishino, M; Miyashita, S; Boukheddaden, K, Elastic-frustration-driven unusual magnetoelastic properties in a switchable core-shell spin-crossover nanostructure, PHYS REV B, vol. 101(5), art.no. 054105, (2020) 10.1103/PHYSREVB.101.054105
+					IF CITARE: 4.036
+		[15.3] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K, Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle, CHEM PHYS LETT, vol. 718, pp. 46-53, , (2019) 10.1016/J.CPLETT.2019.01.034
+					IF CITARE: 2.029
+		[15.4] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[15.5] Oubouchou, H; Singh, Y; Boukheddaden, K, Magnetoelastic modeling of core-shell spin-crossover nanocomposites, PHYS REV B, vol. 98(1), art.no. 014106, (2018) 10.1103/PHYSREVB.98.014106
+					IF CITARE: 3.736
+		[15.6] Molnar, G; Rat, S; Salmon, L; Nicolazzi, W; Bousseksou, A, Spin Crossover Nanomaterials: From Fundamental Concepts to Devices, ADV MATER, vol. 30(5), art.no. 17003862, (2018) 10.1002/ADMA.201703862
+					IF CITARE: 25.809
+		[15.7] Mikolasek, M; Felix, G; Peng, H; Rat, S; Terki, F; Chumakov, AI; Salmon, L; Molnar, G; Nicolazzi, W; Bousseksou, A, Finite-size effects on the lattice dynamics in spin crossover nanomaterials. I. Nuclear inelastic scattering investigation, PHYS REV B, vol. 96(3), art.no. 035426, (2017) 10.1103/PHYSREVB.96.035426
+					IF CITARE: 3.813
+ autori=5 	 	 IF=2.101 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=7 	 UAIC I.12 (Citari)=190.488
+-----------------------------------------------------------------------
+[16] 	 Rusyn, V; Stancu, A; Stoleriu, L, MODELING AND CONTROL OF CHAOTIC MULTI-SCROLL JERK SYSTEM IN LABVIEW, VISNYK NTUU KPI SER-, vol. (63), pp. 94-99, (2015) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[17] 	 Pinzaru, C; Stoleriu, L; Stancu, A, Micromagnetic Evaluation of Size Effects on the Critical Curves of Synthetic Antiferromagnetic Structures, IEEE T MAGN, vol. 50(7), art.no. 7100405, (2014) 10.1109/TMAG.2014.2304916
+		[17.1] Amelichev, VV; Vasilyev, DV; Krikunov, AI; Kazakov, YV; Kostyuk, DV; Orlov, EP; Zhukov, DA; Belyakov, PA, Synthetic Antiferromagnetic Structures in Technology of Spintronic Devices, NANOBIOTECHNOL REP, vol. 16(2), pp. 155-161, , (2021) 10.1134/S2635167621020026
+					IF CITARE: 0.000
+ autori=3 	 	 IF=1.386 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=3.333
+-----------------------------------------------------------------------
+[18] 	 Oniciuc, E; Stoleriu, L; Cimpoesu, D; Stancu, A, Effect of damping on the laser induced ultrafast switching in rare earth-transition metal alloys, APPL PHYS LETT, vol. 104(22), art.no. 222404, (2014) 10.1063/1.4881135
+		[18.1] Abrudan, R; Hennecke, M; Radu, F; Kachel, T; Holldack, K; Mitzner, R; Donges, A; Khmelevskyi, S; Deak, A; Szunyogh, L; Nowak, U; Eisebitt, S; Radu, I, Element-Specific Magnetization Damping in Ferrimagnetic DyCo5 Alloys Revealed by Ultrafast X-ray Measurements, PHYS STATUS SOLIDI-R, vol. 15(8), art.no. 2100047, (2021) 10.1002/PSSR.202100047
+					IF CITARE: 2.821
+		[18.2] Shafei, M; Tehranchi, MM; Yazdi, HF; Hamidi, SM; Yusupov, R; Nikitin, S, Experimental study and micro-magnetic modeling of magnetization dynamics in L1(0)-FePt thin film, J MAGN MAGN MATER, vol. 479, pp. 12-18, , (2019) 10.1016/J.JMMM.2019.02.008
+					IF CITARE: 2.717
+		[18.3] Hoveyda, F; Hohenstein, E; Judge, R; Smadici, S, Demagnetizing fields in all-optical switching, J PHYS-CONDENS MAT, vol. 30(3), art.no. 035801, (2018) 10.1088/1361-648X/AA9E39
+					IF CITARE: 2.711
+		[18.4] Hoveyda, F; Hohenstein, E; Smadici, S, Heat accumulation and all-optical switching by domain wall motion in Co/Pd superlattices, J PHYS-CONDENS MAT, vol. 29(22), art.no. 225801, (2017) 10.1088/1361-648X/AA6C93
+					IF CITARE: 2.617
+		[18.5] Atxitia, U; Hinzke, D; Nowak, U, Fundamentals and applications of the Landau-Lifshitz-Bloch equation, J PHYS D APPL PHYS, vol. 50(3), art.no. 033003, (2017) 10.1088/1361-6463/50/3/033003
+					IF CITARE: 2.373
+ autori=4 	 	 IF=3.302 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=5 	 UAIC I.12 (Citari)=78.695
+-----------------------------------------------------------------------
+[19] 	 Oniciuc, E; Stoleriu, L; Stancu, A, LLB simulation of the temperature dependent switching critical curve of a Stoner-Wohlfarth macrospin in the presence of a polarized current, J MAGN MAGN MATER, vol. 352, pp. 99-106, (2014) 10.1016/J.JMMM.2013.10.001
+		[19.1] Wetterau, L; Abert, C; Suess, D; Albrecht, M; Witzigmann, B, Extended micromagnetic model for the detection of superparamagnetic labels using a GMR vortex sensor, J PHYS COMMUN, vol. 5(7), art.no. 075017, (2021) 10.1088/2399-6528/AC174F
+					IF CITARE: 0.000
+		[19.2] Atxitia, U; Hinzke, D; Nowak, U, Fundamentals and applications of the Landau-Lifshitz-Bloch equation, J PHYS D APPL PHYS, vol. 50(3), art.no. 033003, (2017) 10.1088/1361-6463/50/3/033003
+					IF CITARE: 2.373
+ autori=3 	 	 IF=1.970 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=22.487
+-----------------------------------------------------------------------
+[20] 	 Cimpoesu, D; Stoleriu, L; Stancu, A, Generalized Stoner-Wohlfarth model accurately describing the switching processes in pseudo-single ferromagnetic particles, J APPL PHYS, vol. 114(22), art.no. 223901, (2013) 10.1063/1.4839895
+		[20.1] Li, Q; Yang, MM; Gong, C; Chopdekar, RV; N'Diaye, AT; Turner, J; Chen, G; Schol, A; Shafer, P; Arenholz, E; Schmid, AK; Wang, S; Liu, K; Gao, N; Admasu, AS; Cheong, SW; Hwang, CY; Li, J; Wang, F; Zhang, X; Qiu, ZQ, Patterning-Induced Ferromagnetism of Fe3GeTe2 van der Waals Materials beyond Room Temperature, NANO LETT, vol. 18(9), pp. 5974-5980, , (2018) 10.1021/ACS.NANOLETT.8B02806
+					IF CITARE: 12.279
+		[20.2] Adams, DJ; Cimpoesu, D; Khan, MA; Poudyal, P; Spinu, L, Critical switching curves of FeCoB synthetic antiferromagnets, J PHYS D APPL PHYS, vol. 51(5), art.no. 055005, (2018) 10.1088/1361-6463/AAA271
+					IF CITARE: 2.829
+		[20.3] Cardelli, E; Faba, A; Laudani, A; Pompei, M; Antonio, SQ; Fulginei, FR; Salvini, A, A challenging hysteresis operator for the simulation of Goss-textured magnetic materials, J MAGN MAGN MATER, vol. 432, pp. 14-23, , (2017) 10.1016/J.JMMM.2017.01.068
+					IF CITARE: 3.046
+		[20.4] Krichevtsov, BB; Gastev, SV; Suturin, SM; Fedorov, VV; Korovin, AM; Bursian, VE; Banshchikov, AG; Volkov, MP; Tabuchi, M; Sokolov, NS, Magnetization reversal in YIG/GGG(111) nanoheterostructures grown by laser molecular beam epitaxy, SCI TECHNOL ADV MAT, vol. 18(1), pp. 351-363, , (2017) 10.1080/14686996.2017.1316422
+					IF CITARE: 4.787
+ autori=3 	 	 IF=2.185 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=4 	 UAIC I.12 (Citari)=166.273
+-----------------------------------------------------------------------
+[21] 	 Markou, A; Beltsios, KG; Gergidis, LN; Panagiotopoulos, I; Bakas, T; Ellinas, K; Tserepi, A; Stoleriu, L; Tanasa, R; Stancu, A, Magnetization reversal in triangular L1(0)-FePt nanoislands, J MAGN MAGN MATER, vol. 344, pp. 224-229, (2013) 10.1016/J.JMMM.2013.06.009
+		[21.1] Stavrou, VD; Gergidis, LN, Magnetic skyrmions generation and control in FePt nanoparticles through shape and magnetocrystalline anisotropy variation: a finite elements method micromagnetic simulation study, J PHYS D APPL PHYS, vol. 54(28), art.no. 285001, (2021) 10.1088/1361-6463/ABF862
+					IF CITARE: 3.207
+		[21.2] Mourkas, A; Zarlaha, A; Kourkoumelis, N; Panagiotopoulos, I, Self-Assembly Magnetic Micro- and Nanospheres and the Effect of Applied Magnetic Fields, NANOMATERIALS-BASEL, vol. 11(4), art.no. 1030, (2021) 10.3390/NANO11041030
+					IF CITARE: 5.076
+		[21.3] Zhao, XY; Wen, JH; Zhu, AN; Cheng, MY; Zhu, Q; Zhang, XL; Wang, YX; Zhang, YJ, Manipulation and Applications of Hotspots in Nanostructured Surfaces and Thin Films, NANOMATERIALS-BASEL, vol. 10(9), art.no. 1667, (2020) 10.3390/NANO10091667
+					IF CITARE: 5.076
+		[21.4] Wang, W; Wu, HJ; Xie, PN; Lv, JH; Peng, Z, Magnetic properties of a triangle double-layer graphene nanoisland: a Monte Carlo study, EUR PHYS J PLUS, vol. 135(7), art.no. 605, (2020) 10.1140/EPJP/S13360-020-00627-X
+					IF CITARE: 3.911
+		[21.5] Stavrou, VD; Kourounis, D; Dimakopoulos, K; Panagiotopoulos, I; Gergidis, LN, Magnetic skyrmions in FePt nanoparticles having Reuleaux 3D geometry: a micromagnetic simulation study, NANOSCALE, vol. 11(42), pp. 20102-20114, , (2019) 10.1039/C9NR04829D
+					IF CITARE: 6.895
+		[21.6] Wu, HJ; Wang, W; Li, BC; Yang, M; Yang, SQ; Wang, F, Magnetic properties in graphene-like nanoisland bilayer: Monte Carlo study, PHYSICA E, vol. 112, pp. 86-95, , (2019) 10.1016/J.PHYSE.2019.04.012
+					IF CITARE: 3.570
+		[21.7] Gergidis, LN; Stavrou, VD; Kourounis, D; Panagiotopoulos, I, Micromagnetic simulations study of skyrmions in magnetic FePt nanoelements, J MAGN MAGN MATER, vol. 481, pp. 111-121, , (2019) 10.1016/J.JMMM.2019.02.096
+					IF CITARE: 2.717
+		[21.8] Yang, Y; Wang, W; Ma, H; Li, Q; Gao, ZY; Huang, T, Magnetic and thermodynamic properties of a ferrimagnetic mixed-spin (1/2,1,3/2) Ising nanoisland: Monte Carlo study, PHYSICA E, vol. 108, pp. 358-371, , (2019) 10.1016/J.PHYSE.2018.11.038
+					IF CITARE: 3.570
+		[21.9] Kostopoulos, D; Panagiotopoulos, I, Nanocaps: A numerical study of remanence, quasistatic and dynamic switching, J MAGN MAGN MATER, vol. 472, pp. 20-24, , (2019) 10.1016/J.JMMM.2018.10.015
+					IF CITARE: 2.717
+		[21.10] Lv, D; Yang, Y; Jiang, W; Wang, F; Gao, ZY; Tian, M, Magnetic and thermodynamic properties of a ternary metal nanoisland: A Monte Carlo study, PHYSICA A, vol. 514, pp. 319-335, , (2019) 10.1016/J.PHYSA.2018.09.089
+					IF CITARE: 2.924
+		[21.11] Cimpoesu, D; Dumitru, I; Stancu, A, doFORC tool for calculating first-order reversal curve diagrams of noisy scattered data, J APPL PHYS, vol. 125(2), art.no. 023906, (2019) 10.1063/1.5066445
+					IF CITARE: 2.286
+		[21.12] Yang, Y; Wang, W; Lv, D; Liu, JP; Gao, ZY; Wang, ZY, Monte Carlo study of magnetic behaviors in a quadrangle ferrimagnetic Ising nanoisland, J PHYS CHEM SOLIDS, vol. 120, pp. 109-122, , (2018) 10.1016/J.JPCS.2018.04.027
+					IF CITARE: 2.752
+		[21.13] Wang, W; Peng, Z; Lin, SS; Li, Q; Lv, D; Yang, S, Monte Carlo simulation of magnetic properties of a ferrimagnetic nanoisland with hexagonal prismatic core-shell structure, SUPERLATTICE MICROST, vol. 113, pp. 178-193, , (2018) 10.1016/J.SPMI.2017.10.041
+					IF CITARE: 2.385
+		[21.14] Peng, Z; Wang, W; Lv, D; Liu, RJ; Li, Q, Magnetic properties of a cubic nanoisland in the longitudinal magnetic field: A Monte Carlo study, SUPERLATTICE MICROST, vol. 109, pp. 675-686, , (2017) 10.1016/J.SPMI.2017.05.055
+					IF CITARE: 2.099
+		[21.15] Krupinski, M; Mitin, D; Zarzycki, A; Szkudlarek, A; Giersig, M; Albrecht, M; Marszalek, M, Magnetic transition from dot to antidot regime in large area Co/Pd nanopatterned arrays with perpendicular magnetization, NANOTECHNOLOGY, vol. 28(8), art.no. 085302, (2017) 10.1088/1361-6528/AA5656
+					IF CITARE: 3.404
+ autori=10 	 	 IF=2.002 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=15 	 UAIC I.12 (Citari)=120.178
+-----------------------------------------------------------------------
+[22] 	 Cimpoesu, D; Ding, JJ; Stoleriu, L; Adeyeye, A; Stancu, A; Spinu, L, Angular resonant absorption curves in magnetic nanowire arrays, APPL PHYS LETT, vol. 102(23), art.no. 232401, (2013) 10.1063/1.4810758
+		[22.1] Adams, DJ; Cimpoesu, D; Khan, MA; Poudyal, P; Spinu, L, Critical switching curves of FeCoB synthetic antiferromagnets, J PHYS D APPL PHYS, vol. 51(5), art.no. 055005, (2018) 10.1088/1361-6463/AAA271
+					IF CITARE: 2.829
+		[22.2] Khanal, S; Sherpa, P; Spinu, L, Splitting of Ferromagnetic Resonance Spectra in Periodically Modulated 1-D Magnonic Crystal, IEEE T MAGN, vol. 53(11), art.no. 2301304, (2017) 10.1109/TMAG.2017.2707281
+					IF CITARE: 1.467
+		[22.3] Adams, DJ; Khan, MA; Poudyal, P; Spinu, L, Angular dependence of resonant absorption in FeCoB synthetic antiferromagnets, AIP ADV, vol. 7(5), art.no. 056322, (2017) 10.1063/1.4977881
+					IF CITARE: 1.653
+ autori=6 	 	 IF=3.515 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=3 	 UAIC I.12 (Citari)=24.830
+-----------------------------------------------------------------------
+[23] 	 Oniciuc, E; Stoleriu, L; Stancu, A, Landau-Lifshitz-Bloch-Slonczewski simulations of the spin-transfer-torque driven magnetization switching assisted by Joule heating, APPL PHYS LETT, vol. 102(2), art.no. 022405, (2013) 10.1063/1.4775682
+ autori=3 	 	 IF=3.515 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[24] 	 Markou, A; Panagiotopoulos, I; Bakas, T; Postolache, P; Stoleriu, L; Stancu, A, Magnetization reversal in graded anisotropy Co/Pt multilayers: A first order reversal curve study, J APPL PHYS, vol. 112(12), art.no. 123914, (2012) 10.1063/1.4770487
+		[24.1] Mourkas, A; Zarlaha, A; Kourkoumelis, N; Panagiotopoulos, I, Self-Assembly Magnetic Micro- and Nanospheres and the Effect of Applied Magnetic Fields, NANOMATERIALS-BASEL, vol. 11(4), art.no. 1030, (2021) 10.3390/NANO11041030
+					IF CITARE: 5.076
+		[24.2] Pierrot, A; Beron, F; Blon, T, FORC signatures and switching-field distributions of dipolar coupled nanowire-based hysterons, J APPL PHYS, vol. 128(9), art.no. 093903, (2020) 10.1063/5.0020407
+					IF CITARE: 2.546
+		[24.3] Susla, M; Pasichnyk, R; Melnyk, A; Pasichnyk, N; Vasylkiv, O; Androshchuk, O, Formalization of Scientific Researches Results in Corporate Knowledge Bases As a Tool of Their Accumulation, , vol. , pp. 488-491, , (2020) 
+					IF CITARE: 0.000
+		[24.4] Kostopoulos, D; Panagiotopoulos, I, Nanocaps: A numerical study of remanence, quasistatic and dynamic switching, J MAGN MAGN MATER, vol. 472, pp. 20-24, , (2019) 10.1016/J.JMMM.2018.10.015
+					IF CITARE: 2.717
+		[24.5] Kalache, A; Selle, S; Schnelle, W; Fecher, GH; Hoche, T; Felser, C; Markou, A, Tunable magnetic properties in tetragonal Mn-Fe-Ga Hensler films with perpendicular anisotropy for spintronics applications, PHYS REV MATER, vol. 2(8), art.no. 084407, (2018) 10.1103/PHYSREVMATERIALS.2.084407
+					IF CITARE: 0.000
+ autori=6 	 	 IF=2.210 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=5 	 UAIC I.12 (Citari)=42.797
+-----------------------------------------------------------------------
+[25] 	 Deluca, M; Vasilescu, CA; Ianculescu, AC; Berger, DC; Ciomaga, CE; Curecheriu, LP; Stoleriu, L; Gajovic, A; Mitoseriu, L; Galassi, C, Investigation of the composition-dependent properties of BaTi1-xZrxO3 ceramics prepared by the modified Pechini method, J EUR CERAM SOC, vol. 32(13), pp. 3551-3566, (2012) 10.1016/J.JEURCERAMSOC.2012.05.007
+		[25.1] Kacem, H; Dhahri, A; Sassi, Z; Seveyrat, L; Lebrun, L; Perrin, V; Dhahri, J, Relaxor characteristics and pyroelectric energy harvesting performance of BaTi0.91Sn0.09O3 ceramic, J ALLOY COMPD, vol. 872, art.no. 159699, (2021) 10.1016/J.JALLCOM.2021.159699
+					IF CITARE: 5.316
+		[25.2] Bhargavi, GN; Badapanda, T; Khare, A, An investigation of structural, electrical and optical properties of lead-free barium zirconium titanate (BZT)-based ceramic compounds, PHASE TRANSIT, vol. 94(6-8), pp. 474-492, , (2021) 10.1080/01411594.2021.1940181
+					IF CITARE: 1.452
+		[25.3] Niu, X; Jian, XD; Chen, XY; Li, HX; Liang, W; Yao, YB; Tao, T; Liang, B; Lu, SG, Enhanced electrocaloric effect at room temperature in Mn2+ doped lead-free (BaSr)TiO3 ceramics via a direct measurement, J ADV CERAM, vol. 10(3), pp. 482-492, , (2021) 10.1007/S40145-020-0450-1
+					IF CITARE: 6.707
+		[25.4] Premkumar, S; Radhakrishnan, S; Mathe, VL, Understanding A and B-site engineered lead-free Ba(1-x)CaxZryTi(1-y)O3 piezoceramics: a perspective from DFT, J MATER CHEM C, vol. 9(12), pp. 4248-4259, , (2021) 10.1039/D0TC05724J
+					IF CITARE: 7.393
+		[25.5] Ezealigo, BN; Orru, R; Elissalde, C; Debeda, H; Chung, UC; Maglione, M; Cao, G, Influence of the Spark Plasma Sintering temperature on the structure and dielectric properties of BaTi(1-x)ZrxO3 ceramics, CERAM INT, vol. 47(3), pp. 3614-3625, , (2021) 10.1016/J.CERAMINT.2020.09.210
+					IF CITARE: 4.527
+		[25.6] Horchidan, N; Curecheriu, L; Ciomaga, CE; Lupu, N; Mitoseriu, L, Preparation and Functional Properties of BaTiO3-BaGeO3 Ceramics, IEEE T ULTRASON FERR, vol. 68(2), pp. 279-287, , (2021) 10.1109/TUFFC.2020.2990755
+					IF CITARE: 2.725
+		[25.7] Coondoo, I; Panwar, N; Krylova, S; Krylov, A; Alikin, D; Jakka, SK; Turygin, A; Shur, VY; Kholkin, AL, Temperature-dependent Raman spectroscopy, domain morphology and photoluminescence studies in lead-free BCZT ceramic, CERAM INT, vol. 47(2), pp. 2828-2838, , (2021) 10.1016/J.CERAMINT.2020.09.137
+					IF CITARE: 4.527
+		[25.8] Mahesh, MLV; Pal, P; Prasad, VVB; James, AR, Improved properties & fatigue resistant behaviour OF Ba(Zr0.15Ti0.85)O-3 ferroelectric ceramics, CURR APPL PHYS, vol. 20(12), pp. 1373-1378, , (2020) 10.1016/J.CAP.2020.08.016
+					IF CITARE: 2.480
+		[25.9] Sharma, S; Sharma, H; Kumar, S; Thakur, S; Kotnala, RK; Negi, NS, Analysis of sintering temperature effects on structural, dielectric, ferroelectric, and piezoelectric properties of BaZr(0.2)Ti(0.8)O(3)ceramics prepared by sol-gel method, J MATER SCI-MATER EL, vol. 31(21), pp. 19168-19179, , (2020) 10.1007/S10854-020-04453-W
+					IF CITARE: 2.478
+		[25.10] Sirotinkin, V; Bush, A, Phase composition of ceramic samples of the BaTiO3-PbTiO3-BaZrO(3)system near BaTiO3, J MATER SCI, vol. 56(2), pp. 1162-1171, , (2021) 10.1007/S10853-020-05388-7
+					IF CITARE: 4.220
+		[25.11] Curecheriu, L; Lukacs, VA; Padurariu, L; Stoian, G; Ciomaga, CE, Effect of Porosity on Functional Properties of Lead-Free Piezoelectric BaZr(0.15)Ti(0.85)O(3)Porous Ceramics, MATERIALS, vol. 13(15), art.no. 3324, (2020) 10.3390/MA13153324
+					IF CITARE: 3.623
+		[25.12] Li, JM; Wei, MH; Li, L; Tang, SD, Citrate precursor synthesis of perovskite-type NdAlO(3)as a microwave dielectric material, J MATER SCI-MATER EL, vol. 31(18), pp. 15352-15360, , (2020) 10.1007/S10854-020-04099-8
+					IF CITARE: 2.478
+		[25.13] Tarasov, A; Shvartsman, VV; Shoja, S; Lewin, D; Lupascu, DC; Wiggers, H, Spray-flame synthesis of BaTi1-xZrxO3 nanoparticles for energy storage applications, CERAM INT, vol. 46(9), pp. 13915-13924, , (2020) 10.1016/J.CERAMINT.2020.02.187
+					IF CITARE: 4.527
+		[25.14] Mostari, MS; Haque, MJ; Ankur, SR; Matin, MA; Munna, AH, Effect of mono-dopants (Mg2+) and co-dopants (Mg2+, Zr4+) on the dielectric, ferroelectric and optical properties of BaTiO(3)ceramics, MATER RES EXPRESS, vol. 7(6), art.no. 066302, (2020) 10.1088/2053-1591/AB7E4C
+					IF CITARE: 1.620
+		[25.15] Wang, YH; Gao, SY; Wang, T; Liu, JQ; Li, D; Yang, HB; Hu, GL; Kong, L; Wang, F; Liu, G, Structure, dielectric properties of novel Ba(Zr,Ti)O-3 based ceramics for energy storage application, CERAM INT, vol. 46(8), pp. 12080-12087, , (2020) 10.1016/J.CERAMINT.2020.01.251
+					IF CITARE: 4.527
+		[25.16] Li, Z; Li, Y; Zhou, H; Wang, Z, EFFECT OF SiO2 COATING ON MICROSTRUCTURE AND DIELECTRIC PROPERTIES OF BaZr0.1Fe0.02Ti0.88O3 CERAMICS, DIG J NANOMATER BIOS, vol. 15(2), pp. 459-464, , (2020) 
+					IF CITARE: 0.963
+		[25.17] Jain, A; Wang, YG; Wang, N; Li, Y; Wang, FL, Influence of individual phases on the magnetoelectric coupling and electromechanical response in (1-x)Ba(0.83)Ca(0.10)Sr(0.07)TiO(3-)xBiFeO(3) (x=0-0.30) multiferroic composites, J MAGN MAGN MATER, vol. 495, art.no. 165905, (2020) 10.1016/J.JMMM.2019.165905
+					IF CITARE: 2.993
+		[25.18] Ansari, MA; Sreenivas, K, Effects of disorder activated scattering and defect-induced phase on the ferroelectric properties of BaSnxTi1-xO3 (0 <= x <= 0.28) ceramics, CERAM INT, vol. 45(16), pp. 20738-20749, , (2019) 10.1016/J.CERAMINT.2019.07.058
+					IF CITARE: 3.830
+		[25.19] Vukmirovic, J; Nesterovic, A; Stijepovic, I; Milanovic, M; Omerovic, N; Bajac, B; Bobic, J; Srdic, VV, Fabrication of BaTiO3-based thin film heterostructures with ring electrodes by low cost deposition techniques, J MATER SCI-MATER EL, vol. 30(16), pp. 14995-15004, , (2019) 10.1007/S10854-019-01872-2
+					IF CITARE: 2.220
+		[25.20] Li, MD; Tang, XG; Zeng, SM; Liu, QX; Jiang, YP; Zhang, TF; Li, WH, Phase structure analysis and pyroelectric energy harvesting performance of Ba(HfxTi1-x)O-3 ceramics, J AM CERAM SOC, vol. 102(6), pp. 3623-3629, , (2019) 10.1111/JACE.16237
+					IF CITARE: 3.502
+		[25.21] Chen, XF; Chao, XL; Yang, ZP, Submicron barium calcium zirconium titanate ceramic for energy storage synthesised via the co-precipitation method, MATER RES BULL, vol. 111, pp. 259-266, , (2019) 10.1016/J.MATERRESBULL.2018.11.025
+					IF CITARE: 4.019
+		[25.22] Hwangbo, Y; Lee, YI, Facile synthesis of zirconia nanoparticles using a salt-assisted ultrasonic spray pyrolysis combined with a citrate precursor method, J ALLOY COMPD, vol. 771, pp. 821-826, , (2019) 10.1016/J.JALLCOM.2018.08.308
+					IF CITARE: 4.650
+		[25.23] Sutapun, M; Vittayakorn, N, High piezoelectric activity in lead-free BaTiO3-BaZrO3-CaTiO3 ceramics with near polymorphic phase boundary, INTEGR FERROELECTR, vol. 195(1), pp. 166-177, , (2019) 10.1080/10584587.2019.1570030
+					IF CITARE: 0.557
+		[25.24] Zhang, XF; Xie, XB; Xu, Q; Chen, M; Chen, DC; Huang, DP; Zhang, F, Enhanced Sintering and Nonlinear Dielectric Properties of Ba0.6Sr0.4TiO3 Ceramics With a Small Amount of Lithium Additive, SCI SINTER, vol. 51(3), pp. 295-307, , (2019) 10.2298/SOS1903295Z
+					IF CITARE: 1.172
+		[25.25] Canu, G; Confalonieri, G; Deluca, M; Curecheriu, L; Buscaglia, MT; Asandulesa, M; Horchidan, N; Dapiaggi, M; Mitoseriu, L; Buscaglia, V, Structure-property correlations and origin of relaxor behaviour in BaCexTi(1-x)O(3), ACTA MATER, vol. 152, pp. 258-268, , (2018) 10.1016/J.ACTAMAT.2018.04.038
+					IF CITARE: 7.293
+		[25.26] Keswani, BC; Saraf, D; Patil, SI; Kshirsagar, A; James, AR; Kolekar, YD; Ramana, CV, Role of A-site Ca and B-site Zr substitution in BaTiO3 lead-free compounds: Combined experimental and first principles density functional theoretical studies, J APPL PHYS, vol. 123(20), art.no. 204104, (2018) 10.1063/1.5021249
+					IF CITARE: 2.328
+		[25.27] Jian, XD; Lu, B; Li, DD; Yao, YB; Tao, T; Liang, B; Lu, SG, Large electrocaloric effect in lead-free Ba(ZrxTi1-x)O-3 thick film ceramics, J ALLOY COMPD, vol. 742, pp. 165-171, , (2018) 10.1016/J.JALLCOM.2018.01.143
+					IF CITARE: 4.175
+		[25.28] Wang, CH; Yuan, SL; Wang, X, Magnetization reversal in Bi5Ti3Co0.5Fe0.5O15 ceramics, J ALLOY COMPD, vol. 738, pp. 255-262, , (2018) 10.1016/J.JALLCOM.2017.12.060
+					IF CITARE: 4.175
+		[25.29] Mondal, T; Das, S; Sinha, TP; Sarun, PM, Dielectric relaxation and study of electrical conduction mechanism in BaZr0.1Ti0.9O3 ceramics by correlated barrier hopping model, MATER SCI-POLAND, vol. 36(1), pp. 112-122, , (2018) 10.1515/MSP-2018-0013
+					IF CITARE: 0.918
+		[25.30] Jian, XD; Lu, B; Li, DD; Yao, YB; Tao, T; Liang, B; Guo, JH; Zeng, YJ; Chen, JL; Lu, SG, Direct Measurement of Large Electrocaloric Effect in Ba(ZrxTi1-x)O-3 Ceramics, ACS APPL MATER INTER, vol. 10(5), pp. 4801-4807, , (2018) 10.1021/ACSAMI.7B15933
+					IF CITARE: 8.456
+		[25.31] Zhou, CR; Feteira, A, Observation of multiple dielectric relaxations in BaTiO3-Bi(Li1/3Ti2/3)O-3 ceramics, APPL PHYS A-MATER, vol. 123(11), art.no. 712, (2017) 10.1007/S00339-017-1294-6
+					IF CITARE: 1.604
+		[25.32] Mondal, T; Majee, BP; Das, S; Sinha, TP; Middya, TR; Badapanda, T; Sarun, PM, A comparative study on electrical conduction properties of Sr-substituted Ba1-x Sr (x) Zr0.1Ti0.9O3 (x=0.00-0.15) ceramics, IONICS, vol. 23(9), pp. 2405-2416, , (2017) 10.1007/S11581-017-2085-Y
+					IF CITARE: 2.347
+		[25.33] Zhan, D; Xu, Q; Huang, DP; Sun, HJ; Gao, F; Zhang, F, Effects of Composition on Dielectric Properties of (Ba,Ca)(Zr,Ti)O-3 Ceramics for Energy Storage Capacitors, J ELECTRON MATER, vol. 46(7), pp. 4503-4511, , (2017) 10.1007/S11664-017-5435-7
+					IF CITARE: 1.566
+		[25.34] Gheorghiu, F; Padurariu, L; Airimioaei, M; Curecheriu, L; Ciomaga, C; Padurariu, C; Galassi, C; Mitoseriu, L, Porosity-dependent properties of Nb-doped Pb(Zr,Ti)O-3 ceramics, J AM CERAM SOC, vol. 100(2), pp. 647-658, , (2017) 10.1111/JACE.14587
+					IF CITARE: 2.956
+		[25.35] Ansari, SM; Keswani, BC; Kolekar, YD; Sen, D, Investigation of nanosized BaTio(3) obtained by novel chemical route: Structural, dielectric and ferroelectric properties, INTEGR FERROELECTR, vol. 185(1), pp. 155-164, , (2017) 10.1080/10584587.2017.1370351
+					IF CITARE: 0.367
+		[25.36] Oksuz, KE; Sen, S; Sen, U, Influence of ZrO2 Addition on the Structure and Dielectric Properties of BaTiO3 Ceramics, ACTA PHYS POL A, vol. 131(1), pp. 197-199, , (2017) 10.12693/APHYSPOLA.131.197
+					IF CITARE: 0.857
+ autori=10 	 	 IF=2.360 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=36 	 UAIC I.12 (Citari)=275.096
+-----------------------------------------------------------------------
+[26] 	 Enachescu, C; Nishino, M; Miyashita, S; Stoleriu, L; Stancu, A, Monte Carlo Metropolis study of cluster evolution in spin-crossover solids within the framework of a mechanoelastic model, PHYS REV B, vol. 86(5), art.no. 054114, (2012) 10.1103/PHYSREVB.86.054114
+		[26.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[26.2] Traiche, R; Oubouchou, H; Boukheddaden, K, Elastic Modeling of Two-Step Transitions in Sterically Frustrated 1D Binuclear Spin-Crossover Chains, SYMMETRY-BASEL, vol. 13(10), art.no. 1836, (2021) 10.3390/SYM13101836
+					IF CITARE: 2.713
+		[26.3] Ogou, SB; Oke, TD; Hontinfinde, F; Boukheddaden, K, Magnetic phase transitions in an electroelastic model for magnetically ordered spin-crossover solids, PHYS REV B, vol. 104(2), art.no. 024431, (2021) 10.1103/PHYSREVB.104.024431
+					IF CITARE: 4.036
+		[26.4] Cruddas, J; Ruzzi, G; Powell, BJ, Spin-state smectics in spin crossover materials, J APPL PHYS, vol. 129(18), art.no. 185102, (2021) 10.1063/5.0045763
+					IF CITARE: 2.546
+		[26.5] Slimani, A; Boukheddaden, K, Microscopic electroelastic modeling of a spin transition with symmetry breaking, J APPL PHYS, vol. 129(17), art.no. 173901, (2021) 10.1063/5.0045860
+					IF CITARE: 2.546
+		[26.6] Ndiaye, M; Singh, Y; Fourati, H; Sy, M; Lo, B; Boukheddaden, K, Isomorphism between the electro-elastic modeling of the spin transition and Ising-like model with competing interactions: Elastic generation of self-organized spin states, J APPL PHYS, vol. 129(15), art.no. 153901, (2021) 10.1063/5.0045689
+					IF CITARE: 2.546
+		[26.7] Ahmed, M; Brand, HEA; Peterson, VK; Clegg, JK; Kepert, CJ; Price, JR; Powell, BJ; Neville, SM, Dual-supramolecular contacts induce extreme Hofmann framework distortion and multi-stepped spin-crossover, DALTON T, vol. 50(4), pp. 1434-1442, , (2021) 10.1039/D0DT04007J
+					IF CITARE: 4.390
+		[26.8] Linares, J; Cazelles, C; Dahoo, PR; Sohier, D; Dufaud, T; Boukheddaden, K, Shape, size, pressure and matrix effects on 2D spin crossover nanomaterials studied using density of states obtained by dynamic programming, COMP MATER SCI, vol. 187, art.no. 110061, (2021) 10.1016/J.COMMATSCI.2020.110061
+					IF CITARE: 3.300
+		[26.9] Ekanayaka, TK; Kurz, H; Dale, AS; Hao, GH; Mosey, A; Mishra, E; N'Diaye, AT; Cheng, RH; Weber, B; Dowben, PA, Probing the unpaired Fe spins across the spin crossover of a coordination polymer, MATER ADV, vol. 2(2), pp. 760-768, , (2021) 10.1039/D0MA00612B
+					IF CITARE: 0.000
+		[26.10] Gudyma, I; Boboshko, K; Boukheddaden, K, Reentrant behavior of magnetic ordered phase in spin-crossover solids with quenched disordered ligand field, PHYS LETT A, vol. 384(26), art.no. 126677, (2020) 10.1016/J.PHYSLETA.2020.126677
+					IF CITARE: 2.654
+		[26.11] Frechette, LB; Dellago, C; Geissler, PL, Origin of mean-field behavior in an elastic Ising model, PHYS REV B, vol. 102(2), art.no. 024102, (2020) 10.1103/PHYSREVB.102.024102
+					IF CITARE: 4.036
+		[26.12] Ivashko, V; Angelsky, O, Properties of 2D hexagonal spin-crossover nanosystem: a Monte Carlo study, APPL NANOSCI, vol. 10(12), pp. 4487-4493, , (2020) 10.1007/S13204-020-01420-Z
+					IF CITARE: 3.674
+		[26.13] Boukheddaden, K; Fourati, H; Singh, Y; Chastanet, G, Evidence of Photo-Thermal Effects on the First-Order Thermo-Induced Spin Transition of [{Fe(NCSe)(py)(2)}(2)(m-bpypz)] Spin-Crossover Material, MAGNETOCHEMISTRY, vol. 5(2), art.no. 21, (2019) 10.3390/MAGNETOCHEMISTRY5020021
+					IF CITARE: 0.000
+		[26.14] Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Guenee, L; Besnard, C, Evidencing size-dependent cooperative effects on spin crossover nanoparticles following their HSLS relaxation, J MATER CHEM C, vol. 6(46), pp. 12698-12706, , (2018) 10.1039/C8TC04315A
+					IF CITARE: 6.641
+		[26.15] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[26.16] Nishino, M; Rikvold, PA; Omand, C; Miyashita, S, Multistability in an unusual phase diagram induced by the competition between antiferromagnetic-like short-range and ferromagnetic-like long-range interactions, PHYS REV B, vol. 98(14), art.no. 144402, (2018) 10.1103/PHYSREVB.98.144402
+					IF CITARE: 3.736
+		[26.17] Paez-Espejo, M; Sy, M; Boukheddaden, K, Unprecedented Bistability in Spin-Crossover Solids Based on the Retroaction of the High Spin Low-Spin Interface with the Crystal Bending, J AM CHEM SOC, vol. 140(38), pp. 11954-11964, , (2018) 10.1021/JACS.8B04802
+					IF CITARE: 14.695
+		[26.18] Sy, M; Traiche, R; Fourati, H; Singh, Y; Varret, F; Boukheddaden, K, Spatiotemporal Investigations on Light-Driven High-Spin-Low-Spin Interface Dynamics in the Thermal Hysteresis Region of a Spin-Crossover Single Crystal, J PHYS CHEM C, vol. 122(36), pp. 20952-20962, , (2018) 10.1021/ACS.JPCC.8B05704
+					IF CITARE: 4.309
+		[26.19] Oubouchou, H; Singh, Y; Boukheddaden, K, Magnetoelastic modeling of core-shell spin-crossover nanocomposites, PHYS REV B, vol. 98(1), art.no. 014106, (2018) 10.1103/PHYSREVB.98.014106
+					IF CITARE: 3.736
+		[26.20] Delgado, T; Enachescu, C; Tissot, A; Guenee, L; Hauser, A; Besnard, C, The influence of the sample dispersion on a solid surface in the thermal spin transition of [Fe(pz)Pt(CN)(4)] nanoparticles, PHYS CHEM CHEM PHYS, vol. 20(18), pp. 12493-12502, , (2018) 10.1039/C8CP00775F
+					IF CITARE: 3.567
+		[26.21] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[26.22] Nishino, M; Miyashita, S; Rikvold, PA, Nontrivial phase diagram for an elastic interaction model of spin crossover materials with antiferromagnetic-like short-range interactions, PHYS REV B, vol. 96(14), art.no. 144425, (2017) 10.1103/PHYSREVB.96.144425
+					IF CITARE: 3.813
+		[26.23] Allal, SE; Harle, C; Sohier, D; Dufaud, T; Dahoo, PR; Linares, J, Three Stable States Simulated for 1D Spin-Crossover Nanoparticles Using the Ising-Like Model, EUR J INORG CHEM, vol. (36), pp. 4196-4201, , (2017) 10.1002/EJIC.201700598
+					IF CITARE: 2.507
+		[26.24] Gaina, R; Enachescu, C, NUCLEATION IN SPIN TRANSITION MOLECULAR MAGNETS: A PARALLEL BETWEEN ISING-LIKE AND MECHANOELASTIC MODELS, P ROMANIAN ACAD A, vol. 18(3), pp. 215-222, , (2017) 
+					IF CITARE: 1.752
+		[26.25] Traiche, R; Sy, M; Oubouchou, H; Bouchez, G; Varret, F; Boukheddaden, K, Spatiotemporal Observation and Modeling of Remarkable Temperature Scan Rate Effects on the Thermal Hysteresis in a Spin-Crossover Single Crystal, J PHYS CHEM C, vol. 121(21), pp. 11700-11708, , (2017) 10.1021/ACS.JPCC.7B02816
+					IF CITARE: 4.484
+ autori=5 	 	 IF=3.767 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=25 	 UAIC I.12 (Citari)=403.816
+-----------------------------------------------------------------------
+[27] 	 Deluca, M; Stoleriu, L; Curecheriu, LP; Horchidan, N; Ianculescu, AC; Galassi, C; Mitoseriu, L, High-field dielectric properties and Raman spectroscopic investigation of the ferroelectric-to-relaxor crossover in BaSnxTi1-xO3 ceramics, J APPL PHYS, vol. 111(8), art.no. 084102, (2012) 10.1063/1.3703672
+		[27.1] Surampalli, A; Egli, R; Prajapat, D; Meneghini, C; Reddy, VR, Reentrant phenomenon in the diffuse ferroelectric BaSn0.15Ti0.85O3: Local structural insights and first-order reversal curves study, PHYS REV B, vol. 104(18), art.no. 184114, (2021) 10.1103/PHYSREVB.104.184114
+					IF CITARE: 4.036
+		[27.2] Bush, A; Kozlov, V; Stepanov, A; Sirotinkin, V, Solid solutions of the (1-x)Ba(Ti0.50Sn0.50)O-3 center dot xPbTiO(3) system: Preparation, structural and dielectric characterization, CERAM INT, vol. 47(22), pp. 32243-32251, , (2021) 10.1016/J.CERAMINT.2021.08.119
+					IF CITARE: 4.527
+		[27.3] Dubey, DN; Singh, G; Tripathi, S, Relaxor ferroelectricity driven by 'A' and 'B' site off-centered displacements in cubic phase with Pm(3)over-barm space group, J PHYS D APPL PHYS, vol. 54(36), art.no. 365304, (2021) 10.1088/1361-6463/AC0BDA
+					IF CITARE: 3.207
+		[27.4] Boukhari, M; Abdelkafi, Z; Abdelmoula, N; Khemakhem, H, Effect of antimony content on structural and dielectric properties of BaTi0.925[Yb0.5Nb0.5](0.075)O-3, APPL PHYS A-MATER, vol. 127(9), art.no. 662, (2021) 10.1007/S00339-021-04821-1
+					IF CITARE: 2.584
+		[27.5] Khatua, DK; Raj, NPMJ; Khandelwal, G; Rao, AN; Kim, SJ, Tailoring mechanical energy harvesting performance of piezoelectric nanogenerator via intrinsic electrical conductivity of ferroelectrics, MATER TODAY ENERGY, vol. 20, art.no. 100679, (2021) 10.1016/J.MTENER.2021.100679
+					IF CITARE: 0.000
+		[27.6] Mahmoud, A; Moeen, S; Gerges, MK, Enhancing the tunability properties of pure (Ba,Sr)TiO3 lead-free ferroelectric by polar nanoregion contributions, J MATER SCI-MATER EL, vol. 32(10), pp. 13248-13260, , (2021) 10.1007/S10854-021-05879-6
+					IF CITARE: 2.478
+		[27.7] Su, HX; Wang, XB; Li, CY; Wang, ZF; Wu, YH; Zhang, JW; Zhang, YZ; Zhao, CL; Wu, JG; Zheng, HW, Enhanced energy harvesting ability of polydimethylsiloxane-BaTiO3-based flexible piezoelectric nanogenerator for tactile imitation application, NANO ENERGY, vol. 83, art.no. 105809, (2021) 10.1016/J.NANOEN.2021.105809
+					IF CITARE: 17.881
+		[27.8] Lu, L; Chen, AN; Chen, Y; Cheng, LJ; Wu, JM; Liu, RZ; Shi, YS, Effect of sintering temperature on microstructure, crystal structure and dielectric performance of Ba0.67Sr0.33TiO3 ceramics prepared by a novel direct coagulation casting via high valence counter ions (DCC-HVCI) method, CERAM INT, vol. 47(3), pp. 4055-4061, , (2021) 10.1016/J.CERAMINT.2020.09.277
+					IF CITARE: 4.527
+		[27.9] Coondoo, I; Panwar, N; Krylova, S; Krylov, A; Alikin, D; Jakka, SK; Turygin, A; Shur, VY; Kholkin, AL, Temperature-dependent Raman spectroscopy, domain morphology and photoluminescence studies in lead-free BCZT ceramic, CERAM INT, vol. 47(2), pp. 2828-2838, , (2021) 10.1016/J.CERAMINT.2020.09.137
+					IF CITARE: 4.527
+		[27.10] Horchidan, N; Padurariu, L; Ciomaga, CE; Curecheriu, L; Airimioaei, M; Doroftei, F; Tufescu, F; Mitoseriu, L, Room temperature phase superposition as origin of enhanced functional properties in BaTiO3 - based ceramics, J EUR CERAM SOC, vol. 40(4), pp. 1258-1268, , (2020) 10.1016/J.JEURCERAMSOC.2019.11.088
+					IF CITARE: 5.302
+		[27.11] Bijalwan, V; Tofel, P; Spotz, Z; Castkova, K; Sobola, D; Erhart, J; Maca, K, Processing of 0.55(Ba0.9Ca0.1)TiO3-0.45Ba(Sn0.2Ti0.8)O-3 lead-free ceramics with high piezoelectricity, J AM CERAM SOC, vol. 103(8), pp. 4611-4624, , (2020) 10.1111/JACE.17090
+					IF CITARE: 3.784
+		[27.12] Kumar, R; Singh, I; Meena, R; Asokan, K; Birajdar, B; Patnaik, S, Effect of La-doping on dielectric properties and energy storage density of lead-free Ba(Ti0.95Sn0.05)O-3 ceramics, MATER RES BULL, vol. 123, art.no. 110694, (2020) 10.1016/J.MATERRESBULL.2019.110694
+					IF CITARE: 4.641
+		[27.13] Spitsin, AI; Bush, AA; Kozlov, VI; Stepanov, AV; Kamentsev, KE; Tishchenko, EA, Effect of Composition on the Dielectric Properties of (1-x)Ba(Ti0.75Sn0.25)O-3 center dot xPbTiO(3) Solid Solutions, INORG MATER+, vol. 56(3), pp. 297-303, , (2020) 10.1134/S0020168520020168
+					IF CITARE: 0.864
+		[27.14] Ansari, MA; Sreenivas, K, Effects of disorder activated scattering and defect-induced phase on the ferroelectric properties of BaSnxTi1-xO3 (0 <= x <= 0.28) ceramics, CERAM INT, vol. 45(16), pp. 20738-20749, , (2019) 10.1016/J.CERAMINT.2019.07.058
+					IF CITARE: 3.830
+		[27.15] Lin, Y; Li, D; Mang, M; Zhan, SL; Yang, YD; Yang, HB; Yuan, QB, Excellent Energy-Storage Properties Achieved in BaTiO3-Based Lead-Free Relaxor Ferroelectric Ceramics via Domain Engineering on the Nanoscale, ACS APPL MATER INTER, vol. 11(40), pp. 36824-36830, , (2019) 10.1021/ACSAMI.9B10819
+					IF CITARE: 8.758
+		[27.16] Veerapandiyan, VK; Deluca, M; Misture, ST; Schulze, WA; Pilgrim, SM; Tidrow, SC, Dielectric and structural studies of ferroelectric phase evolution in dipole-pair substituted barium titanate ceramics, J AM CERAM SOC, vol. 103(1), pp. 287-296, , (2020) 10.1111/JACE.16713
+					IF CITARE: 3.784
+		[27.17] Bijalwan, V; Hughes, H; Pooladvand, H; Tofel, P; Nan, B; Holcman, V; Bai, Y; Button, TW, The effect of sintering temperature on the microstructure and functional properties of BCZT-xCeO(2) lead free ceramics, MATER RES BULL, vol. 114, pp. 121-129, , (2019) 10.1016/J.MATERRESBULL.2019.02.031
+					IF CITARE: 4.019
+		[27.18] Tan, YQ; Viola, G; Koval, V; Yu, CY; Mahajan, A; Zhang, JL; Zhang, HB; Zhou, XS; Tarakina, NV; Yan, HX, On the origin of grain size effects in Ba(Ti0.96Sn0.04)O-3 perovskite ceramics, J EUR CERAM SOC, vol. 39(6), pp. 2064-2075, , (2019) 10.1016/J.JEURCERAMSOC.2019.01.041
+					IF CITARE: 4.495
+		[27.19] Kola, L; Murali, D; Pal, S; Nanda, BRK; Murugavel, P, Enhanced bulk photovoltaic response in Sn doped BaTiO3 through composition dependent structural transformation, APPL PHYS LETT, vol. 114(18), art.no. 183901, (2019) 10.1063/1.5088635
+					IF CITARE: 3.597
+		[27.20] Saleem, M; Mishra, A; Varshney, D, High-Temperature Firing Effect on the Structure and Dielectric Properties of (0.5) La0.8Sr0.2MnO3 (LSMO) + (0.5) Ba<bold>(0.5)</bold>K<bold>(0.5)</bold>TiO3 (BKT) Composite, J SUPERCOND NOV MAGN, vol. 32(5), pp. 1475-1487, , (2019) 10.1007/S10948-018-4865-7
+					IF CITARE: 1.244
+		[27.21] Qin, LC; Zhou, CR; Li, QN; Yang, L; Xu, JW; Chen, GH; Yuan, CL; Rao, GH, Temperature-driven phase transitions and enhanced piezoelectric responses in Ba(Ti0.92Sn0.08)O-3 lead-free ceramic, CERAM INT, vol. 45(4), pp. 4461-4466, , (2019) 10.1016/J.CERAMINT.2018.11.125
+					IF CITARE: 3.830
+		[27.22] Zhao, CL; Wu, HJ; Li, F; Cai, YQ; Zhang, Y; Song, DS; Wu, JG; Lyu, X; Yin, J; Xiao, DQ; Zhu, JG; Pennycook, SJ, Practical High Piezoelectricity in Barium Titanate Ceramics Utilizing Multiphase Convergence with Broad Structural Flexibility, J AM CHEM SOC, vol. 140(45), pp. 15252-15260, , (2018) 10.1021/JACS.8B07844
+					IF CITARE: 14.695
+		[27.23] Kola, L; Swain, AB; Rath, M; Rao, MSR; Murugavel, P, Impedance characteristics and PTCR effect in lead free BaTi1-xSnxO3 piezoceramics, MATER RES BULL, vol. 106, pp. 371-378, , (2018) 10.1016/J.MATERRESBULL.2018.06.021
+					IF CITARE: 3.355
+		[27.24] Ramovatar; Coondoo, I; Satapathy, S; Kumar, N; Panwar, N, Dielectric, Piezoelectric Enhancement and Photoluminescent Behavior in Low Temperature Sintered Pr-Modified Ba0.85Ca0.15Zr0.1Ti0.9O3 Ceramics, J ELECTRON MATER, vol. 47(10), pp. 5870-5878, , (2018) 10.1007/S11664-018-6472-6
+					IF CITARE: 1.676
+		[27.25] Lee, HY; Luo, J; Zhou, Z; Sun, W; Li, JF, Macroscopic and local approaches of phase transition in sol-gel synthesized (Bi0.5Na0.5)TiO3-SrTiO3 thin films, PHYS CHEM CHEM PHYS, vol. 20(22), pp. 15236-15243, , (2018) 10.1039/C8CP01830H
+					IF CITARE: 3.567
+		[27.26] Keswani, BC; Saraf, D; Patil, SI; Kshirsagar, A; James, AR; Kolekar, YD; Ramana, CV, Role of A-site Ca and B-site Zr substitution in BaTiO3 lead-free compounds: Combined experimental and first principles density functional theoretical studies, J APPL PHYS, vol. 123(20), art.no. 204104, (2018) 10.1063/1.5021249
+					IF CITARE: 2.328
+		[27.27] Pan, H; Ma, J; Ma, J; Zhang, QH; Liu, XZ; Guan, B; Gu, L; Zhang, X; Zhang, YJ; Li, LL; Shen, Y; Lin, YH; Nan, CW, Giant energy density and high efficiency achieved in bismuth ferrite-based film capacitors via domain engineering, NAT COMMUN, vol. 9, art.no. 1813, (2018) 10.1038/S41467-018-04189-6
+					IF CITARE: 11.878
+		[27.28] Zouari, I; Sassi, Z; Seveyrat, L; Abdelmoula, N; Lebrun, L; Khemakhem, H, Structural, dielectric, piezoelectric, ferroelectric and electro-caloric properties of Ba1-xCaxTi0.975(Nb0.5Yb0.5)(0.025)O-3 lead-free ceramics, CERAM INT, vol. 44(7), pp. 8018-8025, , (2018) 10.1016/J.CERAMINT.2018.01.242
+					IF CITARE: 3.450
+		[27.29] Deluca, M; Al-Jlaihawi, ZG; Reichmann, K; Bell, AMT; Feteira, A, Remarkable impact of low BiYbO3 doping levels on the local structure and phase transitions of BaTiO3, J MATER CHEM A, vol. 6(13), pp. 5443-5451, , (2018) 10.1039/C7TA11096K
+					IF CITARE: 10.733
+		[27.30] Kumar, R; Asokan, K; Patnaik, S; Birajdar, B, Combined effect of oxygen annealing and La-doping in broadening the phase transition of Ba(Zr0.2Ti0.8)O-3 ceramics, J ALLOY COMPD, vol. 737, pp. 561-567, , (2018) 10.1016/J.JALLCOM.2017.11.344
+					IF CITARE: 4.175
+		[27.31] Abdelkafi, Z; Kriaa, I, Electrocaloric and dielectric studies of lead-free BaTi1-x(Nb0.5Yb0.5)(x)O-3 (x=0.1, x=0.125) ceramics, CERAM INT, vol. 44(4), pp. 4413-4418, , (2018) 10.1016/J.CERAMINT.2017.12.041
+					IF CITARE: 3.450
+		[27.32] Ansari, MA; Sreenivas, K, Influence of Sn doping in BaSnxTi1-xO3 ceramics on Microstructural and Dielectric Properties, AIP CONF PROC, vol. 1953, art.no. 090029, (2018) 10.1063/1.5032876
+					IF CITARE: 0.000
+		[27.33] Baraskar, BG; Kambale, RC; James, AR; Mahesh, ML; Ramana, CV; Kolekar, YD, Ferroelectric, piezoelectric and electrostrictive properties of Sn4+-modified Ba0.7Ca0.3TiO3 lead-free electroceramics, J AM CERAM SOC, vol. 100(12), pp. 5755-5765, , (2017) 10.1111/JACE.15073
+					IF CITARE: 2.956
+		[27.34] Zouari, I; Abdelkafi, Z; Seveyrat, L; Sassi, Z; Perrin, V; Abdelmoula, N; Lebrun, L; Khemakhem, H, Improved piezoelectric and electro-caloric effects in the BaTi0.975(Nb0.5Yb0.5)(0.025)O-3 lead-free ceramic characterized by phase-coexistence at room temperature, MATER CHEM PHYS, vol. 200, pp. 121-127, , (2017) 10.1016/J.MATCHEMPHYS.2017.07.075
+					IF CITARE: 2.210
+		[27.35] Pop, MV; Horchidan, N; Ianculescu, AC; Mitoseriu, L, Frequency mixing application based on BaTiO3 ceramic: Design and functional characterization, INT J APPL CERAM TEC, vol. 14(4), pp. 593-603, , (2017) 10.1111/IJAC.12707
+					IF CITARE: 1.165
+		[27.36] Wu, LW; Wang, XH; Shen, ZB; Luo, BC; Li, LT, Re-entrant relaxor behavior in BaTiO3-Bi(Zn2/3Nb1/3)O-3 ceramics, J AM CERAM SOC, vol. 100(2), pp. 511-514, , (2017) 10.1111/JACE.14618
+					IF CITARE: 2.956
+		[27.37] Manescu, V; Paltanea, G; Gavrila, H; Ionescu, G, COMPARAT IVE ANALYSIS OF DIFFERENT POINTWISE IDENTIFICATION TECHNIQUES, USED IN SCALAR PREISACH MODEL, U POLITEH BUCH SER A, vol. 79(2), pp. 285-296, , (2017) 
+					IF CITARE: 0.461
+		[27.38] Wu, LW; Wang, XH; Shen, ZB; Li, LT, Ferroelectric to Relaxor Transition in BaTiO3-Bi(Zn2/3Nb1/3)O-3 Ceramics, J AM CERAM SOC, vol. 100(1), pp. 265-275, , (2017) 10.1111/JACE.14564
+					IF CITARE: 2.956
+ autori=7 	 	 IF=2.210 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=38 	 UAIC I.12 (Citari)=522.646
+-----------------------------------------------------------------------
+[28] 	 Stoleriu, L; Pinzaru, C; Stancu, A, Micromagnetic analysis of switching and domain structure in amorphous metallic nanowires, APPL PHYS LETT, vol. 100(12), art.no. 122404, (2012) 10.1063/1.3696046
+		[28.1] Ahmadi, F; Donahue, MJ; Sozer, Y; Tsukerman, I, Micromagnetic study of soft magnetic nanowires, AIP ADV, vol. 9(12), art.no. 125047, (2019) 10.1063/1.5130157
+					IF CITARE: 1.337
+		[28.2] Yi, J, Fabrication and Properties of Micro- and Nanoscale Metallic Glassy Wires: A Review, ADV ENG MATER, vol. 20(5), art.no. 1700875, (2018) 10.1002/ADEM.201700875
+					IF CITARE: 2.906
+ autori=3 	 	 IF=3.794 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=34.953
+-----------------------------------------------------------------------
+[29] 	 Stoleriu, L; Chakraborty, P; Hauser, A; Stancu, A; Enachescu, C, Thermal hysteresis in spin-crossover compounds studied within the mechanoelastic model and its potential application to nanoparticles, PHYS REV B, vol. 84(13), art.no. 134102, (2011) 10.1103/PHYSREVB.84.134102
+		[29.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[29.2] Cruddas, J; Powell, BJ, Multiple Coulomb phases with temperature-tunable ice rules in pyrochlore spin-crossover materials, PHYS REV B, vol. 104(2), art.no. 024433, (2021) 10.1103/PHYSREVB.104.024433
+					IF CITARE: 4.036
+		[29.3] Kelai, M; Repain, V; Tauzin, A; Li, WB; Girard, Y; Lagoute, J; Rousset, S; Otero, E; Sainctavit, P; Arrio, MA; Boillot, ML; Mallah, T; Enachescu, C; Bellec, A, Thermal Bistability of an Ultrathin Film of Iron(II) Spin-Crossover Molecules Directly Adsorbed on a Metal Surface, J PHYS CHEM LETT, vol. 12(26), pp. 6152-6158, , (2021) 10.1021/ACS.JPCLETT.1C01366
+					IF CITARE: 6.475
+		[29.4] Cruddas, J; Ruzzi, G; Powell, BJ, Spin-state smectics in spin crossover materials, J APPL PHYS, vol. 129(18), art.no. 185102, (2021) 10.1063/5.0045763
+					IF CITARE: 2.546
+		[29.5] Collet, E; Azzolina, G, Coupling and decoupling of spin crossover and ferroelastic distortion: Unsymmetric hysteresis loop, phase diagram, and sequence of phases, PHYS REV MATER, vol. 5(4), art.no. 044401, (2021) 10.1103/PHYSREVMATERIALS.5.044401
+					IF CITARE: 0.000
+		[29.6] Cain, JM; Felts, AC; Meisel, MW; Talham, DR, Crafting Spin-State Switchable Strain Profiles within Rb-x Co[Fe(CN)(6)](y)@KjNi[Cr(CN)(6)](k) Heterostructures, CHEM MATER, vol. 33(1), pp. 246-255, , (2021) 10.1021/ACS.CHEMMATER.0C03608
+					IF CITARE: 9.811
+		[29.7] Sy, M; Boukheddaden, K, Dance of Interference Patterns during the Spin Transition of a Single Crystal, J PHYS CHEM C, vol. 124(51), pp. 28093-28107, , (2020) 10.1021/ACS.JPCC.0C08742
+					IF CITARE: 4.126
+		[29.8] Etcheverry-Berrios, A; Parsons, S; Kamenev, KV; Probert, MR; Moggach, SA; Murrie, M; Brechin, EK, Putting the Squeeze on Molecule-Based Magnets: Exploiting Pressure to Develop Magneto-Structural Correlations in Paramagnetic Coordination Compounds, MAGNETOCHEMISTRY, vol. 6(3), art.no. 32, (2020) 10.3390/MAGNETOCHEMISTRY6030032
+					IF CITARE: 0.000
+		[29.9] Affes, K; Slimani, A; Singh, Y; Maalej, A; Boukheddaden, K, Magneto-elastic properties of a spin crossover membrane deposited on a deformable substrate, J PHYS-CONDENS MAT, vol. 32(25), art.no. 255402, (2020) 10.1088/1361-648X/AB7A4A
+					IF CITARE: 2.333
+		[29.10] Laisney, J; Morineau, D; Enachescu, C; Tanasa, R; Riviere, E; Guillot, R; Boillot, ML, Mechanical-tuning of the cooperativity of SC particles via the matrix crystallization and related size effects, J MATER CHEM C, vol. 8(21), pp. 7067-7078, , (2020) 10.1039/D0TC00067A
+					IF CITARE: 7.393
+		[29.11] Piedrahita-Bello, M; Martin, B; Salmon, L; Molnar, G; Demont, P; Bousseksou, A, Mechano-electric coupling in P(VDF-TrFE)/spin crossover composites, J MATER CHEM C, vol. 8(18), pp. 6042-6051, , (2020) 10.1039/D0TC00780C
+					IF CITARE: 7.393
+		[29.12] Ndiaye, M; Boukheddaden, K, Electro-elastic Modelling of the Two-Step High-Spin to Low-Spin Relaxation with Transient Self-Organized Spin States in 2D Spin Crossover Solids, J PHYS SOC JPN, vol. 89(1), art.no. 014004, (2020) 10.7566/JPSJ.89.014004
+					IF CITARE: 1.828
+		[29.13] Cruddas, J; Powell, BJ, Spin-State Ice in Elastically Frustrated Spin-Crossover Materials, J AM CHEM SOC, vol. 141(50), pp. 19790-19799, , (2019) 10.1021/JACS.9B09191
+					IF CITARE: 14.612
+		[29.14] Molnar, G; Mikolasek, M; Ridier, K; Fahs, A; Nicolazzi, W; Bousseksou, A, Molecular Spin Crossover Materials: Review of the Lattice Dynamical Properties, ANN PHYS-BERLIN, vol. 531(10), art.no. 1900076, (2019) 10.1002/ANDP.201900076
+					IF CITARE: 3.317
+		[29.15] Tanasa, R; Enachescu, C; Laisney, J; Morineau, D; Stancu, A; Boillot, ML, Unraveling the Environment Influence in Bistable Spin-Crossover Particles Using Magnetometric and Calorimetric First-Order Reverse Curves, J PHYS CHEM C, vol. 123(15), pp. 10120-10129, , (2019) 10.1021/ACS.JPCC.9B00768
+					IF CITARE: 4.189
+		[29.16] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K, Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle, CHEM PHYS LETT, vol. 718, pp. 46-53, , (2019) 10.1016/J.CPLETT.2019.01.034
+					IF CITARE: 2.029
+		[29.17] Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Guenee, L; Besnard, C, Evidencing size-dependent cooperative effects on spin crossover nanoparticles following their HSLS relaxation, J MATER CHEM C, vol. 6(46), pp. 12698-12706, , (2018) 10.1039/C8TC04315A
+					IF CITARE: 6.641
+		[29.18] Slimani, A; Boukheddaden, K, An electro-elastic theory for the mechanically-assisted photo-induced spin transition in core-shell spin-crossover nanoparticles, PHYS CHEM CHEM PHYS, vol. 20(45), pp. 28583-28591, , (2018) 10.1039/C8CP05578E
+					IF CITARE: 3.567
+		[29.19] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[29.20] Pavlik, J; Linares, J, Microscopic models of spin crossover, CR CHIM, vol. 21(12), pp. 1170-1178, , (2018) 10.1016/J.CRCI.2018.05.001
+					IF CITARE: 2.366
+		[29.21] Salmon, L; Catala, L, Spin-crossover nanoparticles and nanocomposite materials, CR CHIM, vol. 21(12), pp. 1230-1269, , (2018) 10.1016/J.CRCI.2018.07.009
+					IF CITARE: 2.366
+		[29.22] Tailleur, E; Marchivie, M; Itie, JP; Rosa, P; Daro, N; Guionneau, P, Pressure-Induced Spin-Crossover Features at Variable Temperature Revealed by In Situ Synchrotron Powder X-ray Diffraction, CHEM-EUR J, vol. 24(54), pp. 14495-14499, , (2018) 10.1002/CHEM.201802828
+					IF CITARE: 5.160
+		[29.23] Delgado, T; Enachescu, C; Tissot, A; Guenee, L; Hauser, A; Besnard, C, The influence of the sample dispersion on a solid surface in the thermal spin transition of [Fe(pz)Pt(CN)(4)] nanoparticles, PHYS CHEM CHEM PHYS, vol. 20(18), pp. 12493-12502, , (2018) 10.1039/C8CP00775F
+					IF CITARE: 3.567
+		[29.24] Felts, AC; Slimani, A; Cain, JM; Andrus, MJ; Ahir, AR; Abboud, KA; Meisel, MW; Boukheddaden, K; Talham, DR, Control of the Speed of a Light-Induced Spin Transition through Mesoscale Core-Shell Architecture, J AM CHEM SOC, vol. 140(17), pp. 5814-5824, , (2018) 10.1021/JACS.8B02148
+					IF CITARE: 14.695
+		[29.25] Traiche, R; Sy, M; Boukheddaden, K, Elastic Frustration in 1D Spin-Crossover Chains: Evidence of Multi-Step Transitions and Self-Organizations of the Spin States, J PHYS CHEM C, vol. 122(7), pp. 4083-4096, , (2018) 10.1021/ACS.JPCC.7B12304
+					IF CITARE: 4.309
+		[29.26] Molnar, G; Rat, S; Salmon, L; Nicolazzi, W; Bousseksou, A, Spin Crossover Nanomaterials: From Fundamental Concepts to Devices, ADV MATER, vol. 30(5), art.no. 17003862, (2018) 10.1002/ADMA.201703862
+					IF CITARE: 25.809
+		[29.27] Felix, G; Mikolasek, M; Molnar, G; Nicolazzi, W; Bousseksou, A, Control of the Phase Stability in Spin-Crossover Core-Shell Nanoparticles through the Elastic Interface Energy, EUR J INORG CHEM, vol. (3-4), pp. 435-442, , (2018) 10.1002/EJIC.201700121
+					IF CITARE: 2.578
+		[29.28] Gudyma, I; Maksymov, A; Polonska, K, Cooperative Phenomena in Spin-Crossover Molecular Crystals, SPRINGER PROC PHYS, vol. 214, pp. 427-441, , (2018) 10.1007/978-3-319-92567-7_27
+					IF CITARE: 0.000
+		[29.29] Morawetz, K, Interacting Systems far from Equilibrium: Quantum Kinetic Theory, , vol. , , (2018) 10.1093/OSO/9780198797241.001
+					IF CITARE: 0.000
+		[29.30] Gudyma, I; Maksymov, A, Reprint of "Surface-environment effects in spin crossover solids", APPL SURF SCI, vol. 424, pp. 258-263, , (2017) 10.1016/J.APSUSC.2017.05.247
+					IF CITARE: 4.439
+		[29.31] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[29.32] Shalabaeva, V; Mikolasek, M; Manrique-Juarez, MD; Bas, AC; Rat, S; Salmon, L; Nicolazzi, W; Molnar, G; Bousseksou, A, Unprecedented Size Effect on the Phase Stability of Molecular Thin Films Displaying a Spin Transition, J PHYS CHEM C, vol. 121(45), pp. 25617-25621, , (2017) 10.1021/ACS.JPCC.7B10124
+					IF CITARE: 4.484
+		[29.33] Mikolasek, M; Felix, G; Peng, H; Rat, S; Terki, F; Chumakov, AI; Salmon, L; Molnar, G; Nicolazzi, W; Bousseksou, A, Finite-size effects on the lattice dynamics in spin crossover nanomaterials. I. Nuclear inelastic scattering investigation, PHYS REV B, vol. 96(3), art.no. 035426, (2017) 10.1103/PHYSREVB.96.035426
+					IF CITARE: 3.813
+		[29.34] Park, ST; van der Veen, RM, Modeling nonequilibrium dynamics of phase transitions at the nanoscale: Application to spin-crossover, STRUCT DYN-US, vol. 4(4), art.no. 044028, (2017) 10.1063/1.4985058
+					IF CITARE: 0.000
+		[29.35] Traiche, R; Oubouchou, H; Zergoug, M; Boukheddaden, K, Spatio-temporal aspects of the domain propagation in a spin-crossover lattice with defect, PHYSICA B, vol. 516, pp. 77-84, , (2017) 10.1016/J.PHYSB.2017.04.026
+					IF CITARE: 1.453
+		[29.36] Gudyma, I; Maksymov, A, Surface-environment effects in spin crossover solids, APPL SURF SCI, vol. 407, pp. 93-98, , (2017) 10.1016/J.APSUSC.2017.02.124
+					IF CITARE: 4.439
+		[29.37] Slimani, A; Khemakhem, H; Boukheddaden, K, Structural synergy in a core-shell spin crossover nanoparticle investigated by an electroelastic model, PHYS REV B, vol. 95(17), art.no. 174104, (2017) 10.1103/PHYSREVB.95.174104
+					IF CITARE: 3.813
+ autori=5 	 	 IF=3.691 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=37 	 UAIC I.12 (Citari)=755.440
+-----------------------------------------------------------------------
+[30] 	 Siadou, N; Androutsopoulos, M; Panagiotopoulos, I; Stoleriu, L; Stancu, A; Bakas, T; Alexandrakis, V, Magnetization reversal in [Ni/Pt](6)/Pt(x)/[Co/Pt](6) multilayers, J MAGN MAGN MATER, vol. 323(12), pp. 1671-1677, (2011) 10.1016/J.JMMM.2011.01.035
+		[30.1] Ilse, SE; Gross, F; Schutz, G; Grafe, J; Goering, E, Understanding the interaction of soft and hard magnetic components in NdFeB with first-order reversal curves, PHYS REV B, vol. 103(2), art.no. 024425, (2021) 10.1103/PHYSREVB.103.024425
+					IF CITARE: 4.036
+		[30.2] Son, K; Schutz, G; Goering, E, Effect of the soft layer thickness on magnetization reversal process of exchange-spring nanomagnet patterns, CURR APPL PHYS, vol. 20(4), pp. 477-483, , (2020) 10.1016/J.CAP.2020.01.014
+					IF CITARE: 2.480
+		[30.3] Vermeulen, BF; Ciubotaru, F; Popovici, MI; Swerts, J; Couet, S; Radu, IP; Stancu, A; Temst, K; Groeseneken, G; Adelmann, C; Martens, KM, Ferroelectric Control of Magnetism in Ultrathin HfO2\Co\Pt Layers, ACS APPL MATER INTER, vol. 11(37), pp. 34385-34393, , (2019) 10.1021/ACSAMI.9B07973
+					IF CITARE: 8.758
+		[30.4] Strungaru, M; Ruta, S; Postolache, P; Stancu, A; Panagiotopoulos, I; Chantrell, RW, Universal thermal decay produced by time scaling in magnetic films and recording media, J MAGN MAGN MATER, vol. 486, art.no. 165281, (2019) 10.1016/J.JMMM.2019.165281
+					IF CITARE: 2.717
+		[30.5] Alam, MNK; Thesberg, M; Kaczer, B; Roussel, P; Vermeulen, B; Truijen, B; Popovici, MI; Ragnarsson, LA; Verhulst, AS; Horiguchi, N; Heyns, M; Van Houdt, J, HfZrO Ferroelectric Characterization and Parameterization of Response to Arbitrary Excitation Waveform, IEEE SOI3DSUB MICRO, vol. , , (2019) 10.1109/S3S46989.2019.9320678
+					IF CITARE: 0.000
+ autori=7 	 	 IF=1.780 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=5 	 UAIC I.12 (Citari)=58.546
+-----------------------------------------------------------------------
+[31] 	 Enachescu, C; Stoleriu, L; Stancu, A; Hauser, A, Study of the relaxation in diluted spin crossover molecular magnets in the framework of the mechano-elastic model, J APPL PHYS, vol. 109(7), art.no. 07B111, (2011) 10.1063/1.3556702
+		[31.1] Cruddas, J; Ruzzi, G; Powell, BJ, Spin-state smectics in spin crossover materials, J APPL PHYS, vol. 129(18), art.no. 185102, (2021) 10.1063/5.0045763
+					IF CITARE: 2.546
+		[31.2] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+ autori=4 	 	 IF=2.168 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=29.560
+-----------------------------------------------------------------------
+[32] 	 Bodale, I; Stoleriu, L; Stancu, A, Reversible and Irreversible Components Evaluation in Hysteretic Processes Using First and Second-Order Magnetization Curves, IEEE T MAGN, vol. 47(1), pp. 192-197, (2011) 10.1109/TMAG.2010.2083679
+		[32.1] Gilbert, DA; Murray, PD; De Rojas, J; Dumas, RK; Davies, JE; Liu, K, Reconstructing phase-resolved hysteresis loops from first-order reversal curves, SCI REP-UK, vol. 11(1), art.no. 4018, (2021) 10.1038/S41598-021-83349-Z
+					IF CITARE: 4.379
+		[32.2] Geshev, J; Bianchi, LL; Lopes, RF; Cuaila, JLS; Harres, A, Assessing interface coupling in exchange-biased systems via in-field interaction plots, J MAGN MAGN MATER, vol. 497, art.no. 166061, (2020) 10.1016/J.JMMM.2019.166061
+					IF CITARE: 2.993
+		[32.3] Bodale, I; Stancu, A, Reversible and Irreversible Processes in Drying and Wetting of Soil, MATERIALS, vol. 13(1), art.no. 135, (2020) 10.3390/MA13010135
+					IF CITARE: 3.623
+		[32.4] Geshev, J, Interaction plots obtained from in-field magnetization instead of remanence measurements, J MAGN MAGN MATER, vol. 467, pp. 135-138, , (2018) 10.1016/J.JMMM.2018.07.009
+					IF CITARE: 2.683
+		[32.5] Abugri, JB; Visscher, PB; Gupta, S; Chen, PJ; Shull, RD, FORC plus analysis of perpendicular magnetic tunnel junctions, J APPL PHYS, vol. 124(4), art.no. 043901, (2018) 10.1063/1.5031786
+					IF CITARE: 2.328
+		[32.6] Hu, PX; Zhao, X; Roberts, AP; Heslop, D; Rossel, RAV, Magnetic Domain State Diagnosis in Soils, Loess, and Marine Sediments From Multiple First-Order Reversal Curve-Type DiagramsTaxonomyNumbers, J GEOPHYS RES-SOL EA, vol. 123(2), pp. 998-1017, , (2018) 10.1002/2017JB015195
+					IF CITARE: 3.585
+		[32.7] Cao, Y; Ahmadzadeh, M; Xu, K; Dodrill, B; McCloy, JS, Multiphase magnetic systems: Measurement and simulation, J APPL PHYS, vol. 123(2), art.no. 023902, (2018) 10.1063/1.5010799
+					IF CITARE: 2.328
+		[32.8] Zhao, X; Roberts, AP; Heslop, D; Paterson, GA; Li, YL; Li, JH, Magnetic domain state diagnosis using hysteresis reversal curves, J GEOPHYS RES-SOL EA, vol. 122(7), pp. 4767-4789, , (2017) 10.1002/2016JB013683
+					IF CITARE: 3.482
+ autori=3 	 	 IF=1.363 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=8 	 UAIC I.12 (Citari)=196.007
+-----------------------------------------------------------------------
+[33] 	 Enachescu, C; Stoleriu, L; Stancu, A; Hauser, A, Competition between photoexcitation and relaxation in spin-crossover complexes in the frame of a mechanoelastic model, PHYS REV B, vol. 82(10), art.no. 104114, (2010) 10.1103/PHYSREVB.82.104114
+		[33.1] Ogou, SB; Oke, TD; Hontinfinde, F; Boukheddaden, K, Magnetic phase transitions in an electroelastic model for magnetically ordered spin-crossover solids, PHYS REV B, vol. 104(2), art.no. 024431, (2021) 10.1103/PHYSREVB.104.024431
+					IF CITARE: 4.036
+		[33.2] Plesca, D; Railean, A; Tanasa, R; Stancu, A; Laisney, J; Boillot, ML; Enachescu, C, Unexpected Light-Induced Thermal Hysteresis in Matrix Embedded Low Cooperative Spin Crossover Microparticles, MAGNETOCHEMISTRY, vol. 7(5), art.no. 59, (2021) 10.3390/MAGNETOCHEMISTRY7050059
+					IF CITARE: 0.000
+		[33.3] Ogou, SB; Oke, DT; Hontinfinde, F; Boukheddaden, K, Dynamical Properties of Spin-Crossover Solids Within the Kinetic Spin-1 BEG Model in the Presence of a Time-Dependent Magnetic Field, ADV THEOR SIMUL, vol. 2(5), art.no. 1800192, (2019) 10.1002/ADTS.201800192
+					IF CITARE: 0.000
+		[33.4] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[33.5] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+ autori=4 	 	 IF=3.774 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=5 	 UAIC I.12 (Citari)=53.815
+-----------------------------------------------------------------------
+[34] 	 Apetrei, AM; Enachescu, C; Tanasa, R; Stoleriu, L; Stancu, A, Monte Carlo simulations of phase transitions and lattice dynamics in an atom-phonon model for spin transition compounds, PHYSICA B, vol. 405(17), pp. 3673-3678, (2010) 10.1016/J.PHYSB.2010.05.063
+		[34.1] Costin, C, Secondary electron emission under magnetic constraint: from Monte Carlo simulations to analytical solution, SCI REP-UK, vol. 11(1), art.no. 1874, (2021) 10.1038/S41598-021-81345-X
+					IF CITARE: 4.379
+ autori=5 	 	 IF=0.856 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=19.516
+-----------------------------------------------------------------------
+[35] 	 Enachescu, C; Nishino, M; Miyashita, S; Hauser, A; Stancu, A; Stoleriu, L, Cluster evolution in spin crossover systems observed in the frame of a mechano-elastic model, EPL-EUROPHYS LETT, vol. 91(2), art.no. 27003, (2010) 10.1209/0295-5075/91/27003
+		[35.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[35.2] Ogou, SB; Oke, TD; Hontinfinde, F; Boukheddaden, K, Magnetic phase transitions in an electroelastic model for magnetically ordered spin-crossover solids, PHYS REV B, vol. 104(2), art.no. 024431, (2021) 10.1103/PHYSREVB.104.024431
+					IF CITARE: 4.036
+		[35.3] Cruddas, J; Ruzzi, G; Powell, BJ, Spin-state smectics in spin crossover materials, J APPL PHYS, vol. 129(18), art.no. 185102, (2021) 10.1063/5.0045763
+					IF CITARE: 2.546
+		[35.4] Pillet, S, Spin-crossover materials: Getting the most from x-ray crystallography, J APPL PHYS, vol. 129(18), art.no. 181101, (2021) 10.1063/5.0047681
+					IF CITARE: 2.546
+		[35.5] Slimani, A; Boukheddaden, K, Microscopic electroelastic modeling of a spin transition with symmetry breaking, J APPL PHYS, vol. 129(17), art.no. 173901, (2021) 10.1063/5.0045860
+					IF CITARE: 2.546
+		[35.6] Cazelles, C; Linares, J; Ndiaye, M; Dahoo, PR; Boukheddaden, K, Hexagonal-Shaped Spin Crossover Nanoparticles Studied by Ising-Like Model Solved by Local Mean Field Approximation, MAGNETOCHEMISTRY, vol. 7(5), art.no. 69, (2021) 10.3390/MAGNETOCHEMISTRY7050069
+					IF CITARE: 0.000
+		[35.7] Ndiaye, M; Belmouri, NE; Linares, J; Boukheddaden, K, Elastic Origin of the Unsymmetrical Thermal Hysteresis in Spin Crossover Materials: Evidence of Symmetry Breaking, SYMMETRY-BASEL, vol. 13(5), art.no. 828, (2021) 10.3390/SYM13050828
+					IF CITARE: 2.713
+		[35.8] Ndiaye, M; Singh, Y; Fourati, H; Sy, M; Lo, B; Boukheddaden, K, Isomorphism between the electro-elastic modeling of the spin transition and Ising-like model with competing interactions: Elastic generation of self-organized spin states, J APPL PHYS, vol. 129(15), art.no. 153901, (2021) 10.1063/5.0045689
+					IF CITARE: 2.546
+		[35.9] Nieto-Castro, D; Garces-Pineda, FA; Moneo-Corcuera, A; Pato-Doldan, B; Gispert-Guirado, F; Benet-Buchholz, J; Galan-Mascaros, JR, Effect of Mechanochemical Recrystallization on the Thermal Hysteresis of 1D Fe-II-triazole Spin Crossover Polymers, INORG CHEM, vol. 59(12), pp. 7953-7959, , (2020) 10.1021/ACS.INORGCHEM.9B03284
+					IF CITARE: 5.165
+		[35.10] Molnar, G; Mikolasek, M; Ridier, K; Fahs, A; Nicolazzi, W; Bousseksou, A, Molecular Spin Crossover Materials: Review of the Lattice Dynamical Properties, ANN PHYS-BERLIN, vol. 531(10), art.no. 1900076, (2019) 10.1002/ANDP.201900076
+					IF CITARE: 3.317
+		[35.11] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[35.12] Nishino, M; Rikvold, PA; Omand, C; Miyashita, S, Multistability in an unusual phase diagram induced by the competition between antiferromagnetic-like short-range and ferromagnetic-like long-range interactions, PHYS REV B, vol. 98(14), art.no. 144402, (2018) 10.1103/PHYSREVB.98.144402
+					IF CITARE: 3.736
+		[35.13] Gudyma, I; Maksymov, A; Polonska, K, Cooperative Phenomena in Spin-Crossover Molecular Crystals, SPRINGER PROC PHYS, vol. 214, pp. 427-441, , (2018) 10.1007/978-3-319-92567-7_27
+					IF CITARE: 0.000
+		[35.14] Mihalache, D; Baran, V; Nicolin, AI, PROCEEDINGS OF THE ROMANIAN ACADEMY - SERIES A: AN ACCOUNT OF THE PHYSICS SECTION, ROM REP PHYS, vol. 70(3), art.no. 113, (2018) 
+					IF CITARE: 1.940
+		[35.15] Gudyma, I; Maksymov, A, Reprint of "Surface-environment effects in spin crossover solids", APPL SURF SCI, vol. 424, pp. 258-263, , (2017) 10.1016/J.APSUSC.2017.05.247
+					IF CITARE: 4.439
+		[35.16] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[35.17] Taniguchi, D; Okabayashi, J; Hotta, C, Pressure-induced two-step spin crossover in a double-layered elastic model, PHYS REV B, vol. 96(17), art.no. 174104, (2017) 10.1103/PHYSREVB.96.174104
+					IF CITARE: 3.813
+		[35.18] Nishino, M; Miyashita, S; Rikvold, PA, Nontrivial phase diagram for an elastic interaction model of spin crossover materials with antiferromagnetic-like short-range interactions, PHYS REV B, vol. 96(14), art.no. 144425, (2017) 10.1103/PHYSREVB.96.144425
+					IF CITARE: 3.813
+		[35.19] Gudyma, I; Maksymov, A, Surface-environment effects in spin crossover solids, APPL SURF SCI, vol. 407, pp. 93-98, , (2017) 10.1016/J.APSUSC.2017.02.124
+					IF CITARE: 4.439
+ autori=6 	 	 IF=2.753 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=19 	 UAIC I.12 (Citari)=212.893
+-----------------------------------------------------------------------
+[36] 	 Stoleriu, L; Bodale, I; Apetrei, A; Stancu, A, Realistic Reversible Magnetization Component in Preisach-Type Models, IEEE T MAGN, vol. 46(6), pp. 2341-2344, (2010) 10.1109/TMAG.2010.2045643
+		[36.1] Bodale, I; Stancu, A, Reversible and Irreversible Processes in Drying and Wetting of Soil, MATERIALS, vol. 13(1), art.no. 135, (2020) 10.3390/MA13010135
+					IF CITARE: 3.623
+		[36.2] Chwastek, K; Baghel, APS; Ram, BS; Borowik, B; Daniel, L; Kulkarni, SV, On some approaches to model reversible magnetization processes, J PHYS D APPL PHYS, vol. 51(14), art.no. 145003, (2018) 10.1088/1361-6463/AAB0E1
+					IF CITARE: 2.829
+ autori=4 	 	 IF=1.053 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=37.260
+-----------------------------------------------------------------------
+[37] 	 Stoleriu, L; Postolache, P; Andrei, P; Stancu, A, Rotational first-order reversal curves (rFORC) diagrams, OPTOELECTRON ADV MAT, vol. 4(4), pp. 505-508, (2010) 
+ autori=4 	 	 IF=0.477 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[38] 	 Stancu, A; Negulescu, B; Tanasa, R; Stoleriu, L, Preisach model for systems with asymmetric First order reversal curve (FORC) distribution, OPTOELECTRON ADV MAT, vol. 4(3), pp. 361-364, (2010) 
+ autori=4 	 	 IF=0.477 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[39] 	 Enachescu, C; Stoleriu, L; Stancu, A; Hauser, A, Model for Elastic Relaxation Phenomena in Finite 2D Hexagonal Molecular Lattices, PHYS REV LETT, vol. 102(25), art.no. 257204, (2009) 10.1103/PHYSREVLETT.102.257204
+		[39.1] Nishino, M; Singh, Y; Boukheddaden, K; Miyashita, S, Tutorial on elastic interaction models for multistep spin-crossover transitions, J APPL PHYS, vol. 130(14), art.no. 141102, (2021) 10.1063/5.0065890
+					IF CITARE: 2.546
+		[39.2] Traiche, R; Oubouchou, H; Boukheddaden, K, Elastic Modeling of Two-Step Transitions in Sterically Frustrated 1D Binuclear Spin-Crossover Chains, SYMMETRY-BASEL, vol. 13(10), art.no. 1836, (2021) 10.3390/SYM13101836
+					IF CITARE: 2.713
+		[39.3] Pillet, S, Spin-crossover materials: Getting the most from x-ray crystallography, J APPL PHYS, vol. 129(18), art.no. 181101, (2021) 10.1063/5.0047681
+					IF CITARE: 2.546
+		[39.4] Slimani, A; Boukheddaden, K, Microscopic electroelastic modeling of a spin transition with symmetry breaking, J APPL PHYS, vol. 129(17), art.no. 173901, (2021) 10.1063/5.0045860
+					IF CITARE: 2.546
+		[39.5] Linares, J; Cazelles, C; Dahoo, PR; Boukheddaden, K, A First Order Phase Transition Studied by an Ising-Like Model Solved by Entropic Sampling Monte Carlo Method, SYMMETRY-BASEL, vol. 13(4), art.no. 587, (2021) 10.3390/SYM13040587
+					IF CITARE: 2.713
+		[39.6] Gudyma, A; Gudyma, I, 1D spin-crossover molecular chain with degenerate states, J APPL PHYS, vol. 129(12), art.no. 123905, (2021) 10.1063/5.0042465
+					IF CITARE: 2.546
+		[39.7] Sy, M; Boukheddaden, K, Dance of Interference Patterns during the Spin Transition of a Single Crystal, J PHYS CHEM C, vol. 124(51), pp. 28093-28107, , (2020) 10.1021/ACS.JPCC.0C08742
+					IF CITARE: 4.126
+		[39.8] Frechette, LB; Dellago, C; Geissler, PL, Origin of mean-field behavior in an elastic Ising model, PHYS REV B, vol. 102(2), art.no. 024102, (2020) 10.1103/PHYSREVB.102.024102
+					IF CITARE: 4.036
+		[39.9] Affes, K; Slimani, A; Singh, Y; Maalej, A; Boukheddaden, K, Magneto-elastic properties of a spin crossover membrane deposited on a deformable substrate, J PHYS-CONDENS MAT, vol. 32(25), art.no. 255402, (2020) 10.1088/1361-648X/AB7A4A
+					IF CITARE: 2.333
+		[39.10] Fourati, H; Boukheddaden, K, Experimental evidence for the elastic long-range character of the spin crossover transition in cooperative single crystals, PHYS REV B, vol. 101(22), art.no. 224101, (2020) 10.1103/PHYSREVB.101.224101
+					IF CITARE: 4.036
+		[39.11] Ivashko, V; Angelsky, O, Properties of 2D hexagonal spin-crossover nanosystem: a Monte Carlo study, APPL NANOSCI, vol. 10(12), pp. 4487-4493, , (2020) 10.1007/S13204-020-01420-Z
+					IF CITARE: 3.674
+		[39.12] Singh, Y; Oubouchou, H; Nishino, M; Miyashita, S; Boukheddaden, K, Elastic-frustration-driven unusual magnetoelastic properties in a switchable core-shell spin-crossover nanostructure, PHYS REV B, vol. 101(5), art.no. 054105, (2020) 10.1103/PHYSREVB.101.054105
+					IF CITARE: 4.036
+		[39.13] Ndiaye, M; Boukheddaden, K, Electro-elastic Modelling of the Two-Step High-Spin to Low-Spin Relaxation with Transient Self-Organized Spin States in 2D Spin Crossover Solids, J PHYS SOC JPN, vol. 89(1), art.no. 014004, (2020) 10.7566/JPSJ.89.014004
+					IF CITARE: 1.828
+		[39.14] Affes, K; Fourati, H; Slimani, A; Boukheddaden, K, Effects of High-Spin-Low-Spin Lattice Misfit on the Nucleation and Propagation Velocities of Elastic Interfaces in Cooperative Spin-Crossover Solids, J PHYS SOC JPN, vol. 88(12), art.no. 124701, (2019) 10.7566/JPSJ.88.124701
+					IF CITARE: 1.579
+		[39.15] Nishino, M; Enachescu, C; Miyashita, S, Multistep spin-crossover transitions induced by the interplay between short- and long-range interactions with frustration on a triangular lattice, PHYS REV B, vol. 100(13), art.no. 134414, (2019) 10.1103/PHYSREVB.100.134414
+					IF CITARE: 3.575
+		[39.16] Molnar, G; Mikolasek, M; Ridier, K; Fahs, A; Nicolazzi, W; Bousseksou, A, Molecular Spin Crossover Materials: Review of the Lattice Dynamical Properties, ANN PHYS-BERLIN, vol. 531(10), art.no. 1900076, (2019) 10.1002/ANDP.201900076
+					IF CITARE: 3.317
+		[39.17] Klokishner, S; Reu, O, Modeling of Spin Crossover in Iron(II) Complexes with N4S2 Coordination, J PHYS CHEM C, vol. 123(32), pp. 19984-19990, , (2019) 10.1021/ACS.JPCC.9B05064
+					IF CITARE: 4.189
+		[39.18] Fourmental, C; Mondal, S; Banerjee, R; Bellec, A; Garreau, Y; Coati, A; Chacon, C; Girard, Y; Lagoute, J; Rousset, S; Boillot, ML; Mallah, T; Enachescu, C; Barreteau, C; Dappe, YJ; Smogunov, A; Narasimhan, S; Repain, V, Importance of Epitaxial Strain at a Spin-Crossover Molecule-Metal Interface, J PHYS CHEM LETT, vol. 10(14), pp. 4103-4109, , (2019) 10.1021/ACS.JPCLETT.9B01303
+					IF CITARE: 6.710
+		[39.19] Ogou, SB; Oke, DT; Hontinfinde, F; Boukheddaden, K, Dynamical Properties of Spin-Crossover Solids Within the Kinetic Spin-1 BEG Model in the Presence of a Time-Dependent Magnetic Field, ADV THEOR SIMUL, vol. 2(5), art.no. 1800192, (2019) 10.1002/ADTS.201800192
+					IF CITARE: 0.000
+		[39.20] Bertoni, R; Collet, E; Cailleau, H; Boillot, ML; Tissot, A; Laisney, J; Enachescu, C; Lorenc, M, Temperature dependence of the cooperative out-of-equilibrium elastic switching in a spin-crossover material, PHYS CHEM CHEM PHYS, vol. 21(12), pp. 6606-6612, , (2019) 10.1039/C8CP07074A
+					IF CITARE: 3.430
+		[39.21] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K, Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle, CHEM PHYS LETT, vol. 718, pp. 46-53, , (2019) 10.1016/J.CPLETT.2019.01.034
+					IF CITARE: 2.029
+		[39.22] Berthier, F; Creuze, J; Gabard, T; Legrand, B; Marinica, MC; Mottet, C, Order-disorder or phase-separation transition: Analysis of the Au-Pd system by the effective site energy model, PHYS REV B, vol. 99(1), art.no. 014108, (2019) 10.1103/PHYSREVB.99.014108
+					IF CITARE: 3.575
+		[39.23] Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Guenee, L; Besnard, C, Evidencing size-dependent cooperative effects on spin crossover nanoparticles following their HSLS relaxation, J MATER CHEM C, vol. 6(46), pp. 12698-12706, , (2018) 10.1039/C8TC04315A
+					IF CITARE: 6.641
+		[39.24] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[39.25] Gaspar, AB; Molnar, G; Rotaru, A; Shepherd, HJ, Pressure effect investigations on spin-crossover coordination compounds, CR CHIM, vol. 21(12), pp. 1095-1120, , (2018) 10.1016/J.CRCI.2018.07.010
+					IF CITARE: 2.366
+		[39.26] Nicolazzi, W; Bousseksou, A, Thermodynamical aspects of the spin crossover phenomenon, CR CHIM, vol. 21(12), pp. 1060-1074, , (2018) 10.1016/J.CRCI.2018.10.003
+					IF CITARE: 2.366
+		[39.27] Nishino, M; Rikvold, PA; Omand, C; Miyashita, S, Multistability in an unusual phase diagram induced by the competition between antiferromagnetic-like short-range and ferromagnetic-like long-range interactions, PHYS REV B, vol. 98(14), art.no. 144402, (2018) 10.1103/PHYSREVB.98.144402
+					IF CITARE: 3.736
+		[39.28] Ostrovsky, S; Palii, A; Decurtins, S; Liu, SX; Klokishner, S, Microscopic Approach to the Problem of Cooperative Spin Crossover in Polynuclear Cluster Compounds: Application to Tetranuclear Iron(II) Square Complexes, J PHYS CHEM C, vol. 122(38), pp. 22150-22159, , (2018) 10.1021/ACS.JPCC.8B05599
+					IF CITARE: 4.309
+		[39.29] Paez-Espejo, M; Sy, M; Boukheddaden, K, Unprecedented Bistability in Spin-Crossover Solids Based on the Retroaction of the High Spin Low-Spin Interface with the Crystal Bending, J AM CHEM SOC, vol. 140(38), pp. 11954-11964, , (2018) 10.1021/JACS.8B04802
+					IF CITARE: 14.695
+		[39.30] Oubouchou, H; Singh, Y; Boukheddaden, K, Magnetoelastic modeling of core-shell spin-crossover nanocomposites, PHYS REV B, vol. 98(1), art.no. 014106, (2018) 10.1103/PHYSREVB.98.014106
+					IF CITARE: 3.736
+		[39.31] Laisney, J; Shepherd, HJ; Rechignat, L; Molnar, G; Riviere, E; Boillot, ML, Pressure-induced switching properties of the iron(III) spin-transition complex [Fe-III(3-OMeSalEen)(2)]PF6, PHYS CHEM CHEM PHYS, vol. 20(23), pp. 15951-15959, , (2018) 10.1039/C8CP02376J
+					IF CITARE: 3.567
+		[39.32] Delgado, T; Enachescu, C; Tissot, A; Guenee, L; Hauser, A; Besnard, C, The influence of the sample dispersion on a solid surface in the thermal spin transition of [Fe(pz)Pt(CN)(4)] nanoparticles, PHYS CHEM CHEM PHYS, vol. 20(18), pp. 12493-12502, , (2018) 10.1039/C8CP00775F
+					IF CITARE: 3.567
+		[39.33] Fourati, H; Milin, E; Slimani, A; Chastanet, G; Abid, Y; Triki, S; Boukheddaden, K, Interplay between a crystal's shape and spatiotemporal dynamics in a spin transition material, PHYS CHEM CHEM PHYS, vol. 20(15), pp. 10142-10154, , (2018) 10.1039/C8CP00868J
+					IF CITARE: 3.567
+		[39.34] Traiche, R; Sy, M; Boukheddaden, K, Elastic Frustration in 1D Spin-Crossover Chains: Evidence of Multi-Step Transitions and Self-Organizations of the Spin States, J PHYS CHEM C, vol. 122(7), pp. 4083-4096, , (2018) 10.1021/ACS.JPCC.7B12304
+					IF CITARE: 4.309
+		[39.35] Molnar, G; Rat, S; Salmon, L; Nicolazzi, W; Bousseksou, A, Spin Crossover Nanomaterials: From Fundamental Concepts to Devices, ADV MATER, vol. 30(5), art.no. 17003862, (2018) 10.1002/ADMA.201703862
+					IF CITARE: 25.809
+		[39.36] Mihalache, D; Baran, V; Nicolin, AI, PROCEEDINGS OF THE ROMANIAN ACADEMY - SERIES A: AN ACCOUNT OF THE PHYSICS SECTION, ROM REP PHYS, vol. 70(3), art.no. 113, (2018) 
+					IF CITARE: 1.940
+		[39.37] Ridier, K; Molnaar, G; Salmon, L; Nicolazzi, W; Bousseksou, A, Hysteresis, nucleation and growth phenomena in spin-crossover solids, SOLID STATE SCI, vol. 74, pp. A1-A22, , (2017) 10.1016/J.SOLIDSTATESCIENCES.2017.10.014
+					IF CITARE: 1.861
+		[39.38] Nishino, M; Miyashita, S; Rikvold, PA, Nontrivial phase diagram for an elastic interaction model of spin crossover materials with antiferromagnetic-like short-range interactions, PHYS REV B, vol. 96(14), art.no. 144425, (2017) 10.1103/PHYSREVB.96.144425
+					IF CITARE: 3.813
+		[39.39] Gaina, R; Enachescu, C, NUCLEATION IN SPIN TRANSITION MOLECULAR MAGNETS: A PARALLEL BETWEEN ISING-LIKE AND MECHANOELASTIC MODELS, P ROMANIAN ACAD A, vol. 18(3), pp. 215-222, , (2017) 
+					IF CITARE: 1.752
+		[39.40] Park, ST; van der Veen, RM, Modeling nonequilibrium dynamics of phase transitions at the nanoscale: Application to spin-crossover, STRUCT DYN-US, vol. 4(4), art.no. 044028, (2017) 10.1063/1.4985058
+					IF CITARE: 0.000
+		[39.41] Traiche, R; Oubouchou, H; Zergoug, M; Boukheddaden, K, Spatio-temporal aspects of the domain propagation in a spin-crossover lattice with defect, PHYSICA B, vol. 516, pp. 77-84, , (2017) 10.1016/J.PHYSB.2017.04.026
+					IF CITARE: 1.453
+		[39.42] Mikolasek, M; Nicolazzi, W; Terki, F; Molnar, G; Bousseksou, A, Investigation of surface energies in spin crossover nanomaterials: the role of surface relaxations, PHYS CHEM CHEM PHYS, vol. 19(19), pp. 12276-12281, , (2017) 10.1039/C7CP01364G
+					IF CITARE: 3.906
+ autori=4 	 	 IF=7.328 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=42 	 UAIC I.12 (Citari)=924.210
+-----------------------------------------------------------------------
+[40] 	 Stoleriu, L; Enachescu, C; Stancu, A; Hauser, A, Elastic Model for Complex Hysteretic Processes in Molecular Magnets, IEEE T MAGN, vol. 44(11), pp. 3052-3055, (2008) 10.1109/TMAG.2008.2002793
+		[40.1] Babilotte, K; Boukheddaden, K, Theoretical investigations on the pressure effects in spin-crossover materials: Reentrant phase transitions and other behavior, PHYS REV B, vol. 101(17), art.no. 174113, (2020) 10.1103/PHYSREVB.101.174113
+					IF CITARE: 4.036
+		[40.2] Morgunov, RB; Koplak, OV; Kirman, MV, Time resolved FORC analysis and magnetic anisotropy in K-0.4[Cr(CN)(6)][Mn(S)-pn] (S)-pnH(0.6) chiral molecular magnets, J PHYS-CONDENS MAT, vol. 31(8), art.no. 085801, (2019) 10.1088/1361-648X/AAF77A
+					IF CITARE: 2.707
+		[40.3] Enachescu, C; Nicolazzi, W, Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems, CR CHIM, vol. 21(12), pp. 1179-1195, , (2018) 10.1016/J.CRCI.2018.02.004
+					IF CITARE: 2.366
+		[40.4] Taniguchi, D; Okabayashi, J; Hotta, C, Pressure-induced two-step spin crossover in a double-layered elastic model, PHYS REV B, vol. 96(17), art.no. 174104, (2017) 10.1103/PHYSREVB.96.174104
+					IF CITARE: 3.813
+ autori=4 	 	 IF=1.129 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=4 	 UAIC I.12 (Citari)=74.610
+-----------------------------------------------------------------------
+[41] 	 Stoleriu, L; Andrei, P; Stancu, A, First order reversal curves identification procedures for vector models of hysteresis, J APPL PHYS, vol. 103(7), art.no. 07D923, (2008) 10.1063/1.2834252
+		[41.1] Chen, L; Yi, QY; Ben, T; Zhang, ZY; Wang, YH, Parameter identification of Preisach model based on velocity-controlled particle swarm optimization method, AIP ADV, vol. 11(1), art.no. 015022, (2021) 10.1063/9.0000030
+					IF CITARE: 1.548
+ autori=3 	 	 IF=2.201 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=13.653
+-----------------------------------------------------------------------
+[42] 	 Andrei, P; Oniciuc, L; Stancu, A; Stoleriu, L, Identification techniques for phenomenological models of hysteresis based on the conjugate gradient method, J MAGN MAGN MATER, vol. 316(2), pp. E330-E333, (2007) 10.1016/J.JMMM.2007.02.137
+		[42.1] Chen, L; Yi, QY; Ben, T; Zhang, ZY; Wang, YH, Parameter identification of Preisach model based on velocity-controlled particle swarm optimization method, AIP ADV, vol. 11(1), art.no. 015022, (2021) 10.1063/9.0000030
+					IF CITARE: 1.548
+ autori=4 	 	 IF=1.704 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=10.240
+-----------------------------------------------------------------------
+[43] 	 Chiriac, H; Lupu, N; Stoleriu, L; Postolache, P; Stancu, A, Experimental and micromagnetic first-order reversal curves analysis in NdFeB-based bulk "exchange spring'' - type permanent magnets, J MAGN MAGN MATER, vol. 316(2), pp. 177-180, (2007) 10.1016/J.JMMM.2007.02.049
+		[43.1] Gilbert, DA; Murray, PD; De Rojas, J; Dumas, RK; Davies, JE; Liu, K, Reconstructing phase-resolved hysteresis loops from first-order reversal curves, SCI REP-UK, vol. 11(1), art.no. 4018, (2021) 10.1038/S41598-021-83349-Z
+					IF CITARE: 4.379
+		[43.2] Ilse, SE; Gross, F; Schutz, G; Grafe, J; Goering, E, Understanding the interaction of soft and hard magnetic components in NdFeB with first-order reversal curves, PHYS REV B, vol. 103(2), art.no. 024425, (2021) 10.1103/PHYSREVB.103.024425
+					IF CITARE: 4.036
+		[43.3] Son, K; Schutz, G; Goering, E, Effect of the soft layer thickness on magnetization reversal process of exchange-spring nanomagnet patterns, CURR APPL PHYS, vol. 20(4), pp. 477-483, , (2020) 10.1016/J.CAP.2020.01.014
+					IF CITARE: 2.480
+		[43.4] Gross, F; Martinez-Garcia, JC; Ilse, SE; Schutz, G; Goering, E; Rivas, M; Grafe, J, gFORC: A graphics processing unit accelerated first-order reversal-curve calculator, J APPL PHYS, vol. 126(16), art.no. 163901, (2019) 10.1063/1.5120495
+					IF CITARE: 2.286
+		[43.5] Okamoto, S; Miyazawa, K; Yomogita, T; Kikuchi, N; Kitakami, O; Toyoki, K; Billington, D; Kotani, Y; Nakamura, T; Sasaki, T; Ohkubo, T; Hono, K; Takada, Y; Sato, T; Kaneko, Y; Kato, A, Temperature dependent magnetization reversal process of a Ga-doped Nd-Fe-B sintered magnet based on first-order reversal curve analysis, ACTA MATER, vol. 178, pp. 90-98, , (2019) 10.1016/J.ACTAMAT.2019.08.004
+					IF CITARE: 7.656
+		[43.6] Gross, F; Ilse, SE; Schutz, G; Grafe, J; Goering, E, Interpreting first-order reversal curves beyond the Preisach model: An experimental permalloy microarray investigation, PHYS REV B, vol. 99(6), art.no. 064401, (2019) 10.1103/PHYSREVB.99.064401
+					IF CITARE: 3.575
+		[43.7] Pan, MX; Li, Z; Wu, Q; Ge, HL; Xu, H, Study of the role of Ti doping on magnetic properties of some nanocomposite alloys of alpha-Fe/Nd2Fe14B type, J MAGN MAGN MATER, vol. 471, pp. 457-463, , (2019) 10.1016/J.JMMM.2018.09.097
+					IF CITARE: 2.717
+		[43.8] Miyazawa, K; Okamoto, S; Yomogita, T; Kikuchi, N; Kitakami, O; Toyoki, K; Billington, D; Kotani, Y; Nakamura, T; Sasaki, T; Ohkubo, T; Hono, K, First-order reversal curve analysis of a Nd-Fe-B sintered magnet with soft X-ray magnetic circular dichroism microscopy, ACTA MATER, vol. 162, pp. 1-9, , (2019) 10.1016/J.ACTAMAT.2018.09.053
+					IF CITARE: 7.656
+		[43.9] Yomogita, T; Okamoto, S; Kikuchi, N; Kitakami, O; Sepehri-Amin, H; Ohkubo, T; Hono, K; Akiya, T; Hioki, K; Hattori, A, Temperature and field direction dependences of first-order reversal curve (FORC) diagrams of hot-deformed Nd-Fe-B magnets, J MAGN MAGN MATER, vol. 447, pp. 110-115, , (2018) 10.1016/J.JMMM.2017.09.072
+					IF CITARE: 2.683
+		[43.10] Wen, QQ; Wang, Y; Gong, XL, The magnetic field dependent dynamic properties of magnetorheological elastomers based on hard magnetic particles, SMART MATER STRUCT, vol. 26(7), art.no. 075012, (2017) 10.1088/1361-665X/AA7396
+					IF CITARE: 2.963
+		[43.11] Camacho, KI; Pariona, N; Martinez, AI; Baggio-Saitovitch, E; Herrera-Trejo, M; Perry, DL, Structural and magnetic properties of the products of the transformation of ferrihydrite: Effect of cobalt dications, J MAGN MAGN MATER, vol. 429, pp. 339-347, , (2017) 10.1016/J.JMMM.2017.01.035
+					IF CITARE: 3.046
+		[43.12] Proenca, MP; Sousa, CT; Ventura, J; Garcia, J; Vazquez, M; Araujo, JP, Identifying weakly-interacting single domain states in Ni nanowire arrays by FORC, J ALLOY COMPD, vol. 699, pp. 421-429, , (2017) 10.1016/J.JALLCOM.2016.12.340
+					IF CITARE: 3.779
+		[43.13] Muralidhar, S; Grafe, J; Chen, YC; Etter, M; Gregori, G; Ener, S; Sawatzki, S; Hono, K; Gutfleisch, O; Kronmuller, H; Schutz, G; Goering, EJ, Temperature-dependent first-order reversal curve measurements on unusually hard magnetic low-temperature phase of MnBi, PHYS REV B, vol. 95(2), art.no. 024413, (2017) 10.1103/PHYSREVB.95.024413
+					IF CITARE: 3.813
+ autori=5 	 	 IF=1.704 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=13 	 UAIC I.12 (Citari)=230.276
+-----------------------------------------------------------------------
+[44] 	 Olariu, CS; Stoleriu, L; Stancu, A, Influence of material anisotropy in the switching toggle mode in MRAM devices, J MAGN MAGN MATER, vol. 316(2), pp. E302-E305, (2007) 10.1016/J.JMMM.2007.02.127
+ autori=3 	 	 IF=1.704 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[45] 	 Stancu, A; Stoleriu, L; Andrei, P, Vectorial Preisach-type model designed for parallel computing, J MAGN MAGN MATER, vol. 316(2), pp. E309-E312, (2007) 10.1016/J.JMMM.2007.02.130
+ autori=3 	 	 IF=1.704 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[46] 	 Olariu, CS; Stoleriu, L; Stancu, A, Simulation of toggle mode switching in MRAM'S, J OPTOELECTRON ADV M, vol. 9(4), pp. 1140-1142, (2007) 
+ autori=3 	 	 IF=0.827 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[47] 	 Mitoseriu, L; Ciomaga, CE; Buseaglia, V; Stoleriu, L; Piazza, D; Galassi, C; Stancu, A; Nanni, P, Hysteresis and tunability characteristics of Ba(Zr,Ti)O-3 ceramics described by First Order Reversal Curves diagrams, J EUR CERAM SOC, vol. 27(13-15), pp. 3723-3726, (2007) 10.1016/J.JEURCERAMSOC.2007.02.085
+		[47.1] Nadaud, K; Borderon, C; Renoud, R; Bah, M; Ginestar, S; Gundel, HW, Evidence of residual ferroelectric contribution in antiferroelectric lead-zirconate thin films by first-order reversal curves, APPL PHYS LETT, vol. 118(4), art.no. 042902, (2021) 10.1063/5.0043293
+					IF CITARE: 3.791
+		[47.2] Jin, L; Qiao, J; Hou, L; Wang, L; Zhang, L; Lu, X; Du, HL; Wei, XY; Yan, Y; Liu, G, High electrostrictive effect in La3+-doped Ba(Zr0.2Ti0.8)O-3 lead-free ferroelectrics, J ALLOY COMPD, vol. 776, pp. 599-605, , (2019) 10.1016/J.JALLCOM.2018.10.307
+					IF CITARE: 4.650
+		[47.3] Goh, Y; Jeon, S, First-order reversal curve diagrams for characterizing ferroelectricity of Hf0.5Zr0.5O2 films grown at different rates, J VAC SCI TECHNOL B, vol. 36(5), art.no. 052204, (2018) 10.1116/1.5046762
+					IF CITARE: 1.351
+		[47.4] Guan, SB; Yang, HB; Chen, GC; Zhang, R, Microstructure, Piezoelectric, and Ferroelectric Properties of BZT-Modified BiFeO3-BaTiO3 Multiferroic Ceramics with MnO2 and CuO Addition, J ELECTRON MATER, vol. 47(5), pp. 2625-2633, , (2018) 10.1007/S11664-018-6083-2
+					IF CITARE: 1.676
+		[47.5] Wu, LW; Wang, XH; Shen, ZB; Li, LT, Ferroelectric to Relaxor Transition in BaTiO3-Bi(Zn2/3Nb1/3)O-3 Ceramics, J AM CERAM SOC, vol. 100(1), pp. 265-275, , (2017) 10.1111/JACE.14564
+					IF CITARE: 2.956
+ autori=8 	 	 IF=1.562 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=5 	 UAIC I.12 (Citari)=42.310
+-----------------------------------------------------------------------
+[48] 	 Stoleriu, L; Stancu, A; Mitoseriu, L; Piazza, D; Galassi, C, Analysis of switching properties of porous ferroelectric ceramics by means of first-order reversal curve diagrams, PHYS REV B, vol. 74(17), art.no. 174107, (2006) 10.1103/PHYSREVB.74.174107
+		[48.1] Fuchigami, T; Sumiya, Y; Kakimoto, K, Ferroelectric domain formation and photocatalytic activity on porous alkali niobate piezoelectric ceramics, J CERAM SOC JPN, vol. 129(7), pp. 425-431, , (2021) 10.2109/JCERSJ2.21052
+					IF CITARE: 1.224
+		[48.2] Wu, SH; Xu, LX; Zhu, K; Song, BJ; Yan, H; Shen, B; Zhai, JW, Improved piezoelectricity and energy storage performance simultaneously achieved in [001]-preferentially oriented Bi0.5Na0.5TiO3-BaTiO3-BiMnO3 thin films grown on Nb-doped SrTiO3 single-crystalline substrates, J EUR CERAM SOC, vol. 41(4), pp. 2539-2547, , (2021) 10.1016/J.JEURCERAMSOC.2020.12.017
+					IF CITARE: 5.302
+		[48.3] Mercadelli, E; Galassi, C, How to Make Porous Piezoelectrics? Review on Processing Strategies, IEEE T ULTRASON FERR, vol. 68(2), pp. 217-228, , (2021) 10.1109/TUFFC.2020.3006248
+					IF CITARE: 2.725
+		[48.4] Nadaud, K; Borderon, C; Renoud, R; Bah, M; Ginestar, S; Gundel, HW, Evidence of residual ferroelectric contribution in antiferroelectric lead-zirconate thin films by first-order reversal curves, APPL PHYS LETT, vol. 118(4), art.no. 042902, (2021) 10.1063/5.0043293
+					IF CITARE: 3.791
+		[48.5] Lukacs, VA; Stanculescu, R; Curecheriu, L; Ciomaga, CE; Horchidan, N; Cioclea, C; Mitoseriu, L, Structural and functional properties of BaTiO3 porous ceramics produced by using pollen as sacrificial template, CERAM INT, vol. 46(1), pp. 523-530, , (2020) 10.1016/J.CERAMINT.2019.08.292
+					IF CITARE: 4.527
+		[48.6] Schultheiss, J; Roscow, JI; Koruza, J, Orienting anisometric pores in ferroelectrics: Piezoelectric property engineering through local electric field distributions, PHYS REV MATER, vol. 3(8), art.no. 084408, (2019) 10.1103/PHYSREVMATERIALS.3.084408
+					IF CITARE: 0.000
+		[48.7] Wang, CX; Yang, XM; Wang, ZJ; He, C; Long, XF, Investigation of switching behavior of acceptor-doped ferroelectric ceramics, ACTA MATER, vol. 170, pp. 100-108, , (2019) 10.1016/J.ACTAMAT.2019.03.033
+					IF CITARE: 7.656
+		[48.8] Urbanaviciute, I; Cornelissen, TD; Meng, X; Sijbesma, RP; Kemerink, M, Physical reality of the Preisach model for organic ferroelectrics, NAT COMMUN, vol. 9, art.no. 4409, (2018) 10.1038/S41467-018-06717-W
+					IF CITARE: 11.878
+		[48.9] Zhang, Y; Roscow, J; Lewis, R; Khanbareh, H; Topolov, VY; Xie, MY; Bowen, CR, Understanding the effect of porosity on the polarisation-field response of ferroelectric materials, ACTA MATER, vol. 154, pp. 100-112, , (2018) 10.1016/J.ACTAMAT.2018.05.007
+					IF CITARE: 7.293
+		[48.10] Zhao, H; Wu, PP; Du, LF; Du, HL, Effect of the nanopore on ferroelectric domain structures and switching properties, COMP MATER SCI, vol. 148, pp. 216-223, , (2018) 10.1016/J.COMMATSCI.2018.02.022
+					IF CITARE: 2.644
+		[48.11] Khachaturyan, R; Zhukov, S; Schultheiss, J; Galassi, C; Reimuth, C; Koruza, J; von Seggern, H; Genenko, YA, Polarization-switching dynamics in bulk ferroelectrics with isometric and oriented anisometric pores, J PHYS D APPL PHYS, vol. 50(4), art.no. 045303, (2017) 10.1088/1361-6463/AA519C
+					IF CITARE: 2.373
+		[48.12] Manescu, V; Paltanea, G; Gavrila, H; Ionescu, G, COMPARAT IVE ANALYSIS OF DIFFERENT POINTWISE IDENTIFICATION TECHNIQUES, USED IN SCALAR PREISACH MODEL, U POLITEH BUCH SER A, vol. 79(2), pp. 285-296, , (2017) 
+					IF CITARE: 0.461
+ autori=5 	 	 IF=3.107 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=12 	 UAIC I.12 (Citari)=223.496
+-----------------------------------------------------------------------
+[49] 	 Stoleriu, L; Stancu, A, Reversible magnetization processes in scalar Preisach-type models of hysteresis, J OPTOELECTRON ADV M, vol. 8(5), pp. 1710-1714, (2006) 
+ autori=2 	 	 IF=1.106 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[50] 	 Stoleriu, L; Stancu, A, Using experimental FORC distribution as input for a Preisach-type model, IEEE T MAGN, vol. 42(10), pp. 3159-3161, (2006) 10.1109/TMAG.2006.880112
+ autori=2 	 	 IF=0.938 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[51] 	 Stancu, A; Andrei, P; Stoleriu, L, Magnetic characterization of samples using first- and second-order reversal curve diagrams, J APPL PHYS, vol. 99(8), art.no. 08D702, (2006) 10.1063/1.2172539
+		[51.1] Grafe, J; Gross, F; Ilse, SE; Boltje, DB; Muralidhar, S; Goering, EJ, LeXtender: a software package for advanced MOKE acquisition and analysis, MEAS SCI TECHNOL, vol. 32(6), art.no. 067002, (2021) 10.1088/1361-6501/ABCDC0
+					IF CITARE: 2.046
+		[51.2] Geshev, J; Bianchi, LL; Lopes, RF; Cuaila, JLS; Harres, A, Assessing interface coupling in exchange-biased systems via in-field interaction plots, J MAGN MAGN MATER, vol. 497, art.no. 166061, (2020) 10.1016/J.JMMM.2019.166061
+					IF CITARE: 2.993
+		[51.3] Bodale, I; Stancu, A, Reversible and Irreversible Processes in Drying and Wetting of Soil, MATERIALS, vol. 13(1), art.no. 135, (2020) 10.3390/MA13010135
+					IF CITARE: 3.623
+		[51.4] Harrison, RJ; Zhao, X; Hu, PX; Sato, T; Heslop, D; Muxworthy, AR; Oda, H; Kuppili, VSC; Roberts, AP, Simulation of Remanent, Transient, and Induced FORC Diagrams for Interacting Particles With Uniaxial, Cubic, and Hexagonal Anisotropy, J GEOPHYS RES-SOL EA, vol. 124(12), pp. 12404-12429, , (2019) 10.1029/2019JB018050
+					IF CITARE: 3.638
+		[51.5] Gross, F; Ilse, SE; Schutz, G; Grafe, J; Goering, E, Interpreting first-order reversal curves beyond the Preisach model: An experimental permalloy microarray investigation, PHYS REV B, vol. 99(6), art.no. 064401, (2019) 10.1103/PHYSREVB.99.064401
+					IF CITARE: 3.575
+		[51.6] Geshev, J, Interaction plots obtained from in-field magnetization instead of remanence measurements, J MAGN MAGN MATER, vol. 467, pp. 135-138, , (2018) 10.1016/J.JMMM.2018.07.009
+					IF CITARE: 2.683
+		[51.7] Katkov, MV; Lubov, DP; Pershin, YV, Current-Voltage Characteristics of Commercial Ferroelectric Capacitors: Deviations from the Preisach Model, J CONTEMP PHYS-ARME+, vol. 53(1), pp. 65-72, , (2018) 10.3103/S1068337218010085
+					IF CITARE: 0.577
+		[51.8] Rivas, M; Gorria, P; Munoz-Gomez, C; Martinez-Garcia, JC, Quasi-Static AC FORC Measurements for Soft Magnetic Materials and Their Differential Interpretation, IEEE T MAGN, vol. 53(11), art.no. 2003606, (2017) 10.1109/TMAG.2017.2696165
+					IF CITARE: 1.467
+		[51.9] Hayashi, Y, Comparison of Demagnetization Curve of Nd-Fe-B Magnets Measured with Various Magnetization Measurement Systems, ELECTR COMMUN JPN, vol. 100(10), pp. 32-37, , (2017) 10.1002/ECJ.11982
+					IF CITARE: 0.261
+		[51.10] Zhao, X; Roberts, AP; Heslop, D; Paterson, GA; Li, YL; Li, JH, Magnetic domain state diagnosis using hysteresis reversal curves, J GEOPHYS RES-SOL EA, vol. 122(7), pp. 4767-4789, , (2017) 10.1002/2016JB013683
+					IF CITARE: 3.482
+ autori=3 	 	 IF=2.316 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=10 	 UAIC I.12 (Citari)=195.633
+-----------------------------------------------------------------------
+[52] 	 Stancu, A; Mitoseriu, L; Stoleriu, L; Piazza, D; Galassi, C; Ricinschi, D; Okuyama, M, Investigation of the switching characteristics in ferroelectrics by first-order reversal curve diagrams, PHYSICA B, vol. 372(1-2), pp. 226-229, (2006) 10.1016/J.PHYSB.2005.10.054
+		[52.1] Shi, ZX; Zhou, DY; Li, SD; Xu, J; Schroder, U, First-order reversal curve diagram and its application in investigation of polarization switching behavior of HfO2-based ferroelectric thin films, ACTA PHYS SIN-CH ED, vol. 70(12), art.no. 127702, (2021) 10.7498/APS.70.20210115
+					IF CITARE: 0.819
+		[52.2] Li, SD; Zhou, DY; Shi, ZX; Hoffmann, M; Mikolajick, T; Schroeder, U, Temperature-Dependent Subcycling Behavior of Si-Doped HfO2 Ferroelectric Thin Films, ACS APPL ELECTRON MA, vol. 3(5), pp. 2415-2422, , (2021) 10.1021/ACSAELM.1C00330
+					IF CITARE: 0.000
+ autori=7 	 	 IF=0.872 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=5.197
+-----------------------------------------------------------------------
+[53] 	 Mitoseriu, L; Stoleriu, L; Viviani, M; Piazza, D; Buscaglia, MT; Calderone, R; Buscaglia, V; Stancu, A; Nanni, P; Galassi, C, Influence of stoichiometry on the dielectric and ferroelectric properties of the tunable (Ba,Sr)TiO3 ceramics investigated by First Order Reversal Curves method, J EUR CERAM SOC, vol. 26(14), pp. 2915-2921, (2006) 10.1016/J.JEURCERAMSOC.2006.02.025
+		[53.1] Patru, RE; Ganea, CP; Stanciu, CA; Surdu, VA; Trusca, R; Ianculescu, AC; Pintilie, I; Pintilie, L, (Ba,Sr)TiO3 solid solutions sintered from sol-gel derived powders: An insight into the composition and temperature dependent dielectric behavior, CERAM INT, vol. 46(4), pp. 4180-4190, , (2020) 10.1016/J.CERAMINT.2019.10.136
+					IF CITARE: 4.527
+ autori=10 	 	 IF=1.576 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=10.054
+-----------------------------------------------------------------------
+[54] 	 Piazza, D; Stoleriu, L; Mitoseriu, L; Stancu, A; Galassi, C, Characterisation of porous PZT ceramics by first-order reversal curves (FORC) diagrams, J EUR CERAM SOC, vol. 26(14), pp. 2959-2962, (2006) 10.1016/J.JEURCERAMSOC.2006.02.026
+		[54.1] Yan, MY; Xiao, ZD; Ye, JJ; Yuan, X; Li, ZH; Bowen, C; Zhang, Y; Zhang, D, Porous ferroelectric materials for energy technologies: current status and future perspectives, ENERG ENVIRON SCI, vol. 14(12), pp. 6158-6190, , (2021) 10.1039/D1EE03025F
+					IF CITARE: 38.532
+		[54.2] Shi, ZX; Zhou, DY; Li, SD; Xu, J; Schroder, U, First-order reversal curve diagram and its application in investigation of polarization switching behavior of HfO2-based ferroelectric thin films, ACTA PHYS SIN-CH ED, vol. 70(12), art.no. 127702, (2021) 10.7498/APS.70.20210115
+					IF CITARE: 0.819
+		[54.3] Mercadelli, E; Galassi, C, How to Make Porous Piezoelectrics? Review on Processing Strategies, IEEE T ULTRASON FERR, vol. 68(2), pp. 217-228, , (2021) 10.1109/TUFFC.2020.3006248
+					IF CITARE: 2.725
+		[54.4] Wang, RZ; Tang, EL; Yang, GL; Han, YF; Chen, C, Discharge characteristics of fractured soft piezoelectric ceramics under repeated impact, CERAM INT, vol. 46(15), pp. 23499-23504, , (2020) 10.1016/J.CERAMINT.2020.06.119
+					IF CITARE: 4.527
+		[54.5] Coleman, K; Shetty, S; Hanrahan, B; Zhu, W; Trolier-McKinstry, S, Extrinsic contributions to the dielectric and pyroelectric properties of Pb-0.99[(Zr0.52Ti0.48)(0.98)Nb-0.02]O-3 thin films on Si and Ni substrates, J APPL PHYS, vol. 128(11), art.no. 114102, (2020) 10.1063/5.0014405
+					IF CITARE: 2.546
+		[54.6] Hu, TY; Ma, CR; Dai, YZ; Fan, QL; Liu, M; Jia, CL, Enhanced Energy Storage Performance of Lead-Free Capacitors in an Ultrawide Temperature Range via Engineering Paraferroelectric and Relaxor Ferroelectric Multilayer Films, ACS APPL MATER INTER, vol. 12(23), pp. 25930-25937, , (2020) 10.1021/ACSAMI.0C05560
+					IF CITARE: 9.229
+		[54.7] Lukacs, VA; Stanculescu, R; Curecheriu, L; Ciomaga, CE; Horchidan, N; Cioclea, C; Mitoseriu, L, Structural and functional properties of BaTiO3 porous ceramics produced by using pollen as sacrificial template, CERAM INT, vol. 46(1), pp. 523-530, , (2020) 10.1016/J.CERAMINT.2019.08.292
+					IF CITARE: 4.527
+		[54.8] Schultheiss, J; Roscow, JI; Koruza, J, Orienting anisometric pores in ferroelectrics: Piezoelectric property engineering through local electric field distributions, PHYS REV MATER, vol. 3(8), art.no. 084408, (2019) 10.1103/PHYSREVMATERIALS.3.084408
+					IF CITARE: 0.000
+		[54.9] Zhang, Y; Roscow, J; Lewis, R; Khanbareh, H; Topolov, VY; Xie, MY; Bowen, CR, Understanding the effect of porosity on the polarisation-field response of ferroelectric materials, ACTA MATER, vol. 154, pp. 100-112, , (2018) 10.1016/J.ACTAMAT.2018.05.007
+					IF CITARE: 7.293
+		[54.10] Pan, H; Ma, J; Ma, J; Zhang, QH; Liu, XZ; Guan, B; Gu, L; Zhang, X; Zhang, YJ; Li, LL; Shen, Y; Lin, YH; Nan, CW, Giant energy density and high efficiency achieved in bismuth ferrite-based film capacitors via domain engineering, NAT COMMUN, vol. 9, art.no. 1813, (2018) 10.1038/S41467-018-04189-6
+					IF CITARE: 11.878
+		[54.11] Manescu, V; Paltanea, G; Gavrila, H; Ionescu, G, COMPARAT IVE ANALYSIS OF DIFFERENT POINTWISE IDENTIFICATION TECHNIQUES, USED IN SCALAR PREISACH MODEL, U POLITEH BUCH SER A, vol. 79(2), pp. 285-296, , (2017) 
+					IF CITARE: 0.461
+ autori=5 	 	 IF=1.576 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=11 	 UAIC I.12 (Citari)=352.148
+-----------------------------------------------------------------------
+[55] 	 Stancu, A; Stoleriu, L; Postolache, P; Tanasa, R, New Preisach model for structured particulate ferromagnetic media, J MAGN MAGN MATER, vol. 290, pp. 490-493, (2005) 10.1016/J.JMMM.2004.11.509
+		[55.1] Skaliukh, AS, MATHEMATICAL 3D MODELS OF IRREVERSIBLE POLARIZATION PROCESSES OF A FERROELECTRICS AND FERROELASTICS POLYCRYSTAL, MATER PHYS MECH, vol. 42(1), pp. 74-102, , (2019) 10.18720/MPM.4212019_8
+					IF CITARE: 0.000
+ autori=4 	 	 IF=0.985 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=2.500
+-----------------------------------------------------------------------
+[56] 	 Bissell, PR; Tatarasanu, I; Ardeleanu, P; Stoleriu, L, Characteristics of noise in very thin advanced metal particle data storage tapes: an indication of interface roughness, J PHYS CONF SER, vol. 17, pp. 201-206, (2005) 10.1088/1742-6596/17/1/028
+ autori=4 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[57] 	 Ciubotaru, F; Stancu, A; Stoleriu, L, LLG study of the precessional switching process in pulsed magnetic fields, J OPTOELECTRON ADV M, vol. 6(3), pp. 1017-1021, (2004) 
+ autori=3 	 	 IF=1.003 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[58] 	 Cimpoesu, D; Stoleriu, L; Stancu, A, Simulation of temperature dependence of statistical interactions in nanoparticulate systems, IEEE T MAGN, vol. 40(4), pp. 2125-2127, (2004) 10.1109/TMAG.2004.830456
+ autori=3 	 	 IF=0.837 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[59] 	 Cimpoesu, D; Stoleriu, L; Stancu, A; Lupu, N; Chiriac, H, Simulation of magnetic properties versus temperature for RE-TM based amorphous alloys, IEEE T MAGN, vol. 40(4), pp. 2730-2732, (2004) 10.1109/TMAG.2004.830452
+ autori=5 	 	 IF=0.837 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[60] 	 Salaoru, T; Potter, DK; Stoleriu, L; Papusoi, C; Stancu, A, Reversed gyroremanent magnetization in gamma-Fe2O3 particulate systems, IEEE T MAGN, vol. 40(4), pp. 2407-2409, (2004) 10.1109/TMAG.2004.830458
+ autori=5 	 	 IF=0.837 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[61] 	 Stancu, A; Stoleriu, L; Postolache, P; Cerchez, M, Preisach-type model for strongly interacting ferromagnetic particulate systems, IEEE T MAGN, vol. 40(4), pp. 2113-2115, (2004) 10.1109/TMAG.2004.830399
+		[61.1] Mazgaj, W; Szular, Z; Sierzega, M, Inverse Model of the Magnetic Hysteresis Based on Exponential Function, ACTA PHYS POL A, vol. 136(5), pp. 724-730, , (2019) 10.12693/APHYSPOLA.136.724
+					IF CITARE: 0.579
+ autori=4 	 	 IF=0.837 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=5.395
+-----------------------------------------------------------------------
+[62] 	 Salaoru, T; Potter, DK; Stoleriu, L; Papusoi, C; Stancu, A, Dependence of normal and reversed gyroremanent magnetization on AC field strength in particulate media, J OPTOELECTRON ADV M, vol. 6(2), pp. 619-622, (2004) 
+ autori=5 	 	 IF=1.003 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[63] 	 Stoleriu, L; Cimpoesu, D; Stancu, A; Lupu, N; Chiriac, H, Micromagnetic model for magnetisation processes in RE-TM based-amorphous alloys, J MAGN MAGN MATER, vol. 272, pp. E1113-E1114, (2004) 10.1016/J.JMMM.2003.12.631
+ autori=5 	 	 IF=1.031 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[64] 	 Cerchez, M; Stoleriu, L; Stancu, A, Interaction effects in high density magnetic particulate media, PHYSICA B, vol. 343(1-4), pp. 48-52, (2004) 10.1016/J.PHYSB.2003.08.043
+		[64.1] Zhao, X; Roberts, AP; Heslop, D; Paterson, GA; Li, YL; Li, JH, Magnetic domain state diagnosis using hysteresis reversal curves, J GEOPHYS RES-SOL EA, vol. 122(7), pp. 4767-4789, , (2017) 10.1002/2016JB013683
+					IF CITARE: 3.482
+ autori=3 	 	 IF=0.679 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=26.547
+-----------------------------------------------------------------------
+[65] 	 Stancu, A; Postolache, P; Stoleriu, L, Nonparametric identification algorithm of the Preisach distribution based on the First Order Reversal Curves (FORC) diagram, INT J APPL ELECTROM, vol. 19(1-4), pp. 659-662, (2004) 10.3233/JAE-2004-646
+		[65.1] Zhao, XJ; Guan, DW; Zhang, HG; Xiao, F; Meng, FH, Simulation of Preisach hysteresis model based on the first-order reversal curves, INT J APPL ELECTROM, vol. 55, pp. S125-S133, , (2017) 10.3233/JAE-172266
+					IF CITARE: 0.804
+ autori=3 	 	 IF=0.348 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=8.693
+-----------------------------------------------------------------------
+[66] 	 Cerchez, M; Stoleriu, L; Stancu, A, Magnetic characterisation of strongly correlated magnetic particulate systems, J OPTOELECTRON ADV M, vol. 5(4), pp. 933-938, (2003) 
+ autori=3 	 	 IF=0.996 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[67] 	 Bissell, PR; Cerchez, M; Stoleriu, L; Chantrell, RW; Stancu, A, The use of generalized Delta M plots in the magnetic characterization of particulate media, J MAGN MAGN MATER, vol. 266(1-2), pp. 1-7, (2003) 10.1016/S0304-8853(03)00448-7
+		[67.1] Domingo-Roca, R; Jackson, JC; Windmill, JFC, 3D-printing polymer-based permanent magnets, MATER DESIGN, vol. 153, pp. 120-128, , (2018) 10.1016/J.MATDES.2018.05.005
+					IF CITARE: 5.770
+ autori=5 	 	 IF=0.910 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=25.080
+-----------------------------------------------------------------------
+[68] 	 Cerchez, M; Stancu, A; Stoleriu, L; Bissell, PR, Limits of the Preisach model for strongly correlated particulate magnetic media, IEEE T MAGN, vol. 39(5), pp. 2534-2536, (2003) 10.1109/TMAG.2003.816468
+ autori=4 	 	 IF=1.006 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[69] 	 Postolache, P; Cerchez, M; Stoleriu, L; Stancu, A, Experimental evaluation of the Preisach distribution for magnetic recording media, IEEE T MAGN, vol. 39(5), pp. 2531-2533, (2003) 10.1109/TMAG.2003.816467
+		[69.1] Balashev, VV; Ermakov, KS; Samardak, AY; Ognev, AV; Samardak, AS; Komogortsev, SV; Volochaev, MN; Tarasov, AS; Korobtsov, VV, Crystal texture-dependent magnetic and magnetotransport properties of half-metallic Fe3O4 films grown on oxidized Si substrates by reactive deposition, J ALLOY COMPD, vol. 815, art.no. 152398, (2020) 10.1016/J.JALLCOM.2019.152398
+					IF CITARE: 5.316
+		[69.2] Bodale, I; Stancu, A, Reversible and Irreversible Processes in Drying and Wetting of Soil, MATERIALS, vol. 13(1), art.no. 135, (2020) 10.3390/MA13010135
+					IF CITARE: 3.623
+		[69.3] Muster, KS; Heindl, R, Determination of demagnetizing factors using first-order reversal curves and ferromagnetic resonance, AIP ADV, vol. 10(1), art.no. 015318, (2020) 10.1063/1.5129969
+					IF CITARE: 1.548
+		[69.4] Samardak, AS; Ognev, AV; Samardak, AY; Stebliy, EV; Modin, EB; Chebotkevich, LA; Komogortsev, SV; Stancu, A; Panahi-Danaei, E; Fardi-Ilkhichy, A; Nasirpouri, F, Variation of magnetic anisotropy and temperature-dependent FORC probing of compositionally tuned Co-Ni alloy nanowires, J ALLOY COMPD, vol. 732, pp. 683-693, , (2018) 10.1016/J.JALLCOM.2017.10.258
+					IF CITARE: 4.175
+ autori=4 	 	 IF=1.006 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=4 	 UAIC I.12 (Citari)=83.310
+-----------------------------------------------------------------------
+[70] 	 Spinu, L; Cimpoesu, D; Stoleriu, L; Stancu, A, Micromagnetic calculation of the transverse susceptibility of patterned media, IEEE T MAGN, vol. 39(5), pp. 2516-2518, (2003) 10.1109/TMAG.2003.816459
+		[70.1] Cimpoesu, D; Dumitru, I; Stancu, A, doFORC tool for calculating first-order reversal curve diagrams of noisy scattered data, J APPL PHYS, vol. 125(2), art.no. 023906, (2019) 10.1063/1.5066445
+					IF CITARE: 2.286
+		[70.2] Adams, DJ; Cimpoesu, D; Khan, MA; Poudyal, P; Spinu, L, Critical switching curves of FeCoB synthetic antiferromagnets, J PHYS D APPL PHYS, vol. 51(5), art.no. 055005, (2018) 10.1088/1361-6463/AAA271
+					IF CITARE: 2.829
+ autori=4 	 	 IF=1.006 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=2 	 UAIC I.12 (Citari)=30.575
+-----------------------------------------------------------------------
+[71] 	 Mercer, T; Bissell, PR; Ardeleanu, P; Stoleriu, L; Stancu, A, Effects of magnetic layer thickness and of head-to-medium spacing on noise in advanced particulate recording media, J APPL PHYS, vol. 93(10), pp. 6334-6343, (2003) 10.1063/1.1566088
+ autori=5 	 	 IF=2.171 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[72] 	 Stancu, A; Pike, C; Stoleriu, L; Postolache, P; Cimpoesu, D, Micromagnetic and Preisach analysis of the First Order Reversal Curves (FORC) diagram, J APPL PHYS, vol. 93(10), pp. 6620-6622, (2003) 10.1063/1.1557656
+		[72.1] Nayak, BB; Jammalamadaka, SN, Effect of sputtering power on the first order magnetization reversal, reversible and irreversible process in Fe71Ga29 thin films, J MAGN MAGN MATER, vol. 536, art.no. 168107, (2021) 10.1016/J.JMMM.2021.168107
+					IF CITARE: 2.993
+		[72.2] Omelyanchik, A; Antipova, V; Gritsenko, C; Kolesnikova, V; Murzin, D; Han, YL; Turutin, AV; Kubasov, IV; Kislyuk, AM; Ilina, TS; Kiselev, DA; Voronova, MI; Malinkovich, MD; Parkhomenko, YN; Silibin, M; Kozlova, EN; Peddis, D; Levada, K; Makarova, L; Amirov, A; Rodionova, V, Boosting Magnetoelectric Effect in Polymer-Based Nanocomposites, NANOMATERIALS-BASEL, vol. 11(5), art.no. 1154, (2021) 10.3390/NANO11051154
+					IF CITARE: 5.076
+		[72.3] Zha, L; Lin, Z; Wang, F; Kim, C; Xue, M; Yang, J; Han, L; Yang, W; Liu, S; Han, J; Wang, C; Du, H; Xia, W; Yang, J, Intergranular interaction in nanocrystalline Ce-Fe-B melt-spinning ribbons via first-order reversal curve analysis, AIP ADV, vol. 11(1), art.no. 015209, (2021) 10.1063/9.0000039
+					IF CITARE: 1.548
+		[72.4] Velazquez, YG; Guerrero, AL; Martinez, JM; Araujo, E; Tabasum, MR; Nysten, B; Piraux, L; Encinas, A, Relation of the average interaction field with the coercive and interaction field distributions in First order reversal curve diagrams of nanowire arrays, SCI REP-UK, vol. 10(1), art.no. 21396, (2020) 10.1038/S41598-020-78279-1
+					IF CITARE: 4.379
+		[72.5] Elmekawy, AHA; Iashina, EG; Dubitskiy, IS; Sotnichuk, SV; Bozhev, IV; Napolskii, KS; Menzel, D; Mistonov, AA, Magnetic properties and FORC analysis of iron nanowire arrays, MATER TODAY COMMUN, vol. 25, art.no. 101609, (2020) 10.1016/J.MTCOMM.2020.101609
+					IF CITARE: 0.000
+		[72.6] Zhu, K; Xu, JJ; Wang, XB; Li, W; Tian, KS; Zhang, XG; Hou, YL, Insight into the Property Enhancement Mechanism of Chemically Prepared Multi-Main-Phase (Nd,Ce)(2)Fe14B, ACS APPL MATER INTER, vol. 12(41), pp. 46549-46556, , (2020) 10.1021/ACSAMI.0C13151
+					IF CITARE: 9.229
+		[72.7] Kouhpanji, MRZ; Ghoreyshi, A; Visscher, PB; Stadler, BJH, Facile decoding of quantitative signatures from magnetic nanowire arrays, SCI REP-UK, vol. 10(1), art.no. 15482, (2020) 10.1038/S41598-020-72094-4
+					IF CITARE: 4.379
+		[72.8] Pierrot, A; Beron, F; Blon, T, FORC signatures and switching-field distributions of dipolar coupled nanowire-based hysterons, J APPL PHYS, vol. 128(9), art.no. 093903, (2020) 10.1063/5.0020407
+					IF CITARE: 2.546
+		[72.9] Moreno-Ramirez, LM; Franco, V, Setting the Basis for the Interpretation of Temperature First Order Reversal Curve (TFORC) Distributions of Magnetocaloric Materials, METALS-BASEL, vol. 10(8), art.no. 1039, (2020) 10.3390/MET10081039
+					IF CITARE: 2.351
+		[72.10] Li, Y; Zhao, XT; Liu, W; Ma, J; Liu, L; Song, YH; Deng, WY; Qi, LJ; Zhao, XG; Zhang, ZD, Coercivity mechanism and effect of Dy element in anisotropic LaPrFeB multilayers with Dy diffusion, J APPL PHYS, vol. 128(4), art.no. 043903, (2020) 10.1063/5.0014130
+					IF CITARE: 2.546
+		[72.11] Neumayer, SM; Tao, L; O'Hara, A; Brehm, J; Si, MW; Liao, PY; Feng, TL; Kalinin, SV; Ye, PDD; Pantelides, ST; Maksymovych, P; Balke, N, Alignment of Polarization against an Electric Field in van der Waals Ferroelectrics, PHYS REV APPL, vol. 13(6), art.no. 064063, (2020) 10.1103/PHYSREVAPPLIED.13.064063
+					IF CITARE: 4.985
+		[72.12] Ma, MY; Ang, CCI; Li, Y; Pan, ZZ; Gan, WL; Lew, WS; Ma, FS, Enhancement of zero-field skyrmion density in [Pt/Co/Fe/Ir](2) multilayers at room temperature by the first-order reversal curve, J APPL PHYS, vol. 127(22), art.no. 223901, (2020) 10.1063/5.0004432
+					IF CITARE: 2.546
+		[72.13] Daffe, N; Zecevic, J; Trohidou, KN; Sikora, M; Rovezzi, M; Carvallo, C; Vasilakaki, M; Neveu, S; Meeldijk, JD; Bouldi, N; Gavrilov, V; Guyodo, Y; Choueikani, F; Dupuis, V; Taverna, D; Sainctavit, P; Juhin, A, Bad neighbour, good neighbour: how magnetic dipole interactions between soft and hard ferrimagnetic nanoparticles affect macroscopic magnetic properties in ferrofluids, NANOSCALE, vol. 12(20), pp. 11222-11231, , (2020) 10.1039/D0NR02023K
+					IF CITARE: 7.790
+		[72.14] Dobroserdova, AB; Sanchez, PA; Shapochkin, VE; Smagin, DA; Zverev, VS; Odenbach, S; Kantorovich, SS, Measuring FORCs diagrams in computer simulations as a mean to gain microscopic insight, J MAGN MAGN MATER, vol. 501, art.no. 166393, (2020) 10.1016/J.JMMM.2020.166393
+					IF CITARE: 2.993
+		[72.15] Wang, XQ; Liu, YY; Wei, YR; He, KZ; Huang, Y; Wang, JB; Liu, QF; Han, GL, Magnetic properties and magnetization reversal process in (Pt/CoFe/MgO)(10) multilayers at low temperature, J MAGN MAGN MATER, vol. 499, art.no. 166318, (2020) 10.1016/J.JMMM.2019.166318
+					IF CITARE: 2.993
+		[72.16] Balashev, VV; Ermakov, KS; Samardak, AY; Ognev, AV; Samardak, AS; Komogortsev, SV; Volochaev, MN; Tarasov, AS; Korobtsov, VV, Crystal texture-dependent magnetic and magnetotransport properties of half-metallic Fe3O4 films grown on oxidized Si substrates by reactive deposition, J ALLOY COMPD, vol. 815, art.no. 152398, (2020) 10.1016/J.JALLCOM.2019.152398
+					IF CITARE: 5.316
+		[72.17] Bodale, I; Stancu, A, Reversible and Irreversible Processes in Drying and Wetting of Soil, MATERIALS, vol. 13(1), art.no. 135, (2020) 10.3390/MA13010135
+					IF CITARE: 3.623
+		[72.18] Muster, KS; Heindl, R, Determination of demagnetizing factors using first-order reversal curves and ferromagnetic resonance, AIP ADV, vol. 10(1), art.no. 015318, (2020) 10.1063/1.5129969
+					IF CITARE: 1.548
+		[72.19] Eimerl, RG; Muster, KS; Heindl, R, Micromagnetic simulations of first-order reversal curves in nanowire arrays using MuMax3, AIP ADV, vol. 9(12), , (2019) 10.1063/1.5129954
+					IF CITARE: 1.337
+		[72.20] Liu, L; Zhao, XT; Liu, W; Song, YH; Chang, Y; Li, SK; Wei, LN; Zhao, XG; Zhang, ZD, Magnetic interactions and magnetization reversal in anisotropic La-Nd-Fe-B/Ta/Co multilayers and disks, J MAGN MAGN MATER, vol. 489, art.no. 165476, (2019) 10.1016/J.JMMM.2019.165476
+					IF CITARE: 2.717
+		[72.21] Luo, J; Zheng, H; Chen, W; Zheng, P; Zheng, L; Wu, Q; Zhang, Y, Conical-shaped hexagonal barium ferrite nanodot arrays on an alumina substrate based on an ultrathin alumina mask method, J MAGN MAGN MATER, vol. 489, art.no. 165449, (2019) 10.1016/J.JMMM.2019.165449
+					IF CITARE: 2.717
+		[72.22] Okamoto, S; Miyazawa, K; Yomogita, T; Kikuchi, N; Kitakami, O; Toyoki, K; Billington, D; Kotani, Y; Nakamura, T; Sasaki, T; Ohkubo, T; Hono, K; Takada, Y; Sato, T; Kaneko, Y; Kato, A, Temperature dependent magnetization reversal process of a Ga-doped Nd-Fe-B sintered magnet based on first-order reversal curve analysis, ACTA MATER, vol. 178, pp. 90-98, , (2019) 10.1016/J.ACTAMAT.2019.08.004
+					IF CITARE: 7.656
+		[72.23] Wang, CX; Yang, XM; Wang, ZJ; He, C; Long, XF, Investigation of switching behavior of acceptor-doped ferroelectric ceramics, ACTA MATER, vol. 170, pp. 100-108, , (2019) 10.1016/J.ACTAMAT.2019.03.033
+					IF CITARE: 7.656
+		[72.24] Tanasa, R; Enachescu, C; Laisney, J; Morineau, D; Stancu, A; Boillot, ML, Unraveling the Environment Influence in Bistable Spin-Crossover Particles Using Magnetometric and Calorimetric First-Order Reverse Curves, J PHYS CHEM C, vol. 123(15), pp. 10120-10129, , (2019) 10.1021/ACS.JPCC.9B00768
+					IF CITARE: 4.189
+		[72.25] Nasirpouri, F; Barzegar, S; Samardak, AY; Ognev, AV; Zubko, AA; Stancu, A; Samardak, AS, Mesophase micelle-assisted electrodeposition and magnetisation behavior of meso-porous nickel films for efficient electrochemical energy and magnetic device applications, APPL SURF SCI, vol. 471, pp. 776-785, , (2019) 10.1016/J.APSUSC.2018.12.031
+					IF CITARE: 6.182
+		[72.26] Montiel-Anaya, JA; Franco, V, FORC study of the ferromagnetic impurities in Na and K feldspars of "El Realejo" mine, AIP ADV, vol. 9(3), art.no. 035038, (2019) 10.1063/1.5080081
+					IF CITARE: 1.337
+		[72.27] Saravanan, P; Boominathasellarajan, S; Sobel, B; Waclawek, S; Vinod, VTP; Talapatra, A; Mohanty, J; Cernik, M, Interfacial layer formation during high-temperature deposition of Sm-Co magnetic thin films on Si (100) substrates, INTERMETALLICS, vol. 106, pp. 36-47, , (2019) 10.1016/J.INTERMET.2018.12.007
+					IF CITARE: 3.398
+		[72.28] Duong, NK; Raju, M; Petrovic, AP; Tomasello, R; Finocchio, G; Panagopoulos, C, Stabilizing zero-field skyrmions in Ir/Fe/Co/Pt thin film multilayers by magnetic history control, APPL PHYS LETT, vol. 114(7), art.no. 072401, (2019) 10.1063/1.5080713
+					IF CITARE: 3.597
+		[72.29] Cimpoesu, D; Dumitru, I; Stancu, A, doFORC tool for calculating first-order reversal curve diagrams of noisy scattered data, J APPL PHYS, vol. 125(2), art.no. 023906, (2019) 10.1063/1.5066445
+					IF CITARE: 2.286
+		[72.30] Miyazawa, K; Okamoto, S; Yomogita, T; Kikuchi, N; Kitakami, O; Toyoki, K; Billington, D; Kotani, Y; Nakamura, T; Sasaki, T; Ohkubo, T; Hono, K, First-order reversal curve analysis of a Nd-Fe-B sintered magnet with soft X-ray magnetic circular dichroism microscopy, ACTA MATER, vol. 162, pp. 1-9, , (2019) 10.1016/J.ACTAMAT.2018.09.053
+					IF CITARE: 7.656
+		[72.31] Araujo, E; Martinez-Huerta, JM; Piraux, L; Encinas, A, Quantification of the Interaction Field in Arrays of Magnetic Nanowires from the Remanence Curves, J SUPERCOND NOV MAGN, vol. 31(12), pp. 3981-3987, , (2018) 10.1007/S10948-018-4671-2
+					IF CITARE: 1.130
+		[72.32] Nam, DY; Samardak, AY; Jeon, YS; Kim, SH; Davydenko, AV; Ognev, AV; Samardak, AS; Kim, YK, Magnetization reversal of ferromagnetic nanosprings affected by helical shape, NANOSCALE, vol. 10(43), pp. 20405-20413, , (2018) 10.1039/C8NR05655B
+					IF CITARE: 6.970
+		[72.33] Fernandez, JG; Martinez, VV; Thomas, A; Pidal, VMD; Nielsch, K, Two-Step Magnetization Reversal FORC Fingerprint of Coupled Bi-Segmented Ni/Co Magnetic Nanowire Arrays, NANOMATERIALS-BASEL, vol. 8(7), art.no. 548, (2018) 10.3390/NANO8070548
+					IF CITARE: 4.034
+		[72.34] Lanci, L; Kent, DV, Forward Modeling of Thermally Activated Single-Domain Magnetic Particles Applied to First-Order Reversal Curves, J GEOPHYS RES-SOL EA, vol. 123(5), pp. 3287-3300, , (2018) 10.1002/2018JB015463
+					IF CITARE: 3.585
+		[72.35] Quach, DT; Pham, DT; Ngo, DT; Phan, TL; Park, SY; Lee, SH; Kim, DH, Minor hysteresis patterns with a rounded/sharpened reversing behavior in ferromagnetic multilayer, SCI REP-UK, vol. 8, art.no. 4461, (2018) 10.1038/S41598-018-22810-Y
+					IF CITARE: 4.011
+		[72.36] Samardak, AS; Ognev, AV; Samardak, AY; Stebliy, EV; Modin, EB; Chebotkevich, LA; Komogortsev, SV; Stancu, A; Panahi-Danaei, E; Fardi-Ilkhichy, A; Nasirpouri, F, Variation of magnetic anisotropy and temperature-dependent FORC probing of compositionally tuned Co-Ni alloy nanowires, J ALLOY COMPD, vol. 732, pp. 683-693, , (2018) 10.1016/J.JALLCOM.2017.10.258
+					IF CITARE: 4.175
+		[72.37] Katkov, MV; Lubov, DP; Pershin, YV, Current-Voltage Characteristics of Commercial Ferroelectric Capacitors: Deviations from the Preisach Model, J CONTEMP PHYS-ARME+, vol. 53(1), pp. 65-72, , (2018) 10.3103/S1068337218010085
+					IF CITARE: 0.577
+		[72.38] Bahamida, S; Fnidiki, A; Coisson, M; Laggoun, A; Barrera, G; Celegato, F; Tiberto, P, Mixed exchange-coupled soft alpha-(Fe80Pd20) and hard L1(0)FePd phases in Fe64Pd36 thin films studied by first order reversal curves, MATER SCI ENG B-ADV, vol. 226, pp. 47-56, , (2017) 10.1016/J.MSEB.2017.09.009
+					IF CITARE: 3.316
+		[72.39] Navas, D; Soriano, N; Beron, F; Sousa, CT; Pirota, KR; Torrejon, J; Redondo, C; Morales, R; Ross, CA, Microscopic reversal magnetization mechanisms in CoCrPt thin films with perpendicular magnetic anisotropy: Fractal structure versus labyrinth stripe domains, PHYS REV B, vol. 96(18), art.no. 180403, (2017) 10.1103/PHYSREVB.96.180403
+					IF CITARE: 3.813
+		[72.40] Frampton, MK; Crocker, J; Gilbert, DA; Curro, N; Liu, K; Schneeloch, JA; Gu, GD; Zieve, RJ, First-order reversal curve of the magnetostructural phase transition in FeTe, PHYS REV B, vol. 95(21), art.no. 214402, (2017) 10.1103/PHYSREVB.95.214402
+					IF CITARE: 3.813
+		[72.41] Ruta, S; Hovorka, O; Huang, PW; Wang, KK; Ju, GP; Chantrell, R, First order reversal curves and intrinsic parameter determination for magnetic materials; limitations of hysteron-based approaches in correlated systems, SCI REP-UK, vol. 7, art.no. 45218, (2017) 10.1038/SREP45218
+					IF CITARE: 4.122
+		[72.42] Ognev, AV; Ermakov, KS; Samardak, AY; Kozlov, AG; Sukovatitsina, EV; Davydenko, AV; Chebotkevich, LA; Stancu, A; Samardak, AS, Self-organization and FORC-based magnetic characterization of ultra-high aspect ratio epitaxial Co nanostrips produced by oblique deposition on an ordered step-bunched silicon surface, NANOTECHNOLOGY, vol. 28(9), art.no. 095708, (2017) 10.1088/1361-6528/AA564E
+					IF CITARE: 3.404
+ autori=5 	 	 IF=2.171 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=42 	 UAIC I.12 (Citari)=726.076
+-----------------------------------------------------------------------
+[73] 	 Cerchez, M; Stoleriu, L; Stancu, A, Identification of the generalised Preisach model parameters for systems with magnetostatic interactions, J OPTOELECTRON ADV M, vol. 5(1), pp. 351-354, (2003) 
+ autori=3 	 	 IF=0.996 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[74] 	 Ardeleanu, P; Mercer, T; Bissell, PR; Stoleriu, L; Stancu, A, Spatial effects in the DC modulation noise of advanced MP tape, IEEE T MAGN, vol. 38(5), pp. 1904-1906, (2002) 10.1109/TMAG.2002.802823
+ autori=5 	 	 IF=1.016 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[75] 	 Stoleriu, L; Bissell, P; Mercer, T; Ardeleanu, P; Stancu, A, Micromagnetic analysis of the recording noise in advanced magnetic tape, J OPTOELECTRON ADV M, vol. 4(2), pp. 289-292, (2002) 
+ autori=5 	 	 IF=0.446 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[76] 	 Stoleriu, L; Stancu, A, Micromagnetic investigation of interactions in vector hysteresis models, J OPTOELECTRON ADV M, vol. 4(2), pp. 293-296, (2002) 
+ autori=2 	 	 IF=0.446 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[77] 	 Bissell, PR; Mercer, T; Ardeleanu, PC; Stancu, A; Stoleriu, L, Effects of magnetic layer thickness on noise in advanced double-layer metal particle tape, J APPL PHYS, vol. 91(10), pp. 8739-8741, (2002) 10.1063/1.1447488
+ autori=5 	 	 IF=2.281 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[78] 	 Stancu, A; Stoleriu, L; Cerchez, M; Postolache, P; Cimpoesu, D; Spinu, L, Standard problems for phenomenological Preisach-type models, PHYSICA B, vol. 306(1-4), pp. 91-95, (2001) 10.1016/S0921-4526(01)00984-X
+		[78.1] Skaliukh, AS, MATHEMATICAL 3D MODELS OF IRREVERSIBLE POLARIZATION PROCESSES OF A FERROELECTRICS AND FERROELASTICS POLYCRYSTAL, MATER PHYS MECH, vol. 42(1), pp. 74-102, , (2019) 10.18720/MPM.4212019_8
+					IF CITARE: 0.000
+ autori=6 	 	 IF=0.663 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=1.667
+-----------------------------------------------------------------------
+[79] 	 Stancu, A; Stoleriu, L; Cerchez, M, Micromagnetic evaluation of magnetostatic interactions distribution in structured particulate media, J APPL PHYS, vol. 89(11), pp. 7260-7262, (2001) 10.1063/1.1355343
+		[79.1] Zhao, X; Roberts, AP; Heslop, D; Paterson, GA; Li, YL; Li, JH, Magnetic domain state diagnosis using hysteresis reversal curves, J GEOPHYS RES-SOL EA, vol. 122(7), pp. 4767-4789, , (2017) 10.1002/2016JB013683
+					IF CITARE: 3.482
+ autori=3 	 	 IF=2.128 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=26.547
+-----------------------------------------------------------------------
+[80] 	 Stancu, A; Stoleriu, L; Cerchez, M, Micromagnetic evaluation of statistical and mean-field interactions in particulate ferromagnetic media, J MAGN MAGN MATER, vol. 225(3), pp. 411-417, (2001) 10.1016/S0304-8853(00)01353-6
+		[80.1] Faloh-Gandarilla, JC; Diaz-Castanon, S; Watts, BE, Magnetization reversal and interactions in SrFe12O19, PHYS STATUS SOLIDI B, vol. 254(4), art.no. UNSP 1600393, (2017) 10.1002/PSSB.201600393
+					IF CITARE: 1.729
+ autori=3 	 	 IF=1.329 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=1 	 UAIC I.12 (Citari)=14.860
+-----------------------------------------------------------------------
+[81] 	 Cerchez, M; Bissell, PR; Chantrell, RW; Stancu, AL; Stoleriu, L; Postolache, P, The use of generalized Delta M plots in the interaction field analysis., NATO SCI SER II MATH, vol. 41, pp. 247-250, (2001) 
+ autori=6 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[82] 	 Stancu, A; Stoleriu, L; Cerchez, M, A micromagnetic analysis of the Preisach model hypotheses on magnetic patterned media, INT J APPL ELECTROM, vol. 13(1-4), pp. 257-262, (2001) 
+ autori=3 	 	 IF=0.176 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[83] 	 Stancu, AL; Stoleriu, L; Cerchez, M, Micromagnetic evaluation of the interactions in particulate systems, NATO SCI SER II MATH, vol. 41, pp. 373-376, (2001) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[84] 	 Stoleriu, L; Stancu, A; Cerchez, N, Micromagnetic analysis of the physical basis of vector Preisach-type models, NATO SCI SER II-MATH, vol. 41, pp. 369-372, (2001) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[85] 	 Grossinger, R; Hauser, H; Stoleriu, L; Andrei, P, Hysteresis modeling of anisotropic barium ferrite, IEEE T MAGN, vol. 36(5), pp. 3357-3359, (2000) 10.1109/20.908799
+ autori=4 	 	 IF=0.720 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[86] 	 Andrei, P; Stoleriu, L; Hauser, H, Hysteresis model identification for particulate media, J APPL PHYS, vol. 87(9), pp. 6555-6557, (2000) 10.1063/1.372768
+ autori=3 	 	 IF=2.180 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[87] 	 Cerchez, M; Stoleriu, L; Stancu, A, Analysis of the standard deviation of the interaction field distribution using Monte Carlo simulations, , vol. , pp. 137-140, (2000) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[88] 	 Stoleriu, L; Stancu, A; Cerchez, M, Vector mixed model for magnetisation processes of particulate recording media, , vol. , pp. 145-148, (2000) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+[89] 	 Cerchez, M; Stoleriu, L; Stancu, A, The state dependent reversible magnetisation in Preisach type models, STUD APPL ELECTROMAG, vol. 13, pp. 475-478, (1998) 
+ autori=3 	 	 IF=0.000 	 	 UAIC I.1(ISI)=0.000 	 nr.citari=0 	 UAIC I.12 (Citari)=0.000
+-----------------------------------------------------------------------
+**********************************************************************************************************************
+T  O  T  A  L      
+**********************************************************************************************************************
+UAIC I.1 (ISI) = 540.180 			 UAIC I.12 (Citari) = 8328.128 
+**********************************************************************************************************************
+IMPACT FACTOR TOTAL (TOTI ANII) = 41.061  
+**********************************************************************************************************************
