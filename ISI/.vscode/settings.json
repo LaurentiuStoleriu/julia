@@ -1,4 +1,5 @@
 {
     "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": true
+    "editor.guides.bracketPairs": true,
+    "julia.executablePath": "/home/lali/julia-1.6.5/bin/julia"
 }
