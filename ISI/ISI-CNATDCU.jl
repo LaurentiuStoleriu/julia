@@ -1,11 +1,11 @@
 using CSV, DataFrames
 
-primAuthor = "Stoleriu"
-fileOwnPapers = "LS_JL_savedrecs_mine.txt"
-fileCitations = "LS_JL_savedrecs.txt"
+primAuthor = "Stancu"
+fileOwnPapers = "AS_JL_savedrecs_mine.txt"
+fileCitations = "AS_JL_savedrecs.txt"
 
-fileOwnCSV = "LS_JL_MINE_test.csv"
-fileOwnUAIC = "LS_JL_UAIC1.txt"
+fileOwnCSV = "AS_JL_MINE_test.csv"
+fileOwnUAIC = "AS_JL_UAIC1.txt"
 
 root = dirname("/mnt/e/Stoleriu/Doc/CV/auto/")
 inputAIS = joinpath(root, "AI_factor_full_1997-2021.txt")
