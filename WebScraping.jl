@@ -12,8 +12,9 @@ r_parsed = parsehtml(String(r.body))
 
 lista = JSON.parse(r_parsed.root[2][1].text)
 
-println(lista["results"][25])
+#println(lista["results"][25])
 
+println("Sunt ", lista["count"], " lucrari:")
 for paper in lista["results"]
     println(paper["journal"]["name"])
 end
