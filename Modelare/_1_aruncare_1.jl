@@ -13,5 +13,9 @@ end
 tmax = 2
 numpoints = 100
 
-t = collect(range(start=0, length=numpoints, stop=tmax))
-print(trajectory(t))
+t = range(start=0, length=numpoints, stop=tmax)
+rez = trajectory.(t)
+
+rez2D = hcat(rez...)
+
+plot(rez2D[1,:], rez2D[2,:])
