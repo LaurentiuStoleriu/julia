@@ -23,6 +23,8 @@ p = [g]
 
 aruncare = ODEProblem(syst!, u0, t, p)
 
+print(aruncare)
+
 rez = solve(aruncare)
 
 plot(rez, vars=(1,3))
