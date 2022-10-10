@@ -1,7 +1,7 @@
 using DifferentialEquations
 using Plots
 
-using PlotlyJS
+#using Plotly
 plotlyjs()
 
 x0 = 0; y0 = 0; z0 = 20; v0 = 10; g = 9.81; m = 1.0
