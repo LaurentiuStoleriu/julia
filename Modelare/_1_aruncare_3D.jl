@@ -1,8 +1,8 @@
 using DifferentialEquations
 using Plots
-
-#using Plotly
 plotlyjs()
+#using PlotlyJS
+
 
 x0 = 0; y0 = 0; z0 = 20; v0 = 10; g = 9.81; m = 1.0
 theta = 30.0 * pi/180
