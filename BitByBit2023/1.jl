@@ -1,8 +1,10 @@
-# Given length of side, calculate area of square
-function divide()
-    a::Float64 = pi
-    b::Float64 = 4
-    println("\n π/4 = $(a÷b) \n" )
-end
+using Printf
 
-divide() # call the function to get the action started
+function twoTimesTable()
+    for i = 1:3, j = 1:5
+        print("($i,$j) ")
+        if j == 5 println() end
+    end
+end # twoTimesTable
+
+twoTimesTable()
