@@ -1,10 +1,12 @@
 using Printf
 
-function twoTimesTable()
-    for i = 1:3, j = 1:5
-        print("($i,$j) ")
-        if j == 5 println() end
-    end
-end # twoTimesTable
+function swap(a, b)
+    b, a
+end
 
-twoTimesTable()
+a = 3
+b = 5
+println(a, ", ", b)
+
+a, b = swap(a, b)
+println(a, ", ", b)
