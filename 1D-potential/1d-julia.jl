@@ -1,3 +1,4 @@
+using Revise
 
 function create_system!(x::Vector{Float64}, r::Vector{Float64}, spin::Vector{Float64}, stare, r_low, r_high, bond_length) 
     term = pi / (2.0*(r_high - r_low))
@@ -18,6 +19,7 @@ function create_system!(x::Vector{Float64}, r::Vector{Float64}, spin::Vector{Flo
 end
 
 function main()
+    Revise.revise()
     N = 10
     x = zeros(Float64,N)
     r = zeros(Float64,N)
