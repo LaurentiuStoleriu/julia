@@ -1,8 +1,12 @@
-# Given length of side, calculate area of square
-function divide()
-    a::Float64 = pi
-    b::Float64 = 4
-    println("\n π/4 = $(a÷b) \n" )
+using Printf
+
+function swap(a, b)
+    b, a
 end
 
-divide() # call the function to get the action started
+a = 3
+b = 5
+println(a, ", ", b)
+
+a, b = swap(a, b)
+println(a, ", ", b)
