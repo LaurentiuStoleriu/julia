@@ -1,7 +1,3 @@
 {
-    "code-runner.runInTerminal": true,
-    "julia.NumThreads": 12,
-    "settingsSync.ignoredSettings": [
-        "-julia.NumThreads"
-    ]
+    "code-runner.runInTerminal": true
 }
