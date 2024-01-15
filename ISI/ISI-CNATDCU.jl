@@ -1,52 +1,62 @@
 using CSV, DataFrames
 
-primAuthor = "Stancu"
-fileOwnPapers = "AS_JL_savedrecs_mine.txt"
-fileCitations = "AS_JL_savedrecs.txt"
+primAuthor = "Stoleriu"
+fileOwnPapers = "LS_JL_savedrecs_mine.txt"
+usingPART = false
+if usingPART
+    fileCitations = "LS_JL_savedrecs_PART.txt"
+else
+    fileCitations = "LS_JL_savedrecs.txt"
+end
 
-fileOwnCSV = "AS_JL_MINE_test.csv"
-fileOwnUAIC = "AS_JL_UAIC1.txt"
+fileOwnCSV  = "LS_JL_MINE_test.csv"
+fileOwnTXT  = "LS_JL_total.txt"
+fileOwnUAIC = "LS_JL_UAIC1.txt"
 
-root = dirname("/mnt/e/Stoleriu/Doc/CV/auto/")
-inputAIS = joinpath(root, "AI_factor_full_1997-2021.txt")
-inputISI = joinpath(root, "IF_factor_full_1997-2021.txt")
+#root = dirname(@__FILE__)
+root = dirname("/home/lali/TITAN-ROG-sync/julia/ISI/")
+inputAIS = joinpath(root, "AI_factor_full_1997-2023.txt")
+inputISI = joinpath(root, "IF_factor_full_1997-2023.txt")
+AIFirstYear = 1997
+AILastYear = 2023
 
-ANini = 2021
-ANfin = 2021
+ANini = 2019
+ANfin = 2023
 
 AIS = CSV.read(inputAIS, DataFrame; header=true, delim='\t')
-println(AIS[8157, [1, 2, 3, 14, 25, 26]])
+println(AIS[8157, [1, 2, 3, 4, 5, 6,    28, 29, 30, 31]])
 ISI = CSV.read(inputISI, DataFrame; header=true, delim='\t')
-println(ISI[8157, [1, 2, 3, 14, 25, 26]])
+println(ISI[8157, [1, 2, 3, 4, 5, 6,    28, 29, 30, 31]])
 
 inputMINE = joinpath(root, fileOwnPapers)
 inputCIT = joinpath(root, fileCitations)
 
 MINEraw = CSV.read(inputMINE, DataFrame; header=true, delim='\t')
+sort!(MINEraw, [:PY], rev = true)
 #eltype.(eachcol(MINEraw))
 #MINE = MINEraw[:, [2, 9, 24, 30, 32, 42, 45, 46, 47, 52, 53, 54, 55]];
-MINE = MINEraw[:, [2, 9, 24, 32, 42, 45, 46, 47, 52, 53, 54, 55]]  # fara citari (col 30)
+MINE = MINEraw[:, [2, 9, 25, 33, 44, 47, 48, 54, 55, 56, 57]];  # fara citari (col 30)
 #println(eltype.(eachcol(MINE)))
 
 rename!(MINE,:"J9" => :"Journal")
-insertcols!(MINE, :NA => 0)
-insertcols!(MINE, :NEFF => 0.0)
-insertcols!(MINE, :PRIM => 0)
-insertcols!(MINE, :AI => 0.0)
-insertcols!(MINE, :AINEFF => 0.0)
-insertcols!(MINE, :IF => 0.0)
-insertcols!(MINE, :IFNA => 0.0)
-insertcols!(MINE, :TIMESC => 0)
-insertcols!(MINE, :CT => 0.0)
+insertcols!(MINE, :NA => 0);
+insertcols!(MINE, :NEFF => 0.0);
+insertcols!(MINE, :PRIM => 0);
+insertcols!(MINE, :AI => 0.0);
+insertcols!(MINE, :AINEFF => 0.0);
+insertcols!(MINE, :IF => 0.0);
+insertcols!(MINE, :IFNA => 0.0);
+insertcols!(MINE, :TIMESC => 0);
+insertcols!(MINE, :CT => 0.0);
 ### 5 ani
-insertcols!(MINE, :PRIM5 => 0)
-insertcols!(MINE, :AINEFF5 => 0.0)
-insertcols!(MINE, :IFNA5 => 0.0)
-insertcols!(MINE, :TIMESC5 => 0)
-insertcols!(MINE, :CT5 => 0.0)
+insertcols!(MINE, :PRIM5 => 0);
+insertcols!(MINE, :AINEFF5 => 0.0);
+insertcols!(MINE, :IFNA5 => 0.0);
+insertcols!(MINE, :TIMESC5 => 0);
+insertcols!(MINE, :CT5 => 0.0);
 ### UAIC
-insertcols!(MINE, :UAIC1 => 0.0)
-insertcols!(MINE, :UAIC9 => 0.0)
+insertcols!(MINE, :UAIC1 => 0.0);
+insertcols!(MINE, :UAIC9 => 0.0);
 
 for (row_index, lucrare) in enumerate(eachrow(MINE))
     MINE[row_index, :NA] = (1+count(";", lucrare[:AU]))
@@ -61,15 +71,19 @@ for (row_index, lucrare) in enumerate(eachrow(MINE))
         MINE[row_index, :NEFF] = (MINE[row_index, :NA] + 45.0) / 4.0
     end
 
-    if findfirst(primAuthor, MINE[row_index, :AU])[1] == 1
+    #println( titlecase(MINE[row_index, :AU]))
+    #println(findfirst(primAuthor, titlecase(MINE[row_index, :AU]))[1])
+    if findfirst(primAuthor, titlecase(MINE[row_index, :AU]))[1] == 1
         MINE[row_index, :PRIM] = 1
         if (MINE[row_index, :PY] <= ANfin) && (MINE[row_index, :PY] >= ANini)
             MINE[row_index, :PRIM5] = 1
         end
-    elseif occursin(primAuthor, lucrare[:RP])
-        MINE[row_index, :PRIM] = 1
-        if (MINE[row_index, :PY] <= ANfin) && (MINE[row_index, :PY] >= ANini)
-            MINE[row_index, :PRIM5] = 1
+    elseif !ismissing(lucrare[:RP])
+        if occursin(primAuthor, lucrare[:RP])
+            MINE[row_index, :PRIM] = 1
+            if (MINE[row_index, :PY] <= ANfin) && (MINE[row_index, :PY] >= ANini)
+                MINE[row_index, :PRIM5] = 1
+            end
         end
     end
     #println(row_index, MINE[row_index, [:NA]])
@@ -89,7 +103,14 @@ for (row_index, lucrare) in enumerate(eachrow(MINE))
     end
     for AISrow in eachrow(AIS)
         if( lucrare[:Journal] == AISrow[:Journal] )
-            anString = string(lucrare[:PY])
+            if (lucrare[:PY] >= AIFirstYear)
+                anString = string(lucrare[:PY])
+            else
+                anString = string(AIFirstYear)
+            end
+            if (lucrare[:PY] > AILastYear)
+                anString = string(AILastYear)
+            end
             #println(AISrow[anString])
             MINE[row_index, :AI] = AISrow[anString]
             MINE[row_index, :AINEFF] = MINE[row_index, :AI] / MINE[row_index, :NEFF]
@@ -101,7 +122,14 @@ for (row_index, lucrare) in enumerate(eachrow(MINE))
     end
     for ISIrow in eachrow(ISI)
         if( lucrare[:Journal] == ISIrow[:Journal] )
-            anString = string(lucrare[:PY])
+            if (lucrare[:PY] >= AIFirstYear)
+                anString = string(lucrare[:PY])
+            else
+                anString = string(AIFirstYear)
+            end
+            if (lucrare[:PY] > AILastYear)
+                anString = string(AILastYear)
+            end
             #println(ISIrow[anString])
             MINE[row_index, :IF] = ISIrow[anString]
             MINE[row_index, :IFNA] = ISIrow[anString] / MINE[row_index, :NA]
@@ -121,6 +149,20 @@ P5 = sum(MINE[!, :PRIM5] .* MINE[!, :AI])
 
 UAIC_1_1 = sum(MINE[!, :UAIC1])
 
+#   PT	AU	BA	BE	GP	AF	BF	CA	TI	SO	SE	BS	LA	DT	CT	CY	CL	SP	HO	DE	ID	AB	C1	
+#   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19  20  21  22  23  
+
+#   C3	RP	EM	RI	OI	FU	FP	FX	CR	NR	TC	Z9	U1	U2	PU	PI	PA	SN	EI	BN	J9	JI	PD	
+#   24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  
+
+#   PY	VL	IS	PN	SU	SI	MA	BP	EP	AR	DI	DL	D2	EA	PG	WC	WE	SC	GA	PM	OA	HC	HP	DA	UT
+#   47  48  49  50  51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71
+
+#   ######  2   9   32  44  46  47  48  54  55  56  57
+#   ######  AU  TI  CR  J9  PD  PY  VL  BP  EP  AR  DI
+
+
+
 MINECITEraw = CSV.read(inputCIT, DataFrame; header=true, delim='\t');
 # eliminare autocitari
 MINECITEraw = filter(row -> !(occursin(primAuthor, row.AU)),  MINECITEraw);
@@ -130,8 +172,17 @@ for (row_indexCIT, lucrareCIT) in enumerate(eachrow(MINECITEraw))
     end
 end
 
-MINECITE = MINECITEraw[:, [2, 9, 30, 42, 45, 46, 47, 52, 53, 54, 55]];
 
+#MINECITE = MINECITEraw[:, [2, 9, 31, 43, 45, 46, 47, 53, 54, 55, 56]];
+
+
+if usingPART
+    ## DEJA SELECTATE COLOANELE in fisierul _PART
+    MINECITE = MINECITEraw
+else
+    MINECITE = MINECITEraw[:, [2, 9, 32, 44, 46, 47, 48, 54, 55, 56, 57]];
+end
+eltype.(eachcol(MINECITE));
 rename!(MINECITE,:"J9" => :"Journal");
 
 CITES = Vector{Int64}[];
@@ -162,8 +213,11 @@ for (row_indexMINE, lucrareMINE) in enumerate(eachrow(MINE))
                 for ISIrow in eachrow(ISI)
                     if( lucrareCIT[:Journal] == ISIrow[:Journal] )
                         an_publicare_citare = lucrareCIT[:PY]
-                        if (an_publicare_citare > ANfin)
-                            an_publicare_citare = ANfin
+                        if (an_publicare_citare > AILastYear)
+                            an_publicare_citare = AILastYear
+                        end
+                        if (an_publicare_citare < AIFirstYear)
+                            an_publicare_citare = AIFirstYear
                         end
                         ISI_value = ISIrow[string(an_publicare_citare)]
                         push!(CITES_IFs[row_indexMINE], ISI_value)
@@ -220,4 +274,29 @@ open(outputMINEtxt, "w") do file
     write(file, '-'^400, '\n')
     write(file, '-'^400, '\n')
     write(file, "Total criteriul I.1(UAIC) = $(@sprintf("%9.4f", UAIC_1_1))\t\t\tTotal criteriul I.9(UAIC) = $(@sprintf("%9.4f", UAIC_1_9))")
+end
+
+outputMINEtxt = joinpath(root, fileOwnTXT)
+open(outputMINEtxt, "w") do file
+    for (row_indexMINE, lucrareMINE) in enumerate(eachrow(MINE))
+        if ( !ismissing(lucrareMINE.BP) )
+            write(file, "[$row_indexMINE] \t $(lucrareMINE.AU); $(lucrareMINE.TI); $(lucrareMINE.Journal), vol.$(lucrareMINE.VL), pp.$(lucrareMINE.BP)-$(lucrareMINE.EP) ($(lucrareMINE.PY)), DOI:$(lucrareMINE.DI) \n")
+        else
+            write(file, "[$row_indexMINE] \t $(lucrareMINE.AU); $(lucrareMINE.TI); $(lucrareMINE.Journal), vol.$(lucrareMINE.VL), art.no.$(lucrareMINE.AR) ($(lucrareMINE.PY)), DOI:$(lucrareMINE.DI) \n")
+        end
+        contor = 1
+        for (idx_citare, citare) in enumerate(CITES[row_indexMINE])
+            if (citare == 0)
+                continue
+            end
+            write(file, "\t\t[$row_indexMINE.$contor] $(MINECITE[citare,:].AU); $(MINECITE[citare,:].TI); $(MINECITE[citare,:].Journal), vol.$(MINECITE[citare,:].VL) ($(MINECITE[citare,:].PY)), DOI:$(MINECITE[citare,:].DI) \n")
+            #write(file, "\t\t\tIF citare: $(CITES5_IFs[row_indexMINE][idx_citare])\n")
+            contor = contor + 1
+        end
+        write(file, "autori=$(lucrareMINE.NA) \t autori_eff=$(lucrareMINE.NEFF) \t AIS=$(lucrareMINE.AI) \t prim=$(@sprintf("%5.3f", lucrareMINE.PRIM)) \t inf=$(@sprintf("%5.3f", lucrareMINE.AINEFF)) \t citari=$(lucrareMINE.TIMESC) \t cit=$(@sprintf("%5.3f", lucrareMINE.CT)) \n")
+        write(file, '-'^400, '\n')
+    end
+    write(file, '*'^120, '\n')
+    write(file, "P = $(@sprintf("%9.4f", P)) \t\t\t I = $(@sprintf("%9.4f", I)) \t\t\t C = $(@sprintf("%9.4f", C)) \n")
+    write(file, '*'^120, '\n')
 end
