@@ -46,10 +46,10 @@ nr.autori: 3 		 IF: 0.7 		 UAIC I.1(ISI):  22.3333 		 nr.citari: 0 		 UAIC I.9(C
 		[11.2] Valverde-Muñoz, FJ; Ramírez, RGT; Ulhe, A; Trzop, E; Dutta, M; Das, C; Chakraborty, P; Collet, E; Ferroelastic phase transition and the role of volume strain in the structural trapping of a metastable quenched low-spin high-symmetry phase in [Ru<sub>0.35</sub>Fe<sub>0.65</sub>(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub>; CRYSTENGCOMM, vol.25 (2023), DOI:10.1039/d3ce00365e 
 			IF citare: 3.1
 		[11.3] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[11.4] Karmakar, S; Chakraborty, P; Saha-Dasgupta, T; Trend in light-induced excited-state spin trapping in Fe(ii)-based spin crossover systems; PHYS CHEM CHEM PHYS, vol.24 (2022), DOI:10.1039/d2cp00539e 
 			IF citare: 3.3
-nr.autori: 10 		 IF: 3.3 		 UAIC I.1(ISI):  22.3000 		 nr.citari: 4 		 UAIC I.9(Citari):   28.8000 
+nr.autori: 10 		 IF: 3.3 		 UAIC I.1(ISI):  22.3000 		 nr.citari: 4 		 UAIC I.9(Citari):   40.0000 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [12] 	 Tong, YF; Kelaï, M; Bairagi, K; Repain, V; Lagoute, J; Girard, Y; Rousset, S; Boillot, ML; Mallah, T; Enachescu, C; Bellec, A; Voltage-Induced Bistability of Single Spin-Crossover Molecules in a Two-Dimensional Monolayer; J PHYS CHEM LETT, vol.12, pp.11029-11034 (2021), DOI:10.1021/acs.jpclett.1c03271 
 		[12.1] Johannsen, S; Gruber, M; Barreteau, C; Seredyuk, M; Real, JA; Markussen, T; Berndt, R; Spin-Crossover and Fragmentation of Fe(neoim)<sub>2</sub> on Silver and Gold; J PHYS CHEM LETT, vol.14 (2023), DOI:10.1021/acs.jpclett.3c01551 
@@ -188,7 +188,7 @@ nr.autori: 3 		 IF: 3.575 		 UAIC I.1(ISI):  79.8333 		 nr.citari: 12 		 UAIC I.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [19] 	 Fourmental, C; Mondal, S; Banerjee, R; Bellec, A; Garreau, Y; Coati, A; Chacon, C; Girard, Y; Lagoute, J; Rousset, S; Boillot, ML; Mallah, T; Enachescu, C; Barreteau, C; Dappe, YJ; Smogunov, A; Narasimhan, S; Repain, V; Importance of Epitaxial Strain at a Spin-Crossover Molecule-Metal Interface; J PHYS CHEM LETT, vol.10, pp.4103-4109 (2019), DOI:10.1021/acs.jpclett.9b01303 
 		[19.1] Bhattacharya, S; Tada, H; Magnetic field induced cooperativity tuning in a Fe(II)-based hybrid spin crossover network grown on 2D surfaces; MRS ADV, vol.missing (2023), DOI:10.1557/s43580-023-00639-6 
-			IF citare: 0.0
+			IF citare: 0.8
 		[19.2] Johannsen, S; Gruber, M; Barreteau, C; Seredyuk, M; Real, JA; Markussen, T; Berndt, R; Spin-Crossover and Fragmentation of Fe(neoim)<sub>2</sub> on Silver and Gold; J PHYS CHEM LETT, vol.14 (2023), DOI:10.1021/acs.jpclett.3c01551 
 			IF citare: 5.7
 		[19.3] Pénicaud, M; Martinez, E; Serrano, G; Cortigiani, B; Squillantini, L; Gonzalez-Estefan, JH; Velez-Fort, E; Duttine, M; Gonidec, M; Rosa, P; Mannini, M; Poggini, L; Substrate-dependent spin crossover in an Fe(ii) scorpionate complex; J MATER CHEM C, vol.missing (2023), DOI:10.1039/d3tc01620j 
@@ -243,20 +243,20 @@ nr.autori: 3 		 IF: 3.575 		 UAIC I.1(ISI):  79.8333 		 nr.citari: 12 		 UAIC I.
 			IF citare: 2.333
 		[19.28] Utesov, OI; Burdin, S; Rosa, P; Gonidec, M; Poggini, L; Andreev, SV; Electric-field control of spin transitions in molecular compounds; PHYS REV B, vol.100 (2019), DOI:10.1103/PhysRevB.100.235126 
 			IF citare: 3.575
-nr.autori: 18 		 IF: 6.71 		 UAIC I.1(ISI):  23.7556 		 nr.citari: 28 		 UAIC I.9(Citari):  230.9956 
+nr.autori: 18 		 IF: 6.71 		 UAIC I.1(ISI):  23.7556 		 nr.citari: 28 		 UAIC I.9(Citari):  231.8844 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [20] 	 Tanasa, R; Enachescu, C; Laisney, J; Morineau, D; Stancu, A; Boillot, ML; Unraveling the Environment Influence in Bistable Spin-Crossover Particles Using Magnetometric and Calorimetric First-Order Reverse Curves; J PHYS CHEM C, vol.123, pp.10120-10129 (2019), DOI:10.1021/acs.jpcc.9b00768 
 		[20.1] Alavi, SE; Martin, B; Zan, Y; Yang, XY; Piedrahita-Bello, M; Nicolazzi, W; Ganghoffer, JF; Salmon, L; Molnár, G; Bousseksou, A; Dynamical Mechanical Analysis and Micromechanics Simulations of Spin-Crossover@Polymer Particulate Composites: Toward Soft Actuator Devices; CHEM MATER, vol.35 (2023), DOI:10.1021/acs.chemmater.3c00293 
 			IF citare: 8.6
 		[20.2] Angulo-Cervera, JE; Piedrahita-Bello, M; Martin, B; Alavi, SE; Nicolazzi, W; Salmon, L; Molnár, G; Bousseksou, A; Thermal hysteresis of stress and strain in spin-crossover@polymer composites: towards a rational design of actuator devices; MATER ADV, vol.3 (2022), DOI:10.1039/d2ma00459c 
-			IF citare: 0.0
+			IF citare: 5.0
 		[20.3] Rusu, I; Manolache-Rusu, IC; Diaconu, A; Palamarciuc, O; Gural'skiy, IA; Molnar, G; Rotaru, A; Pressure gradient effect on spin-crossover materials: Experiment vs theory; J APPL PHYS, vol.129 (2021), DOI:10.1063/5.0042582 
 			IF citare: 2.877
 		[20.4] Trinh, L; Zerdane, S; Mazérat, S; Dia, N; Dragoe, D; Herrero, C; Rivière, E; Catala, L; Cammarata, M; Collet, E; Mallah, T; Photoswitchable 11 nm CsCoFe Prussian Blue Analogue Nanocrystals with High Relaxation Temperature; INORG CHEM, vol.59 (2020), DOI:10.1021/acs.inorgchem.0c01432 
 			IF citare: 5.165
 		[20.5] Sawczak, M; Jendrzejewski, R; Maskowicz, D; Garcia, Y; Ghosh, AC; Gazda, M; Czechowski, J; Sliwinski, G; Nanocrystalline Polymer Impregnated [Fe(pz)Pt(CN)<sub>4</sub>] Thin Films Prepared by Matrix-Assisted Pulsed Laser Evaporation; EUR J INORG CHEM, vol.missing (2019), DOI:10.1002/ejic.201900231 
 			IF citare: 2.529
-nr.autori: 6 		 IF: 4.189 		 UAIC I.1(ISI):  46.0567 		 nr.citari: 5 		 UAIC I.9(Citari):   72.2367 
+nr.autori: 6 		 IF: 4.189 		 UAIC I.1(ISI):  46.0567 		 nr.citari: 5 		 UAIC I.9(Citari):   88.9033 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [21] 	 Bertoni, R; Collet, E; Cailleau, H; Boillot, ML; Tissot, A; Laisney, J; Enachescu, C; Lorenc, M; Temperature dependence of the cooperative out-of-equilibrium elastic switching in a spin-crossover material; PHYS CHEM CHEM PHYS, vol.21, pp.6606-6612 (2019), DOI:10.1039/c8cp07074a 
 		[21.1] Collet, E; Azzolina, G; Jeftic, J; Lemée-Cailleau, MH; Coupled spin cross-over and ferroelasticity: revisiting the prototype [Fe(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub> material; ADV PHYS-X, vol.8 (2023), DOI:10.1080/23746149.2022.2161936 
@@ -282,7 +282,7 @@ nr.autori: 2 		 IF: 1.294 		 UAIC I.1(ISI):  51.3200 		 nr.citari: 0 		 UAIC I.9
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [23] 	 Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Guénée, L; Besnard, C; Evidencing size-dependent cooperative effects on spin crossover nanoparticles following their HSLS relaxation; J MATER CHEM C, vol.6, pp.12698-12706 (2018), DOI:10.1039/c8tc04315a 
 		[23.1] El-Khoury, L; Daro, N; Chastanet, G; Rosa, P; Denux, D; Etienne, L; Mazel, V; Josse, M; Marchivie, M; Spin crossover molecular ceramics by Cool-SPS: consequences on switching features beyond microstructural effects; MATER ADV, vol.missing (2023), DOI:10.1039/d3ma00688c 
-			IF citare: 0.0
+			IF citare: 5.0
 		[23.2] Mondal, DJ; Kumar, B; Paul, A; Konar, S; Competitive electronic and steric effects in the spin-state modulation of a 3D-Hofmann framework and its extension towards the nanoscale; J MATER CHEM C, vol.11 (2023), DOI:10.1039/d3tc00064h 
 			IF citare: 6.4
 		[23.3] Kumar, B; Paul, A; Mondal, DJ; Paliwal, P; Konar, S; Spin-State Modulation in Fe<SUP>II</SUP>-Based Hofmann-Type Coordination Polymers: From Molecules to Materials; CHEM REC, vol.22 (2022), DOI:10.1002/tcr.202200135 
@@ -299,7 +299,7 @@ nr.autori: 2 		 IF: 1.294 		 UAIC I.1(ISI):  51.3200 		 nr.citari: 0 		 UAIC I.9
 			IF citare: 5.165
 		[23.9] Dankhoff, K; Lochenie, C; Weber, B; Iron(II) Spin Crossover Complexes with 4,4′-Dipyridylethyne-Crystal Structures and Spin Crossover with Hysteresis; MOLECULES, vol.25 (2020), DOI:10.3390/molecules25030581 
 			IF citare: 4.411
-nr.autori: 6 		 IF: 6.641 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9(Citari):  170.8733 
+nr.autori: 6 		 IF: 6.641 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9(Citari):  187.5400 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [24] 	 Enachescu, C; Nicolazzi, W; Elastic models, lattice dynamics and finite size effects in molecular spin crossover systems; CR CHIM, vol.21, pp.1179-1195 (2018), DOI:10.1016/j.crci.2018.02.004 
 		[24.1] Collet, E; Azzolina, G; Jeftic, J; Lemée-Cailleau, MH; Coupled spin cross-over and ferroelasticity: revisiting the prototype [Fe(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub> material; ADV PHYS-X, vol.8 (2023), DOI:10.1080/23746149.2022.2161936 
@@ -309,7 +309,7 @@ nr.autori: 6 		 IF: 6.641 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9
 		[24.3] Valverde-Muñoz, FJ; Ramírez, RGT; Ulhe, A; Trzop, E; Dutta, M; Das, C; Chakraborty, P; Collet, E; Ferroelastic phase transition and the role of volume strain in the structural trapping of a metastable quenched low-spin high-symmetry phase in [Ru<sub>0.35</sub>Fe<sub>0.65</sub>(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub>; CRYSTENGCOMM, vol.25 (2023), DOI:10.1039/d3ce00365e 
 			IF citare: 3.1
 		[24.4] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[24.5] di Scala, N; Belmouri, NE; Espejo, MAP; Boukheddaden, K; Explaining the origin of the orientation of the front transformation in spin-transition crystals; PHYS REV B, vol.106 (2022), DOI:10.1103/PhysRevB.106.144107 
 			IF citare: 3.7
 		[24.6] Singh, Y; Affes, K; Belmouri, NI; Boukheddaden, K; Clamping of spin-crossover solid inducing crystal bending and spatial spin organization; MATER TODAY PHYS, vol.27 (2022), DOI:10.1016/j.mtphys.2022.100842 
@@ -346,7 +346,7 @@ nr.autori: 6 		 IF: 6.641 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9
 			IF citare: 0.0
 		[24.22] Gudyma, I; Maksymov, A; The cooperativity in 3D spin-crossover nanocrystals with ferromagnetic and antiferromagnetic surface; APPL SURF SCI, vol.483 (2019), DOI:10.1016/j.apsusc.2019.03.242 
 			IF citare: 6.182
-nr.autori: 2 		 IF: 2.366 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 22 		 UAIC I.9(Citari): 1300.7200 
+nr.autori: 2 		 IF: 2.366 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 22 		 UAIC I.9(Citari): 1356.7200 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [25] 	 Guenee, L; Delgado, T; Enachescu, C; Tissot, A; Hauser, A; Besnard, C; Evidencing size-dependent cooperative effects on spin cross-over nanoparticles of Hofmann-type [Fe(pz)Pt(CN)<sub>4</sub>] coordination polymers; ACTA CRYSTALLOGR A, vol.74, pp.E396-E396 (2018), DOI:10.1107/S2053273318089246 
 nr.autori: 6 		 IF: 1.878 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
@@ -453,7 +453,7 @@ nr.autori: 2 		 IF: 4.123 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 3 		 UAIC I.9
 		[32.2] Gudyma, I; Yarema, V; On the role of random bond in spin-crossover compounds; APPL NANOSCI, vol.missing (2022), DOI:10.1007/s13204-022-02739-5 
 			IF citare: 0.0
 		[32.3] Angulo-Cervera, JE; Piedrahita-Bello, M; Martin, B; Alavi, SE; Nicolazzi, W; Salmon, L; Molnár, G; Bousseksou, A; Thermal hysteresis of stress and strain in spin-crossover@polymer composites: towards a rational design of actuator devices; MATER ADV, vol.3 (2022), DOI:10.1039/d2ma00459c 
-			IF citare: 0.0
+			IF citare: 5.0
 		[32.4] Gudyma, I; Yarema, V; Bond-random model of spin-crossover compounds: similarities and differences from spin glasses; APPL NANOSCI, vol.12 (2022), DOI:10.1007/s13204-021-01731-9 
 			IF citare: 0.0
 		[32.5] Trinh, L; Zerdane, S; Mazérat, S; Dia, N; Dragoe, D; Herrero, C; Rivière, E; Catala, L; Cammarata, M; Collet, E; Mallah, T; Photoswitchable 11 nm CsCoFe Prussian Blue Analogue Nanocrystals with High Relaxation Temperature; INORG CHEM, vol.59 (2020), DOI:10.1021/acs.inorgchem.0c01432 
@@ -466,7 +466,7 @@ nr.autori: 2 		 IF: 4.123 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 3 		 UAIC I.9
 			IF citare: 4.036
 		[32.9] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K; Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle; CHEM PHYS LETT, vol.718 (2019), DOI:10.1016/j.cplett.2019.01.034 
 			IF citare: 2.029
-nr.autori: 6 		 IF: 3.411 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9(Citari):   97.7233 
+nr.autori: 6 		 IF: 3.411 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9(Citari):  114.3900 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [33] 	 Bertoni, R; Lorenc, M; Cailleau, H; Tissot, A; Laisney, J; Boillot, ML; Stoleriu, L; Stancu, A; Enachescu, C; Collet, E; Elastically driven cooperative response of a molecular material impacted by a laser pulse; NAT MATER, vol.15, pp.606-+ (2016), DOI:10.1038/NMAT4606 
 		[33.1] Collet, E; Azzolina, G; Jeftic, J; Lemée-Cailleau, MH; Coupled spin cross-over and ferroelasticity: revisiting the prototype [Fe(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub> material; ADV PHYS-X, vol.8 (2023), DOI:10.1080/23746149.2022.2161936 
@@ -494,7 +494,7 @@ nr.autori: 6 		 IF: 3.411 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9
 		[33.12] Velazquez-Garcia, JD; Basuroy, K; Storozhuk, D; Wong, J; Demeshko, S; Meyer, F; Henning, R; Techert, S; Short- <i>vs</i>. long-range elastic distortion: structural dynamics of a [2 x 2] tetrairon(ii) spin crossover grid complex observed by time-resolved X-Ray crystallography; DALTON T, vol.51 (2022), DOI:10.1039/d2dt02638d 
 			IF citare: 4.0
 		[33.13] Zhang, YT; Zhang, LJ; Ridier, K; Salmon, L; Séguy, I; Molnár, G; Bousseksou, A; Switching endurance of the molecular spin crossover complex [Fe(HB(tz)<sub>3</sub>)<sub>2</sub>]: from single crystals to thin films and electronic devices; MATER ADV, vol.3 (2022), DOI:10.1039/d2ma00802e 
-			IF citare: 0.0
+			IF citare: 5.0
 		[33.14] Seredyuk, ML; Znovjyak, KO; Fritsky, IO; Influence of Cooperative Interactions on the Spin Crossover Phenomenon in Iron(II) Complexes: A Review; THEOR EXP CHEM+, vol.58 (2022), DOI:10.1007/s11237-022-09725-6 
 			IF citare: 1.0
 		[33.15] Ekanayaka, TK; Maity, KP; Doudin, B; Dowben, PA; Dynamics of Spin Crossover Molecular Complexes; NANOMATERIALS-BASEL, vol.12 (2022), DOI:10.3390/nano12101742 
@@ -583,7 +583,7 @@ nr.autori: 6 		 IF: 3.411 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9
 			IF citare: 14.612
 		[33.57] Collet, E; Azzolina, G; Ichii, T; Guerin, L; Bertoni, R; Moréac, A; Cammarata, M; Daro, N; Chastanet, G; Kubicki, J; Tanaka, K; Matar, SF; Lattice phonon modes of the spin crossover crystal [Fe(phen)<sub>2</sub>(NCS)<sub>2</sub>] studied by THz, IR, Raman spectroscopies and DFT calculations; EUR PHYS J B, vol.92 (2019), DOI:10.1140/epjb/e2018-90553-2 
 			IF citare: 1.347
-nr.autori: 10 		 IF: 39.737 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 57 		 UAIC I.9(Citari):  900.8100 
+nr.autori: 10 		 IF: 39.737 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 57 		 UAIC I.9(Citari):  910.8100 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [34] 	 Atitoaie, A; Stoleriu, L; Tanasa, R; Stancu, A; Enachescu, C; Thermal hysteresis kinetic effects of spin crossover nanoparticulated systems studied by FORC diagram method on an Ising-like model; PHYSICA B, vol.486, pp.138-141 (2016), DOI:10.1016/j.physb.2015.08.035 
 		[34.1] Kantar, E; Ertas, M; Triangular Ising nanowire system with core/shell structured; EUR PHYS J PLUS, vol.137 (2022), DOI:10.1140/epjp/s13360-022-03315-0 
@@ -597,7 +597,7 @@ nr.autori: 6 		 IF: 2.101 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 		[36.1] Moneo-Corcuera, A; Nieto-Castro, D; Cirera, J; Gómez, V; Sanjosé-Orduna, J; Casadevall, C; Molnár, G; Bousseksou, A; Parella, T; Martínez-Agudo, J; Lloret-Fillol, J; Pérez-Temprano, MH; Ruiz, E; Galán-Mascarós, JR; Molecular memory near room temperature in an iron polyanionic complex; CHEM-US, vol.9 (2023), DOI:10.1016/j.chempr.2022.09.025 
 			IF citare: 23.5
 		[36.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[36.3] Singh, Y; Affes, K; Belmouri, NI; Boukheddaden, K; Clamping of spin-crossover solid inducing crystal bending and spatial spin organization; MATER TODAY PHYS, vol.27 (2022), DOI:10.1016/j.mtphys.2022.100842 
 			IF citare: 11.5
 		[36.4] Affes, K; Slimani, A; Singh, Y; Maalej, A; Boukheddaden, K; Magneto-elastic properties of a spin crossover membrane deposited on a deformable substrate; J PHYS-CONDENS MAT, vol.32 (2020), DOI:10.1088/1361-648X/ab7a4a 
@@ -606,7 +606,7 @@ nr.autori: 6 		 IF: 2.101 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 			IF citare: 4.036
 		[36.6] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K; Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle; CHEM PHYS LETT, vol.718 (2019), DOI:10.1016/j.cplett.2019.01.034 
 			IF citare: 2.029
-nr.autori: 5 		 IF: 2.101 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 6 		 UAIC I.9(Citari):  185.5920 
+nr.autori: 5 		 IF: 2.101 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 6 		 UAIC I.9(Citari):  207.9920 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [37] 	 Enachescu, C; Nishino, M; Miyashita, S; Boukheddaden, K; Varret, F; Rikvold, PA; Shape effects on the cluster spreading process of spin-crossover compounds analyzed within an elastic model with Eden and Kawasaki dynamics; PHYS REV B, vol.91, art.no.104102 (2015), DOI:10.1103/PhysRevB.91.104102 
 		[37.1] Collet, E; Azzolina, G; Jeftic, J; Lemée-Cailleau, MH; Coupled spin cross-over and ferroelasticity: revisiting the prototype [Fe(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub> material; ADV PHYS-X, vol.8 (2023), DOI:10.1080/23746149.2022.2161936 
@@ -684,7 +684,7 @@ nr.autori: 5 		 IF: 3.302 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 4 		 UAIC I.9
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [41] 	 Chakraborty, P; Enachescu, C; Humair, A; Egger, L; Delgado, T; Tissot, A; Guénée, L; Besnard, C; Bronisz, R; Hauser, A; Light-induced spin-state switching in the mixed crystal series of the 2D coordination network {[Zn<sub>1-<i>x</i></sub>Fe<i><sub>x</sub></i>(bbtr)<sub>3</sub>](BF<sub>4</sub>)<sub>2</sub>}<sub>∞</sub>: optical spectroscopy and cooperative effects; DALTON T, vol.43, pp.17786-17796 (2014), DOI:10.1039/c4dt01728e 
 		[41.1] Marchenko, RD; Potapov, AS; Synthesis of Bis(1,2,3-triazolyl)alkanes in Superbasic and Solvent-Free Conditions; MOLBANK, vol.2023 (2023), DOI:10.3390/M1551 
-			IF citare: 0.0
+			IF citare: 0.6
 		[41.2] Yergeshbayeva, S; Hrudka, JJ; Jo, M; Gakiya-Teruya, M; Meisel, MW; Shatruk, M; Abrupt Spin Transition in a Heteroleptic Fe(II) Complex with Pendant Naphthalene Functionality; INORG CHEM, vol.61 (2022), DOI:10.1021/acs.inorgchem.2c01490 
 			IF citare: 4.6
 		[41.3] Nadeem, M; Cruddas, J; Ruzzi, G; Powell, BJ; Toward High-Temperature Light-Induced Spin-State Trapping in Spin-Crossover Materials: The Interplay of Collective and Molecular Effects; J AM CHEM SOC, vol.144 (2022), DOI:10.1021/jacs.2c03202 
@@ -699,7 +699,7 @@ nr.autori: 5 		 IF: 3.302 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 4 		 UAIC I.9
 			IF citare: 12.959
 		[41.8] Valverde-Muñoz, FJ; Seredyuk, M; Meneses-Sánchez, M; Muñoz, MC; Bartual-Murgui, C; Real, JA; Discrimination between two memory channels by molecular alloying in a doubly bistable spin crossover material; CHEM SCI, vol.10 (2019), DOI:10.1039/c8sc05256e 
 			IF citare: 9.346
-nr.autori: 10 		 IF: 4.197 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):   87.3700 
+nr.autori: 10 		 IF: 4.197 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):   88.5700 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [42] 	 Nishino, M; Nakada, T; Enachescu, C; Boukheddaden, K; Miyashita, S; Crossover of the roughness exponent for interface growth in systems with long-range interactions due to lattice distortion; PHYS REV B, vol.88, art.no.094303 (2013), DOI:10.1103/PhysRevB.88.094303 
 		[42.1] di Scala, N; Belmouri, NE; Espejo, MAP; Boukheddaden, K; Explaining the origin of the orientation of the front transformation in spin-transition crystals; PHYS REV B, vol.106 (2022), DOI:10.1103/PhysRevB.106.144107 
@@ -726,7 +726,7 @@ nr.autori: 5 		 IF: 3.664 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9
 		[43.2] Li, X; Zhang, D; Qian, YQ; Liu, WX; Mathonie, C; Clerac, R; Bao, X; Chemical Manipulation of the Spin-Crossover Dynamics through Judicious Metal-Ion Dilution; J AM CHEM SOC, vol.145 (2023), DOI:10.1021/jacs.2c13697 
 			IF citare: 0.0
 		[43.3] Marchenko, RD; Potapov, AS; Synthesis of Bis(1,2,3-triazolyl)alkanes in Superbasic and Solvent-Free Conditions; MOLBANK, vol.2023 (2023), DOI:10.3390/M1551 
-			IF citare: 0.0
+			IF citare: 0.6
 		[43.4] Ksiazek, M; Weselski, M; Kusz, J; Bronisz, R; Single crystal-to-single crystal transformation - from two distinct to three distinct spin crossover centers in 2D coordination polymer [Fe(bbtr)<sub>3</sub>](CF<sub>3</sub>SO<sub>3</sub>)<sub>2</sub>; DALTON T, vol.51 (2022), DOI:10.1039/d1dt03578a 
 			IF citare: 4.0
 		[43.5] Chakraborty, G; Park, IH; Medishetty, R; Vittal, JJ; Two-Dimensional Metal-Organic Framework Materials: Synthesis, Structures, Properties and Applications; CHEM REV, vol.121 (2021), DOI:10.1021/acs.chemrev.0c01049 
@@ -735,7 +735,7 @@ nr.autori: 5 		 IF: 3.664 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9
 			IF citare: 12.959
 		[43.7] Ksiazek, M; Weselski, M; Ilczyszyn, M; Kusz, J; Bronisz, R; Sliding Polymeric Layers and Anion Displacement Coupled with Spin Crossover in Two-Dimensional Networks of [Fe(hbtz)<sub>2</sub>(CH<sub>3</sub> CN)<sub>2</sub>](BF<sub>4</sub>)<sub>2</sub>; CHEM-EUR J, vol.25 (2019), DOI:10.1002/chem.201804721 
 			IF citare: 4.857
-nr.autori: 6 		 IF: 5.696 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 7 		 UAIC I.9(Citari):  339.0100 
+nr.autori: 6 		 IF: 5.696 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 7 		 UAIC I.9(Citari):  341.0100 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [44] 	 Chakraborty, P; Enachescu, C; Hauser, A; Analysis of the Experimental Data for Pure and Diluted [Fe<i><sub>x</sub></i>Zn<sub>1-<i>x</i></sub>(bbtr)<sub>3</sub>](ClO<sub>4</sub>)<sub>2</sub> Spin-Crossover Solids in the Framework of a Mechanoelastic Model; EUR J INORG CHEM, vol.missing, pp.770-780 (2013), DOI:10.1002/ejic.201201193 
 		[44.1] Wellm, C; Majcher-Fitas, AM; Rams, M; Näther, C; Impact of the synthetic approach on the magnetic properties and homogeneity of mixed crystals of tunable layered ferromagnetic coordination polymers; DALTON T, vol.49 (2020), DOI:10.1039/d0dt03428b 
@@ -836,7 +836,7 @@ nr.autori: 5 		 IF: 4.593 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 		[49.2] Shen, YW; Woodburn, J; Bouras, S; Dai, S; Dovgaliuk, I; Grenèche, JM; Patriarche, G; Daku, LML; Serre, C; Tissot, A; Room-Temperature Bistability in Spin Crossover-Loaded Metal-Organic Frameworks; CHEM MATER, vol.35 (2023), DOI:10.1021/acs.chemmater.2c03426 
 			IF citare: 8.6
 		[49.3] Angulo-Cervera, JE; Piedrahita-Bello, M; Martin, B; Alavi, SE; Nicolazzi, W; Salmon, L; Molnár, G; Bousseksou, A; Thermal hysteresis of stress and strain in spin-crossover@polymer composites: towards a rational design of actuator devices; MATER ADV, vol.3 (2022), DOI:10.1039/d2ma00459c 
-			IF citare: 0.0
+			IF citare: 5.0
 		[49.4] Zan, Y; Salmon, L; Bousseksou, A; Morphological Studies of Composite Spin Crossover@SiO<sub>2</sub> Nanoparticles; NANOMATERIALS-BASEL, vol.11 (2021), DOI:10.3390/nano11123169 
 			IF citare: 5.719
 		[49.5] Fahs, A; Nicolazzi, W; Molnár, G; Bousseksou, A; Role of Surface Effects in the Vibrational Density of States and the Vibrational Entropy in Spin Crossover Nanomaterials: A Molecular Dynamics Investigation; MAGNETOCHEMISTRY, vol.7 (2021), DOI:10.3390/magnetochemistry7020027 
@@ -857,7 +857,7 @@ nr.autori: 5 		 IF: 4.593 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 			IF citare: 2.029
 		[49.13] Collet, E; Azzolina, G; Ichii, T; Guerin, L; Bertoni, R; Moréac, A; Cammarata, M; Daro, N; Chastanet, G; Kubicki, J; Tanaka, K; Matar, SF; Lattice phonon modes of the spin crossover crystal [Fe(phen)<sub>2</sub>(NCS)<sub>2</sub>] studied by THz, IR, Raman spectroscopies and DFT calculations; EUR PHYS J B, vol.92 (2019), DOI:10.1140/epjb/e2018-90553-2 
 			IF citare: 1.347
-nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 13 		 UAIC I.9(Citari):  472.7733 
+nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 13 		 UAIC I.9(Citari):  506.1067 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [50] 	 Nishino, M; Enachescu, C; Miyashita, S; Rikvold, PA; Boukheddaden, K; Varret, F; Macroscopic nucleation phenomena in continuum media with long-range interactions; SCI REP-UK, vol.1, art.no.162 (2011), DOI:10.1038/srep00162 
 		[50.1] di Scala, N; Belmouri, NE; Espejo, MAP; Boukheddaden, K; Explaining the origin of the orientation of the front transformation in spin-transition crystals; PHYS REV B, vol.106 (2022), DOI:10.1103/PhysRevB.106.144107 
@@ -900,7 +900,7 @@ nr.autori: 6 		 IF: 2.927 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 17 		 UAIC I.
 		[51.1] Collet, E; Azzolina, G; Jeftic, J; Lemée-Cailleau, MH; Coupled spin cross-over and ferroelasticity: revisiting the prototype [Fe(ptz)<sub>6</sub>](BF<sub>4</sub>)<sub>2</sub> material; ADV PHYS-X, vol.8 (2023), DOI:10.1080/23746149.2022.2161936 
 			IF citare: 6.0
 		[51.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[51.3] Singh, Y; Affes, K; Belmouri, NI; Boukheddaden, K; Clamping of spin-crossover solid inducing crystal bending and spatial spin organization; MATER TODAY PHYS, vol.27 (2022), DOI:10.1016/j.mtphys.2022.100842 
 			IF citare: 11.5
 		[51.4] Koptur-Palenchar, J; Gakiya-Teruya, M; Le, D; Jiang, J; Zhang, R; Jiang, XY; Cheng, HP; Rahman, TS; Shatruk, M; Zhang, XX; Thickness-dependent spin bistable transitions in single-crystalline molecular 2D material; NPJ 2D MATER APPL, vol.6 (2022), DOI:10.1038/s41699-022-00335-3 
@@ -935,7 +935,7 @@ nr.autori: 6 		 IF: 2.927 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 17 		 UAIC I.
 			IF citare: 0.0
 		[51.19] Affes, K; Slimani, A; Maalej, A; Boukheddaden, K; Electro-elastic modeling of thermal and mechanical properties of a spin crossover core/shell nanoparticle; CHEM PHYS LETT, vol.718 (2019), DOI:10.1016/j.cplett.2019.01.034 
 			IF citare: 2.029
-nr.autori: 5 		 IF: 3.691 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 19 		 UAIC I.9(Citari):  413.8840 
+nr.autori: 5 		 IF: 3.691 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 19 		 UAIC I.9(Citari):  436.2840 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [52] 	 Padurariu, L; Enachescu, C; Mitoseriu, L; Monte Carlo simulations for describing the ferroelectric-relaxor crossover in BaTiO<sub>3</sub>-based solid solutions; J PHYS-CONDENS MAT, vol.23, art.no.325901 (2011), DOI:10.1088/0953-8984/23/32/325901 
 		[52.1] Curecheriu, L; Sandu, T; Condurache, O; Canu, G; Costa, C; Buscaglia, MT; Asandulesa, M; Banys, J; Buscaglia, V; Mitoseriu, L; Dielectric, ferroelectric and electrocaloric properties of 1%Eu- doped BaZryTi1-yO3 ceramics; MATER RES BULL, vol.157 (2023), DOI:10.1016/j.materresbull.2022.112034 
@@ -967,25 +967,25 @@ nr.autori: 9 		 IF: 3.691 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [54] 	 Enachescu, C; Stoleriu, L; Stancu, A; Hauser, A; Study of the relaxation in diluted spin crossover molecular magnets in the framework of the mechano-elastic model; J APPL PHYS, vol.109, art.no.07B111 (2011), DOI:10.1063/1.3556702 
 		[54.1] Ivashko, V; Krulikovskyi, O; Samila, A; Role of the impurities in 2D spin crossover nanoparticle: Monte Carlo study; PHYS CHEM SOLID STAT, vol.24 (2023), DOI:10.15330/pcss.24.3.509-514 
-			IF citare: 0.0
+			IF citare: 0.7
 		[54.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[54.3] Cruddas, J; Ruzzi, G; Powell, BJ; Spin-state smectics in spin crossover materials; J APPL PHYS, vol.129 (2021), DOI:10.1063/5.0045763 
 			IF citare: 2.877
-nr.autori: 4 		 IF: 2.168 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 3 		 UAIC I.9(Citari):   21.8850 
+nr.autori: 4 		 IF: 2.168 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 3 		 UAIC I.9(Citari):   53.3850 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [55] 	 Krivokapic, I; Chakraborty, P; Enachescu, C; Bronisz, R; Hauser, A; Low-Spin→High-Spin Relaxation Dynamics in the Highly Diluted Spin-Crossover System [Fe<i><sub>x</sub></i>Zn<sub>1-<i>x</i></sub>(bbtr)<sub>3</sub>](ClO<sub>4</sub>)<sub>2</sub>; INORG CHEM, vol.50, pp.1856-1861 (2011), DOI:10.1021/ic102269y 
 		[55.1] Ksiazek, M; Weselski, M; Kazmierczak, M; Polrolniczak, A; Katrusiak, A; Paliwoda, D; Kusz, J; Bronisz, R; Extremely Slow Thermally-Induced Spin Crossover in the Two-Dimensional Network [Fe(bbtr)<sub>3</sub>](BF<sub>4</sub>)<sub>2</sub>; CHEM-EUR J, vol.missing (2023), DOI:10.1002/chem.202302887 
 			IF citare: 4.3
 		[55.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[55.3] Ksiazek, M; Weselski, M; Kusz, J; Bronisz, R; Single crystal-to-single crystal transformation - from two distinct to three distinct spin crossover centers in 2D coordination polymer [Fe(bbtr)<sub>3</sub>](CF<sub>3</sub>SO<sub>3</sub>)<sub>2</sub>; DALTON T, vol.51 (2022), DOI:10.1039/d1dt03578a 
 			IF citare: 4.0
 		[55.4] Nieto-Castro, D; Garcés-Pineda, FA; Moneo-Corcuera, A; Pato-Doldan, B; Gispert-Guirado, F; Benet-Buchholz, J; Galán-Mascarós, JR; Effect of Mechanochemical Recrystallization on the Thermal Hysteresis of 1D Fe<SUP>II</SUP>-triazole Spin Crossover Polymers; INORG CHEM, vol.59 (2020), DOI:10.1021/acs.inorgchem.9b03284 
 			IF citare: 5.165
 		[55.5] Baldé, C; Sylla, MS; Desplanches, C; Chastanet, G; High-spin → low-spin relaxation kinetics and metal dilution effects in 1D spin-crossover chain compounds; POLYHEDRON, vol.159 (2019), DOI:10.1016/j.poly.2018.11.046 
 			IF citare: 2.343
-nr.autori: 5 		 IF: 4.601 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 5 		 UAIC I.9(Citari):   73.2320 
+nr.autori: 5 		 IF: 4.601 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 5 		 UAIC I.9(Citari):   95.6320 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [56] 	 Wiese, B; Böhner, J; Enachescu, C; Würdemann, H; Zimmermann, G; Hydraulic characterisation of the Stuttgart formation at the pilot test site for CO<sub>2</sub> storage, Ketzin, Germany; INT J GREENH GAS CON, vol.4, pp.960-971 (2010), DOI:10.1016/j.ijggc.2010.06.013 
 		[56.1] Jang, E; Wiese, B; Pilz, P; Fischer, S; Schmidt-Hattenberger, C; Geochemical modeling of CO<sub>2</sub> injection and gypsum precipitation at the Ketzin CO<sub>2</sub> storage site; ENVIRON EARTH SCI, vol.81 (2022), DOI:10.1007/s12665-022-10290-3 
@@ -1082,12 +1082,12 @@ nr.autori: 3 		 IF: 1.69 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(
 		[63.1] Ksiazek, M; Weselski, M; Kazmierczak, M; Polrolniczak, A; Katrusiak, A; Paliwoda, D; Kusz, J; Bronisz, R; Extremely Slow Thermally-Induced Spin Crossover in the Two-Dimensional Network [Fe(bbtr)<sub>3</sub>](BF<sub>4</sub>)<sub>2</sub>; CHEM-EUR J, vol.missing (2023), DOI:10.1002/chem.202302887 
 			IF citare: 4.3
 		[63.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[63.3] Ksiazek, M; Weselski, M; Kusz, J; Bronisz, R; Single crystal-to-single crystal transformation - from two distinct to three distinct spin crossover centers in 2D coordination polymer [Fe(bbtr)<sub>3</sub>](CF<sub>3</sub>SO<sub>3</sub>)<sub>2</sub>; DALTON T, vol.51 (2022), DOI:10.1039/d1dt03578a 
 			IF citare: 4.0
 		[63.4] Ksiazek, M; Weselski, M; Ilczyszyn, M; Kusz, J; Bronisz, R; Sliding Polymeric Layers and Anion Displacement Coupled with Spin Crossover in Two-Dimensional Networks of [Fe(hbtz)<sub>2</sub>(CH<sub>3</sub> CN)<sub>2</sub>](BF<sub>4</sub>)<sub>2</sub>; CHEM-EUR J, vol.25 (2019), DOI:10.1002/chem.201804721 
 			IF citare: 4.857
-nr.autori: 5 		 IF: 12.73 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 4 		 UAIC I.9(Citari):   60.6280 
+nr.autori: 5 		 IF: 12.73 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 4 		 UAIC I.9(Citari):   83.0280 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [64] 	 Dobrinescu, A; Enachescu, C; Stancu, A; Ising-like model study of size dependence relaxation in spin crossover complexes; J MAGN MAGN MATER, vol.321, pp.4132-4138 (2009), DOI:10.1016/j.jmmm.2009.08.017 
 nr.autori: 3 		 IF: 1.204 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
@@ -1096,9 +1096,9 @@ nr.autori: 3 		 IF: 1.204 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 		[65.1] Cazelles, C; Ndiaye, M; Dahoo, P; Linares, J; Boukheddaden, K; Surface-Bulk 2D Spin-Crossover Nanoparticles within Ising-like Model Solved by Using Entropic Sampling Technique; MAGNETOCHEMISTRY, vol.9 (2023), DOI:10.3390/magnetochemistry9030061 
 			IF citare: 2.7
 		[65.2] Ivashko, V; Krulikovskyi, O; Samila, A; Role of the impurities in 2D spin crossover nanoparticle: Monte Carlo study; PHYS CHEM SOLID STAT, vol.24 (2023), DOI:10.15330/pcss.24.3.509-514 
-			IF citare: 0.0
+			IF citare: 0.7
 		[65.3] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[65.4] Cazelles, C; Linares, J; Dahoo, PR; Boukheddaden, K; A Generalized Ising-like Model for Spin Crossover Nanoparticles; MAGNETOCHEMISTRY, vol.8 (2022), DOI:10.3390/magnetochemistry8050049 
 			IF citare: 2.7
 		[65.5] Linares, J; Cazelles, C; Dahoo, PR; Boukheddaden, K; A First Order Phase Transition Studied by an Ising-Like Model Solved by Entropic Sampling Monte Carlo Method; SYMMETRY-BASEL, vol.13 (2021), DOI:10.3390/sym13040587 
@@ -1109,13 +1109,13 @@ nr.autori: 3 		 IF: 1.204 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 			IF citare: 5.165
 		[65.8] Kajikawa, S; Muraoka, A; Theoretical study of the Fe(btr)<sub>2</sub>(NCS)<sub>2</sub> spin-crossover complex with reparameterized density functionals; CHEM PHYS LETT, vol.738 (2020), DOI:10.1016/j.cplett.2019.136867 
 			IF citare: 2.328
-nr.autori: 7 		 IF: 2.207 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):   67.1286 
+nr.autori: 7 		 IF: 2.207 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):   85.1286 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [66] 	 Enachescu, C; Stoleriu, L; Stancu, A; Hauser, A; Model for Elastic Relaxation Phenomena in Finite 2D Hexagonal Molecular Lattices; PHYS REV LETT, vol.102, art.no.257204 (2009), DOI:10.1103/PhysRevLett.102.257204 
 		[66.1] Ogou, SB; Oke, TD; Karimou, M; Hontinfinde, F; Boukheddaden, K; BEG spin-1 model with random exchange magnetic interactions for spin-crossover solids; J PHYS-CONDENS MAT, vol.35 (2023), DOI:10.1088/1361-648X/acee3e 
 			IF citare: 2.7
 		[66.2] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[66.3] Klokishner, S; Ostrovsky, S; Modeling of Spin Crossover in Linear Trinuclear Complexes: Effects of External Pressure; J PHYS CHEM A, vol.missing (2022), DOI:10.1021/acs.jpca.2c04820 
 			IF citare: 2.9
 		[66.4] di Scala, N; Belmouri, NE; Espejo, MAP; Boukheddaden, K; Explaining the origin of the orientation of the front transformation in spin-transition crystals; PHYS REV B, vol.106 (2022), DOI:10.1103/PhysRevB.106.144107 
@@ -1164,7 +1164,7 @@ nr.autori: 7 		 IF: 2.207 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9
 			IF citare: 2.029
 		[66.26] Berthier, F; Creuze, J; Gabard, T; Legrand, B; Marinica, MC; Mottet, C; Order-disorder or phase-separation transition: Analysis of the Au-Pd system by the effective site energy model; PHYS REV B, vol.99 (2019), DOI:10.1103/PhysRevB.99.014108 
 			IF citare: 3.575
-nr.autori: 4 		 IF: 7.328 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 26 		 UAIC I.9(Citari):  500.1450 
+nr.autori: 4 		 IF: 7.328 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 26 		 UAIC I.9(Citari):  528.1450 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [67] 	 Mishra, V; Mishra, H; Mukherjee, R; Codjovi, E; Linarès, J; Létard, JF; Desplanches, C; Baldé, C; Enachescu, C; Varret, F; Spin-transition in [Fe<SUP>II</SUP>(L<SUP>5</SUP>)<sub>2</sub>][ClO<sub>4</sub>]<sub>2</sub>[L<SUP>5</SUP>=2-[3-(2′-pyridyl)pyrazol-1-ylmethyl](1-methylimidazole)]: a further example of coexistence of features typical for disorder and cooperativity; DALTON T, vol.missing, pp.7462-7472 (2009), DOI:10.1039/b901397k 
 		[67.1] Chandrasekhar, V; Chakraborty, A; Status of Inorganic Chemistry Research in India; P INDIAN NATL SCI AC, vol.86 (2020), DOI:10.16943/ptinsa/2019/49735 
@@ -1215,10 +1215,10 @@ nr.autori: 6 		 IF: 1.713 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [72] 	 Tanasa, R; Enachescu, C; Stancu, A; Varret, F; Linares, J; Codjovi, E; Study of impurities effect in spin crossover compounds using first order reversal curves (FORC) method; POLYHEDRON, vol.26, pp.1820-1824 (2007), DOI:10.1016/j.poly.2006.09.079 
 		[72.1] Ivashko, V; Krulikovskyi, O; Samila, A; Role of the impurities in 2D spin crossover nanoparticle: Monte Carlo study; PHYS CHEM SOLID STAT, vol.24 (2023), DOI:10.15330/pcss.24.3.509-514 
-			IF citare: 0.0
+			IF citare: 0.7
 		[72.2] Bartual-Murgui, C; Pérez-Padilla, C; Teat, SJ; Roubeau, O; Aromí, G; Allosteric Spin Crossover Induced by Ligand-Based Molecular Alloying; INORG CHEM, vol.59 (2020), DOI:10.1021/acs.inorgchem.0c01061 
 			IF citare: 5.165
-nr.autori: 6 		 IF: 1.756 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(Citari):   20.5500 
+nr.autori: 6 		 IF: 1.756 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(Citari):   22.8833 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [73] 	 Krivokapic, I; Zerara, M; Daku, ML; Vargas, A; Enachescu, C; Ambrus, C; Tregenna-Piggott, P; Amstutz, N; Krausz, E; Hauser, A; Spin-crossover in cobalt(II) imine complexes; COORDIN CHEM REV, vol.251, pp.364-378 (2007), DOI:10.1016/j.ccr.2006.05.006 
 		[73.1] Muñoz, J; Rational Design of Stimuli-Responsive Inorganic 2D Materials via Molecular Engineering: Toward Molecule-Programmable Nanoelectronics; ADV MATER, vol.missing (2023), DOI:10.1002/adma.202305546 
@@ -1405,7 +1405,7 @@ nr.autori: 2 		 IF: 0.938 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 		[76.11] Gavara-Edo, M; Valverde-Muñoz, FJ; Córdoba, R; Muñoz, MC; Herrero-Martín, J; Real, JA; Coronado, E; Sublimable complexes with spin switching: chemical design, processing as thin films and integration in graphene-based devices; J MATER CHEM C, vol.11 (2023), DOI:10.1039/d2tc04120k 
 			IF citare: 6.4
 		[76.12] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[76.13] Missana, A; Hauser, A; Daku, LML; Environmental Control of the Magnetic Behavior of Transition Metal Complexes: Density Functional Theory Study of Zeolite Y Embedded Complexes [M(bpy)<sub>3</sub>]<SUP>2+</SUP>@Y (M = Fe<SUP>2+</SUP>, Co<SUP>2+</SUP>); J PHYS CHEM A, vol.126 (2022), DOI:10.1021/acs.jpca.2c05070 
 			IF citare: 2.9
 		[76.14] Turo-Cortés, R; Meneses-Sánchez, M; Delgado, T; Bartual-Murgui, C; Muñoz, MC; Real, JA; Coexistence of luminescence and spin-crossover in 2D iron(ii) Hofmann clathrates modulated through guest encapsulation; J MATER CHEM C, vol.10 (2022), DOI:10.1039/d2tc02039d 
@@ -1480,7 +1480,7 @@ nr.autori: 2 		 IF: 0.938 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9
 			IF citare: 0.973
 		[76.49] Daku, LML; Spin-state dependence of the structural and vibrational properties of solvated iron(ii) polypyridyl complexes from AIMD simulations: II. aqueous [Fe(tpy)<sub>2</sub>]Cl<sub>2</sub>; PHYS CHEM CHEM PHYS, vol.21 (2019), DOI:10.1039/c8cp06671j 
 			IF citare: 3.43
-nr.autori: 5 		 IF: 8.815 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 49 		 UAIC I.9(Citari): 1648.2680 
+nr.autori: 5 		 IF: 8.815 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 49 		 UAIC I.9(Citari): 1670.6680 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [77] 	 Enachescu, C; Hauser, A; Girerd, JJ; Boillot, ML; Photoexcitation and relaxation dynamics of catecholato-iron(III) spin-crossover complexes; CHEMPHYSCHEM, vol.7, pp.1127-1135 (2006), DOI:10.1002/cphc.200500671 
 		[77.1] Janetzki, JT; Chegerev, MG; Gransbury, GK; Gable, RW; Clegg, JK; Mulder, RJ; Jameson, GNL; Starikova, AA; Boskovic, C; Controlling Spin Crossover in a Family of Dinuclear Fe(III) Complexes via the Bis(catecholate) Bridging Ligand; INORG CHEM, vol.62 (2023), DOI:10.1021/acs.inorgchem.3c02598 
@@ -1552,7 +1552,7 @@ nr.autori: 6 		 IF: 3.185 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 6 		 UAIC I.9
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [83] 	 Gawali-Salunke, S; Varret, F; Maurin, I; Enachescu, C; Malarova, A; Boukheddaden, K; Codjovi, E; Tokoro, H; Ohkoshi, S; Hashimoto, K; Magnetic and Mossbauer investigation of the photomagnetic prussian blue analogue Na<sub>0.32</sub>CO[Fe(CN)<sub>6</sub>]<sub>0.74</sub>•3.4H<sub>2</sub>O:: Cooperative relaxation of the thermally quenched state; J PHYS CHEM B, vol.109, pp.8251-8256 (2005), DOI:10.1021/jp044739x 
 		[83.1] Affes, K; Singh, Y; Boukheddaden, K; Electro-Elastic Modeling of Thermal Spin Transition in Diluted Spin-Crossover Single Crystals; INT J MOL SCI, vol.23 (2022), DOI:10.3390/ijms232213854 
-			IF citare: 0.0
+			IF citare: 5.6
 		[83.2] Glatz, J; Jiménez, JR; Godeffroy, L; von Bardeleben, HJ; Fillaud, L; Maisonhaute, E; Li, YL; Chamoreau, LM; Lescouëzec, R; Enlightening the Alkali Ion Role in the Photomagnetic Effect of FeCo Prussian Blue Analogues; J AM CHEM SOC, vol.144 (2022), DOI:10.1021/jacs.2c03421 
 			IF citare: 0.0
 		[83.3] Fourati, H; Ndiaye, M; Sy, M; Triki, S; Chastanet, G; Pillet, S; Boukheddaden, K; Light-induced thermal hysteresis and high-spin low-spin domain formation evidenced by optical microscopy in a spin-crossover single crystal; PHYS REV B, vol.105 (2022), DOI:10.1103/PhysRevB.105.174436 
@@ -1575,7 +1575,7 @@ nr.autori: 6 		 IF: 3.185 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 6 		 UAIC I.9
 			IF citare: 1.579
 		[83.12] Fourati, H; Bouchez, G; Paez-Espejo, M; Triki, S; Boukheddaden, K; Spatio-temporal Investigations of the Incomplete Spin Transition in a Single Crystal of [Fe(2-pytrz)<sub>2</sub>{Pt(CN)<sub>4</sub>}]•3H<sub>2</sub>O: Experiment and Theory; CRYSTALS, vol.9 (2019), DOI:10.3390/cryst9010046 
 			IF citare: 2.404
-nr.autori: 10 		 IF: 4.033 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 12 		 UAIC I.9(Citari):   65.8940 
+nr.autori: 10 		 IF: 4.033 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 12 		 UAIC I.9(Citari):   77.0940 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [84] 	 Niel, V; Thompson, AL; Goeta, AE; Enachescu, C; Hauser, A; Galet, A; Muñoz, MC; Real, JA; Thermal- and photoinduced spin-state switching in an unprecedented three-dimensional bimetallic coordination polymer; CHEM-EUR J, vol.11, pp.2047-2060 (2005), DOI:10.1002/chem.200400930 
 		[84.1] Yalcin, O; Veliu, V; Ozum, S; Erdem, R; Static and dynamic properties of two-sublattice spin-crossover systems; PHYSICA B, vol.645 (2022), DOI:10.1016/j.physb.2022.414230 
@@ -1738,4 +1738,4 @@ nr.autori: 3 		 IF: 0.72 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Total criteriul I.1(UAIC) = 1057.3608			Total criteriul I.9(UAIC) = 14548.5426
+Total criteriul I.1(UAIC) = 1057.3608			Total criteriul I.9(UAIC) = 14916.1982
