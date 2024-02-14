@@ -16,3 +16,6 @@ end
 
 results = optimize(f, g!, x_iv, LBFGS()) # or ConjugateGradient()
 println("minimum = $(results.minimum) with argmin = $(results.minimizer) in "*"$(results.iterations) iterations")
+
+results = optimize(f, g!, x_iv, ConjugateGradient()) # or LBFGS()
+println("minimum = $(results.minimum) with argmin = $(results.minimizer) in "*"$(results.iterations) iterations")
