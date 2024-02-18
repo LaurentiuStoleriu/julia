@@ -1,14 +1,14 @@
-# using Revise
-# using BenchmarkTools
-# using Profile
+using Random
 using StaticArrays
 using Plots
 using Optim
 using Optim: converged, maximum, maximizer, minimizer, iterations
+using DelimitedFiles
 
-const N = 10
+const N = 30
 const rLow = 0.05
 const rHigh = 0.10
+const rAvg = (rLow + rHigh)/2.0
 const bondLen = 0.10
 const elasticK = 1.0e0
 const A = 1.0e-4
@@ -29,6 +29,17 @@ function probabs(T, p)
 	HtoL = unuPeTau * exp(DkBTpeDoikBT) * exp(-(Ea - k * p) / (kB * T))
 	LtoH = unuPeTau * exp(-DkBTpeDoikBT) * exp(-(Ea + k * p) / (kB * T))
     [HtoL, LtoH]
+end
+
+function computePressure(i, x, r)
+	elasticF = 0.0
+	if (i > 1) 
+		elasticF += elasticK * (bondLen - (x[i] - x[i - 1] - r[i] - r[i - 1]))
+    end
+	if (i < N) 
+		elasticF += elasticK * (bondLen - (x[i + 1] - x[i] - r[i] - r[i + 1]))
+    end
+    return elasticF
 end
 
 function createSystem!(x, r, stare) 
@@ -82,30 +93,55 @@ end
 
 function main()
     x = @MVector zeros(N)
-    r = @MVector zeros(N)  
+    r = @MVector zeros(N)
+
+    vecs = SVector{N+1,Float64}[]
 
     createSystem!(x, r, 0)
-    # totalEnergy(x, r) 
-
-    r[4] = rHigh
-    r[5] = rHigh
-    r[6] = rHigh
 
     f(x) = totalEnergy(x, r)
     g!(G, x) = DtotalEnergy!(G, x, r)
-    results = optimize(f, g!, x, LBFGS()) # or ConjugateGradient()
-    #results = optimize(f, x, ConjugateGradient()) # or LBFGS()
+    results = optimize(f, g!, x, BFGS()) # or ConjugateGradient()
+    #results = optimize(f, g!, x, ConjugateGradient()) # or LBFGS()
     #println("minimum = $(results.minimum) with argmin = $(results.minimizer) in "*"$(results.iterations) iterations")
     
-    xNew = Optim.minimizer(results)[1:N]
-    #println(Optim.minimizer(results), "  ", Optim.converged(results))
-    #println(r)
+    HS = 0
+    LS = N
+    open("/home/lali/TITAN-ROG-sync/julia/1D-potential/10-MHL.txt", "w") do io
+    end
+    #temperature = 250.0
+    for temperature in 100:0.1:300
+        randomOrder = Random.shuffle(1:N)
+        changeDone = false
+        for particle in randomOrder
+            localPressure = computePressure(particle, x, r)
+            probabHtoL, probabLtoH = probabs(temperature, localPressure)
+            if (r[particle] > rAvg) && (rand() < probabHtoL)
+                r[particle] = rLow
+                LS += 1
+                HS -= 1
+                changeDone = true
+            elseif (r[particle] < rAvg) && (rand() < probabLtoH)
+                r[particle] = rHigh
+                LS -= 1
+                HS += 1
+                changeDone = true
+            end
+            if changeDone
+                results = optimize(f, g!, x, BFGS())
+                x = Optim.minimizer(results)[1:N]
+                changeDone = false
+            end
+        end
 
-    plotSystem(xNew, r)
+        open("/home/lali/TITAN-ROG-sync/julia/1D-potential/10-MHL.txt", "a") do io
+            #writedlm(io, [temperature; LS; x]', ',')
+            writedlm(io, [temperature; LS; x[N]-x[1]]', ',')
+        end
+        println("T = ", temperature, "  LS = ", LS)
+    end
+
 end
 
-# @benchmark main()
-# @profile main()
-# Profile.print()
 
 main()
