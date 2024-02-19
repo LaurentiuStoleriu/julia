@@ -12,7 +12,7 @@ const rAvg = (rLow + rHigh)/2.0
 const bondLen = 0.10
 const elasticK = 1.0e0
 const A = 1.0e-4
-const factor = pi / (2.0*(rHigh - rLow))
+const factor = pi / (rHigh - rLow)
 
 const kB = 1.0
 const tau = 100.0
