@@ -12,7 +12,7 @@ const rHigh = 0.10
 const bondLen = 0.10
 const elasticK = 1.0e0
 const A = 1.0e-4
-const factor = pi / (rHigh - rLow)
+const factor = pi / (2.0*(rHigh - rLow))
 
 const kB = 1.0
 const tau = 100.0
@@ -87,6 +87,9 @@ function main()
     createSystem!(x, r, 0)
     # totalEnergy(x, r) 
 
+    r[4] = rHigh
+    r[5] = rHigh
+    r[6] = rHigh
 
     f(x) = totalEnergy(x, r)
     g!(G, x) = DtotalEnergy!(G, x, r)
