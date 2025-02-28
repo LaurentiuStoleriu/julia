@@ -1,5 +1,4 @@
 {
     "code-runner.runInTerminal": true,
-    "julia.executablePath": "/home/lali/julia-1.10.0/bin/julia",
     "notebook.markup.fontSize": 28
 }
