@@ -25,5 +25,5 @@ function profile_test(n)
     end
 end
 
-@profview profile_test(1)
-@profview profile_test(10)
+#@profview profile_test(1) #@profview - VSCode specific, deprecated
+#@profview profile_test(10)
