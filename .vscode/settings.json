@@ -1,4 +1,5 @@
 {
     "code-runner.runInTerminal": true,
-    "notebook.markup.fontSize": 28
+    "notebook.markup.fontSize": 28,
+    "julia.usePlotPane": false
 }
