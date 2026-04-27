@@ -1,0 +1,5 @@
+    plotInterpFORC = 20 #div(numFORCs * 2, 3)
+    println("----------------- Interpolating Akima $(plotInterpFORC)-th FORC ----------------")
+    H_interp, M_interp = gimmeOneFORC(plotInterpFORC)
+    Example = AkimaInterpolation(M_interp, H_interp)
+    plot(Example)
