@@ -36,7 +36,7 @@ function read_custom_file(filepath::String)
 end
 
 ##
-cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/S9280/S9280-FORC-50-1500-5s"
+cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/6.S9281.CoPt.10/S9281-FORC-50-2000-5s"
 H_read = Float64[]
 M_read = Float64[]
 H_read, M_read = read_custom_file(cale * ".txt")
@@ -216,7 +216,7 @@ for i in 2:numFORCs
 
     #Example = AkimaInterpolation(M_interp, H_interp)
 
-    global d = i+1
+    global d = 3
     global A = RegularizationSmooth(u, t, d; alg=:gcv_svd)
     global û = A.û
     global N = i #length(t)
