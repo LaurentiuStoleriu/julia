@@ -36,8 +36,9 @@ function read_custom_file(filepath::String)
 end
 
 ##
+cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/2.S9272.PtCoCu.7/S9272-FORC-50-2000-5s"
 #cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/6.S9281.CoPt.10/S9281-FORC-50-2000-5s"
-cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/4.S9283.CoPt.6/S9283-FORC-50-1500-5s"
+#cale = "/home/lali/TITAN-ROG-sync/julia/_Magnetism/4.S9283.CoPt.6/S9283-FORC-50-1500-5s"
 H_read = Float64[]
 M_read = Float64[]
 H_read, M_read = read_custom_file(cale * ".txt")
