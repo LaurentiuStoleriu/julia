@@ -1,0 +1,949 @@
+[1] 	 Marian, P; Marian, TA; Einstein-Podolsky-Rosen uncertainty limits for bipartite multimode states; PHYS REV A, vol.103, art.no.62224 (2021), DOI:10.1103/PhysRevA.103.062224 
+		[1.1] Naik, LP; Das, RM; Panigrahi, PK; Stronger EPR-steering criterion based on inferred Schrödinger-Robertson uncertainty relation; SCI REP-UK, vol.14 (2024), DOI:10.1038/s41598-023-50029-z 
+			IF citare: 3.9
+		[1.2] Yang, SY; He, K; Qi, XF; Hou, JC; Quantum steering in two-forked tree-shaped networks; PHYS SCRIPTA, vol.98 (2023), DOI:10.1088/1402-4896/ad049f 
+			IF citare: 2.6
+		[1.3] Teh, RY; Rosales-Zarate, L; Drummond, PD; Reid, MD; Mesoscopic and macroscopic quantum correlations in photonic, atomic and optomechanical systems; PROG QUANT ELECTRON, vol.90 (2023), DOI:10.1016/j.pquantelec.2022.100396 
+			IF citare: 7.4
+		[1.4] Xiang, Y; Cheng, SM; Gong, QH; Ficek, Z; He, QY; Quantum Steering: Practical Challenges and Future Directions; PRX QUANTUM, vol.3 (2022), DOI:10.1103/PRXQuantum.3.030102 
+			IF citare: 9.7
+		[1.5] Teh, RY; Gessner, M; Reid, MD; Fadel, M; Full multipartite steering inseparability, genuine multipartite steering, and monogamy for continuous-variable systems; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.012202 
+			IF citare: 2.9
+		[1.6] Dittrich, J; MEASUREMENT OF A QUANTUM PARTICLE POSITION AT TWO DISTANT LOCATIONS: A MODEL; ACTA POLYTECH, vol.62 (2022), DOI:10.14311/AP.2022.62.0445 
+			IF citare: 0.8
+nr.autori: 2 		 IF: 2.971 		 UAIC I.1(ISI): 101.6300 		 nr.citari: 6 		 UAIC I.9(Citari):  303.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2] 	 Marian, P; Marian, TA; Quantum speed of evolution in a Markovian bosonic environment; PHYS REV A, vol.103, art.no.22221 (2021), DOI:10.1103/PhysRevA.103.022221 
+		[2.1] Gaidash, A; Kiselev, AD; Kozubov, A; Miroshnichenko, G; Lindblad dynamics of open multimode bosonic systems: Algebra of quadratic superoperators, exceptional points, and speed of evolution; PHYS REV A, vol.111 (2025), DOI:10.1103/2lgr-34qp 
+			IF citare: 2.9
+		[2.2] Gaidi, S; Slaoui, A; El Falaki, M; Laamara, RA; A non-Markovianity measure based on quantum speed limit; PHYSICA A, vol.674 (2025), DOI:10.1016/j.physa.2025.130733 
+			IF citare: 3.1
+		[2.3] Wu, W; An, JH; Quantum speed limit from a quantum-state-diffusion method; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.012204 
+			IF citare: 2.6
+		[2.4] Wu, W; An, JH; Quantum speed limit of a noisy continuous-variable system; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.062438 
+			IF citare: 2.9
+		[2.5] Kiselev, AD; Ranim, A; Rybin, AV; Speed of Evolution and Correlations in Multi-Mode Bosonic Systems; ENTROPY-SWITZ, vol.24 (2022), DOI:10.3390/e24121774 
+			IF citare: 2.7
+		[2.6] Baruah, R; Paulson, KG; Banerjee, S; Phase Covariant Channel: Quantum Speed Limit of Evolution; ANN PHYS-BERLIN, vol.535 (2023), DOI:10.1002/andp.202200199 
+			IF citare: 2.2
+		[2.7] Poggi, PM; Campbell, S; Deffner, S; Diverging Quantum Speed Limits: A Herald of Classicality; PRX QUANTUM, vol.2 (2021), DOI:10.1103/PRXQuantum.2.040349 
+			IF citare: 0.0
+nr.autori: 2 		 IF: 2.971 		 UAIC I.1(ISI): 101.6300 		 nr.citari: 7 		 UAIC I.9(Citari):  199.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[3] 	 Marian, P; Marian, TA; A geometric measure of non-classicality; PHYS SCRIPTA, vol.95, art.no.54005 (2020), DOI:10.1088/1402-4896/ab631f 
+		[3.1] Ren, G; Quantum-enhanced phase metrology using twin Fock states in an SU(1,1) interferometer; LASER PHYS LETT, vol.22 (2025), DOI:10.1088/1612-202X/ae07b6 
+			IF citare: 1.4
+		[3.2] Giani, A; Win, MZ; Conti, A; Quantum Sensing and Communication via Non-Gaussian States; IEEE J SEL AREAS INF, vol.6 (2025), DOI:10.1109/JSAIT.2024.3491692 
+			IF citare: 2.2
+		[3.3] Goldberg, AZ; Hervas, JR; Sanz, AS; Klimov, AB; Rehácek, J; Hradil, Z; Hiekkamäki, M; Eriksson, M; Fickler, R; Leuchs, G; Sánchez-Soto, LL; Robust quantum metrology with random Majorana constellations; QUANTUM SCI TECHNOL, vol.10 (2025), DOI:10.1088/2058-9565/ad9ac7 
+			IF citare: 5.0
+		[3.4] Kumar, C; Advantage of probabilistic non-Gaussian operations in the distillation of single mode squeezed vacuum state; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad6ae4 
+			IF citare: 2.6
+		[3.5] Ren, G; Zhang, CZ; Generating superpositions of quantum states via a beam splitter with position measurement; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad173c 
+			IF citare: 2.6
+		[3.6] Merlin, J; Devibala, E; Ahmed, ABM; Operational resource measure of nonclassicality for number states filtered coherent states; EUR PHYS J D, vol.76 (2022), DOI:10.1140/epjd/s10053-022-00372-z 
+			IF citare: 1.8
+		[3.7] Rudnicki, L; Quantum speed limit and geometric measure of entanglement; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.032417 
+			IF citare: 2.971
+		[3.8] Lami, L; Regula, B; Takagi, R; Ferrari, G; Framework for resource quantification in infinite-dimensional general probabilistic theories; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.032424 
+			IF citare: 2.971
+nr.autori: 2 		 IF: 2.487 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):  255.4200 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[4] 	 Ghiu, I; Marian, P; Marian, TA; Modification of polarization through de-Gaussification; PHYS REV A, vol.98, art.no.33826 (2018), DOI:10.1103/PhysRevA.98.033826 
+		[4.1] Ion, I; Ghiu, I; Analytical expression of the geometric quantum discord generated by asymmetric cloning; INT J QUANTUM INF, vol.missing (2026), DOI:10.1142/S0219749925400131 
+			IF citare: 0.8
+		[4.2] Cîrneci, C; Ghiu, I; Analysis of Quantum Correlations Obtained Using Local Optimal Universal Asymmetric Cloners; ENTROPY-SWITZ, vol.25 (2023), DOI:10.3390/e25010029 
+			IF citare: 2.1
+		[4.3] Goldberg, AZ; Quantum polarimetry; PROG OPTICS, vol.67 (2022), DOI:10.1016/bs.po.2022.01.001 
+			IF citare: 0.0
+		[4.4] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+		[4.5] Tesfahannes, TG; Alemu, DH; STATIONARY ENTANGLEMENT DYNAMICS IN A HYBRID OPTO-ELECTRO-MECHANICAL SYSTEM; ROM J PHYS, vol.66 (2021), DOI:missing 
+			IF citare: 1.662
+nr.autori: 3 		 IF: 2.907 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 5 		 UAIC I.9(Citari):   60.9800 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[5] 	 Marian, P; Marian, TA; Einstein-Podolsky-Rosen-like separability indicators for two-mode Gaussian states; J PHYS A-MATH THEOR, vol.51, art.no.65301 (2018), DOI:10.1088/1751-8121/aa9fae 
+		[5.1] Teh, RY; Rosales-Zarate, L; Drummond, PD; Reid, MD; Mesoscopic and macroscopic quantum correlations in photonic, atomic and optomechanical systems; PROG QUANT ELECTRON, vol.90 (2023), DOI:10.1016/j.pquantelec.2022.100396 
+			IF citare: 7.4
+		[5.2] Teh, RY; Gessner, M; Reid, MD; Fadel, M; Full multipartite steering inseparability, genuine multipartite steering, and monogamy for continuous-variable systems; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.012202 
+			IF citare: 2.9
+nr.autori: 2 		 IF: 2.11 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(Citari):  113.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[6] 	 Marian, P; Marian, TA; Quantum Fisher information on two manifolds of two-mode Gaussian states; PHYS REV A, vol.93, art.no.52330 (2016), DOI:10.1103/PhysRevA.93.052330 
+		[6.1] Frigerio, M; Paris, MGA; Overcoming sloppiness for enhanced metrology in a Mach-Zehnder interferometer; INT J QUANTUM INF, vol.missing (2025), DOI:10.1142/S0219749925400015 
+			IF citare: 0.8
+		[6.2] Maskour, MA; El Maaroufi, A; Maroufi, B; Daoud, M; Warped Riemannian metrics for manifolds of two-mode entangled Gaussian states under beam splitting and squeezing unitary operations; INT J GEOM METHODS M, vol.missing (2025), DOI:10.1142/S0219887826500246 
+			IF citare: 2.2
+		[6.3] Montenegro, V; Mukhopadhyay, C; Yousefjani, R; Sarkar, S; Mishra, U; Paris, MGA; Bayat, A; Review: Quantum metrology and sensing with many-body systems; PHYS REP, vol.1134 (2025), DOI:10.1016/j.physrep.2025.05.005 
+			IF citare: 29.5
+		[6.4] Maskour, MA; Maroufi, B; Daoud, M; Riemannian Manifolds of Two-mode Gaussian States Evolving Under Parametric Conversion and Amplification Processes; INT J THEOR PHYS, vol.64 (2025), DOI:10.1007/s10773-025-05990-y 
+			IF citare: 1.7
+		[6.5] Miller, HJD; Curvature of Gaussian quantum states; J PHYS A-MATH THEOR, vol.58 (2025), DOI:10.1088/1751-8121/ada1b2 
+			IF citare: 2.1
+		[6.6] Hou, XY; Zhou, Z; Wang, X; Guo, H; Chien, CC; Local geometry and quantum geometric tensor of mixed states; PHYS REV B, vol.110 (2024), DOI:10.1103/PhysRevB.110.035144 
+			IF citare: 3.7
+		[6.7] Kamble, M; Wang, JX; Agarwal, GS; Quantum metrology of absorption and gain parameters using two-mode bright squeezed light; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.053715 
+			IF citare: 2.9
+		[6.8] Giraud, O; Goerbig, MO; Braun, D; Quantum parameter estimation with many-body fermionic systems and application to the Hall effect; SCIPOST PHYS, vol.16 (2024), DOI:10.21468/SciPostPhys.16.3.085 
+			IF citare: 5.4
+		[6.9] Zhang, ZS; You, CL; Magana-loaiza, OS; Fickler, R; LEoN-MONTIEL, RD; Torres, JP; Humble, TS; Liu, S; Xia, Y; Zhuang, QT; Entanglement-based quantum information technology: a tutorial; ADV OPT PHOTONICS, vol.16 (2024), DOI:10.1364/AOP.497143 
+			IF citare: 23.8
+		[6.10] Wang, JX; Matos, RLD; Agarwal, GS; Davidovich, L; Quantum advantage of time-reversed ancilla-based metrology of absorption parameters; PHYS REV RES, vol.6 (2024), DOI:10.1103/PhysRevResearch.6.013034 
+			IF citare: 4.2
+		[6.11] Kim, DH; Jo, Y; Kim, DY; Jeong, T; Kim, J; Park, NH; Kim, Z; Lee, SY; Gaussian quantum illumination via monotone metrics; PHYS REV RES, vol.5 (2023), DOI:10.1103/PhysRevResearch.5.033010 
+			IF citare: 3.5
+		[6.12] Casariego, M; Omar, Y; Sanz, M; Bi-Frequency Illumination: A Quantum-Enhanced Protocol; ADV QUANTUM TECHNOL, vol.5 (2022), DOI:10.1002/qute.202100051 
+			IF citare: 4.4
+		[6.13] Hao, SH; Shi, HW; Gagatsos, CN; Mishra, M; Bash, B; Djordjevic, I; Guha, S; Zhuang, QT; Zhang, ZS; Demonstration of Entanglement-Enhanced Covert Sensing; PHYS REV LETT, vol.129 (2022), DOI:10.1103/PhysRevLett.129.010501 
+			IF citare: 8.6
+		[6.14] Zhuang, QT; Shapiro, JH; Ultimate Accuracy Limit of Quantum Pulse-Compression Ranging; PHYS REV LETT, vol.128 (2022), DOI:10.1103/PhysRevLett.128.010501 
+			IF citare: 8.6
+		[6.15] Migliore, A; Napoli, A; Messina, A; The physical origin of a photon-number parity effect in cavity quantum electrodynamics; RESULTS PHYS, vol.30 (2021), DOI:10.1016/j.rinp.2021.104690 
+			IF citare: 4.565
+		[6.16] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+nr.autori: 2 		 IF: 2.925 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 16 		 UAIC I.9(Citari): 1169.3600 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[7] 	 Marian, P; Ghiu, I; Marian, TA; Decay of Gaussian correlations in local thermal reservoirs; PHYS SCRIPTA, vol.90, art.no.74041 (2015), DOI:10.1088/0031-8949/90/7/074041 
+		[7.1] Ion, I; Ghiu, I; Analytical expression of the geometric quantum discord generated by asymmetric cloning; INT J QUANTUM INF, vol.missing (2026), DOI:10.1142/S0219749925400131 
+			IF citare: 0.8
+		[7.2] Singh, G; Roy, S; Arvind; Noisy dynamics of Gaussian entanglement: A transient bound entangled phase before separability; PHYS REV A, vol.112 (2025), DOI:10.1103/vpq9-691b 
+			IF citare: 2.9
+		[7.3] Ren, JJ; Chai, CY; Yuan, YL; Li, YA; Liu, HQ; Wang, ZX; Chen, YF; Deng, GJ; A Dual-Attention Temporal Convolutional Neural Network Method for Predicting Lubrication Oil Temperature in Twin Screw Refrigeration Compressors; ARAB J SCI ENG, vol.50 (2025), DOI:10.1007/s13369-025-10257-z 
+			IF citare: 2.9
+		[7.4] Kumar, C; Sharma, M; Arora, S; Continuous Variable Quantum Teleportation in a Dissipative Environment: Comparison of Non-Gaussian Operations Before and After Noisy Channel; ADV QUANTUM TECHNOL, vol.7 (2024), DOI:10.1002/qute.202300344 
+			IF citare: 4.3
+		[7.5] Stoica, A; Isar, A; Geometric versus Entropic Gaussian Correlations in an Open Quantum System of Two Bosonic Modes; OPEN SYST INF DYN, vol.30 (2023), DOI:10.1142/S1230161223500208 
+			IF citare: 1.3
+		[7.6] Martin, J; Micheli, A; Vennin, V; Comparing quantumness criteria; EPL-EUROPHYS LETT, vol.142 (2023), DOI:10.1209/0295-5075/acc3be 
+			IF citare: 1.8
+		[7.7] Ibrahim, TAS; Amin, ME; Salah, A; On the Dynamics of Correlations in 2? 3 Heisenberg Chains with Inhomogeneous Magnetic Field; INT J THEOR PHYS, vol.62 (2023), DOI:10.1007/s10773-022-05258-9 
+			IF citare: 1.3
+		[7.8] Cîrneci, C; Ghiu, I; Analysis of Quantum Correlations Obtained Using Local Optimal Universal Asymmetric Cloners; ENTROPY-SWITZ, vol.25 (2023), DOI:10.3390/e25010029 
+			IF citare: 2.1
+		[7.9] Renger, M; Pogorzalek, S; Fesquet, F; Honasoge, K; Kronowetter, F; Chen, Q; Nojiri, Y; Inomata, K; Nakamura, Y; Marx, A; Deppe, F; Gross, R; Fedorov, KG; Flow of quantum correlations in noisy two-mode squeezed microwave states; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.052415 
+			IF citare: 2.9
+		[7.10] Algarni, M; Berrada, K; Abdel-Khalek, S; Quantum coherence and parameter estimation for mixed entangled coherent states; MOD PHYS LETT A, vol.37 (2022), DOI:10.1142/S0217732322501590 
+			IF citare: 1.4
+		[7.11] Rishabh; Kumar, C; Narang, G; Arvind; Evolution of two-mode quantum states under a dissipative environment: Comparison of the robustness of squeezing and entanglement resources; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.042405 
+			IF citare: 2.9
+		[7.12] Dobre, A; Isar, A; OPEN QUANTUM DYNAMICS OF GAUSSIAN HILBERT-SCHMIDT GEOMETRIC DISCORD; ROM REP PHYS, vol.74 (2022), DOI:missing 
+			IF citare: 2.7
+		[7.13] Poxleitner, M; Hinrichsen, H; Gaussian continuous-variable isotropic state; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.032423 
+			IF citare: 2.971
+		[7.14] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+		[7.15] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+		[7.16] Tesfahannes, TG; Alemu, DH; STATIONARY ENTANGLEMENT DYNAMICS IN A HYBRID OPTO-ELECTRO-MECHANICAL SYSTEM; ROM J PHYS, vol.66 (2021), DOI:missing 
+			IF citare: 1.662
+nr.autori: 3 		 IF: 1.194 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 16 		 UAIC I.9(Citari):  299.9267 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[8] 	 Marian, P; Marian, TA; Hellinger distance as a measure of Gaussian discord; J PHYS A-MATH THEOR, vol.48, art.no.115301 (2015), DOI:10.1088/1751-8113/48/11/115301 
+		[8.1] De Simone, L; Capra, L; Vesperini, A; Rossi, L; Di Cairano, L; Franzosi, R; Geometric Aspects of Entanglement; ENTROPY-SWITZ, vol.28 (2026), DOI:10.3390/e28030299 
+			IF citare: 2.0
+		[8.2] Muthuganesan, R; Quantum state texture: Geometric and theoretic information perspective; PHYS LETT A, vol.570 (2026), DOI:10.1016/j.physleta.2025.131263 
+			IF citare: 2.6
+		[8.3] Kumar, V; Vasan, K; Kumar, S; Exact mean and variance of the squared Hellinger distance for random density matrices; PHYS REV E, vol.111 (2025), DOI:10.1103/PhysRevE.111.054204 
+			IF citare: 2.4
+		[8.4] Korolev, SB; Bashmakova, EN; Golubeva, TY; Estimation of the set of states obtained in particle number measurement schemes; LASER PHYS LETT, vol.21 (2024), DOI:10.1088/1612-202X/ad6e6f 
+			IF citare: 1.4
+		[8.5] Stoica, A; Isar, A; Geometric versus Entropic Gaussian Correlations in an Open Quantum System of Two Bosonic Modes; OPEN SYST INF DYN, vol.30 (2023), DOI:10.1142/S1230161223500208 
+			IF citare: 1.3
+		[8.6] Hidki, A; Lakhfif, A; El Qars, J; Nassik, M; Quantum coherence versus quantum correlations in a double cavity magnomechanical system; INT J MOD PHYS B, vol.37 (2023), DOI:10.1142/S0217979223502454 
+			IF citare: 2.6
+		[8.7] Tarabunga, PS; Mendes-Santos, T; Illuminati, F; Dalmonte, M; Finite-temperature quantum discordant criticality; PHYS REV B, vol.105 (2022), DOI:10.1103/PhysRevB.105.075104 
+			IF citare: 3.7
+		[8.8] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+nr.autori: 2 		 IF: 1.933 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):  220.8500 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[9] 	 Ghiu, I; Marian, P; Marian, TA; Loss of non-Gaussianity for damped photon-subtracted thermal states; PHYS SCRIPTA, vol.T160, art.no.14014 (2014), DOI:10.1088/0031-8949/2014/T160/014014 
+		[9.1] Zhan, XF; Xu, XX; Noiselessly amplified thermal states and after multi-photon addition or subtraction; CAN J PHYS, vol.103 (2025), DOI:10.1139/cjp-2023-0331 
+			IF citare: 1.0
+		[9.2] Thapliyal, K; Perina, J Jr; Haderka, O; Michálek, V; Machulka, R; Experimental photon addition and subtraction in multi-mode and entangled optical fields; OPT LETT, vol.49 (2024), DOI:10.1364/OL.532242 
+			IF citare: 3.3
+		[9.3] Thapliyal, K; Perina, J Jr; Haderka, O; Michálek, V; Machulka, R; Experimental characterization of multimode photon-subtracted twin beams; PHYS REV RES, vol.6 (2024), DOI:10.1103/PhysRevResearch.6.013065 
+			IF citare: 4.2
+		[9.4] Fitzke, E; Niederschuh, F; Walther, T; Simulating the photon statistics of multimode Gaussian states by automatic differentiation of generating functions; APL PHOTONICS, vol.8 (2023), DOI:10.1063/5.0129638 
+			IF citare: 5.4
+		[9.5] Cîrneci, C; Ghiu, I; Analysis of Quantum Correlations Obtained Using Local Optimal Universal Asymmetric Cloners; ENTROPY-SWITZ, vol.25 (2023), DOI:10.3390/e25010029 
+			IF citare: 2.1
+		[9.6] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+		[9.7] Tesfahannes, TG; Alemu, DH; STATIONARY ENTANGLEMENT DYNAMICS IN A HYBRID OPTO-ELECTRO-MECHANICAL SYSTEM; ROM J PHYS, vol.66 (2021), DOI:missing 
+			IF citare: 1.662
+nr.autori: 3 		 IF: 1.126 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 7 		 UAIC I.9(Citari):  154.9800 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[10] 	 Allevi, A; Bondani, M; Marian, P; Marian, TA; Olivares, S; Characterization of phase-averaged coherent states; J OPT SOC AM B, vol.30, pp.2621-2627 (2013), DOI:10.1364/JOSAB.30.002621 
+		[10.1] Tang, ST; Albarelli, F; Zhang, Y; Luo, SL; Paris, MGA; Quantifying complexity of continuous-variable quantum states via Wehrl entropy and Fisher information; QUANTUM SCI TECHNOL, vol.10 (2025), DOI:10.1088/2058-9565/ae08df 
+			IF citare: 5.0
+		[10.2] Guselnikov, MS; Gaidash, AA; Miroshnichenko, GP; Kozubov, A; Properties of multi-moded phase-randomized coherent states; NANOSYST-PHYS CHEM M, vol.16 (2025), DOI:10.17586/2220-8054-2025-16-3-311-316 
+			IF citare: 1.1
+		[10.3] Müller, F; Köse, E; Meixner, AJ; Schäffer, E; Braun, D; Interferometric mass photometry at the quantum limit of sensitivity; PHYS REV A, vol.111 (2025), DOI:10.1103/PhysRevA.111.043501 
+			IF citare: 2.9
+		[10.4] Glerean, F; Rigoni, EM; Jarc, G; Mathengattil, SY; Montanaro, A; Giusti, F; Mitrano, M; Benatti, F; Fausti, D; Ultrafast pump-probe phase-randomized tomography; LIGHT-SCI APPL, vol.14 (2025), DOI:10.1038/s41377-025-01789-y 
+			IF citare: 23.4
+		[10.5] Arvizu-Mondragón, A; Mendieta-Jiménez, FJ; López-Mercado, CA; Muraoka-Espíritu, R; Quantum photonic communications with four-dimensional constellations of coherent states undergoing phase noise; OPT COMMUN, vol.574 (2025), DOI:10.1016/j.optcom.2024.131158 
+			IF citare: 2.5
+		[10.6] Krokosz, W; Mazelanik, M; Lipka, M; Jarzyna, M; Wasilewski, W; Banaszek, K; Parniak, M; Beating the spectroscopic Rayleigh limit via post-processed heterodyne detection; OPT LETT, vol.49 (2024), DOI:10.1364/OL.514659 
+			IF citare: 3.3
+		[10.7] Grimmer, D; Melgarejo-Lermas, I; Polo-Gómez, J; Martín-Martínez, E; Decoding quantum field theory with machine learning; J HIGH ENERGY PHYS, vol.missing (2023), DOI:10.1007/JHEP08(2023)031 
+			IF citare: 5.0
+		[10.8] Giraldi, F; Optical Schrodinger cats with generalized coherent states; INT J QUANTUM INF, vol.21 (2023), DOI:10.1142/S0219749923400014 
+			IF citare: 0.7
+		[10.9] Thekkadath, GS; Sempere-Llagostera, S; Bell, BA; Patel, RB; Kim, MS; Walmsley, IA; Experimental Demonstration of Gaussian Boson Sampling with Displacement; PRX QUANTUM, vol.3 (2022), DOI:10.1103/PRXQuantum.3.020336 
+			IF citare: 9.7
+		[10.10] Gerry, CC; Birrittella, RJ; Alsing, PM; Hossameldin, A; Eaton, M; Pfister, O; Proposal for a quantum random number generator using coherent light and a non-classical observable; J OPT SOC AM B, vol.39 (2022), DOI:10.1364/JOSAB.441210 
+			IF citare: 1.9
+		[10.11] Duplinskiy, A; Sych, D; Bounding passive light-source side channels in quantum key distribution via Hong-Ou-Mandel interference; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.012601 
+			IF citare: 2.971
+nr.autori: 5 		 IF: 1.806 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 11 		 UAIC I.9(Citari):  255.8840 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[11] 	 Marian, P; Marian, TA; Relative entropy is an exact measure of non-Gaussianity; PHYS REV A, vol.88, art.no.12322 (2013), DOI:10.1103/PhysRevA.88.012322 
+		[11.1] Watanabe, K; Takagi, R; Universal work extraction in quantum thermodynamics; NAT COMMUN, vol.17 (2026), DOI:10.1038/s41467-026-69143-3 
+			IF citare: 15.7
+		[11.2] Paviglianiti, A; Lumia, L; Tirrito, E; Silva, A; Collura, M; Turkeshi, X; Lami, G; Emergence of Generic Entanglement Structure in Doped Matchgate Circuits; PHYS REV LETT, vol.136 (2026), DOI:10.1103/w97w-7zny 
+			IF citare: 9.0
+		[11.3] Zhao, XB; Liao, PC; Mele, FA; Chabaud, U; Zhuang, QT; Complexity of quantum tomography from genuine non-Gaussian entanglement; NAT COMMUN, vol.17 (2025), DOI:10.1038/s41467-025-67062-3 
+			IF citare: 15.7
+		[11.4] Mele, FA; Mele, AA; Bittel, L; Eisert, J; Giovannetti, V; Lami, L; Leone, L; Oliviero, SFE; Learning quantum states of continuous-variable systems; NAT PHYS, vol.21 (2025), DOI:10.1038/s41567-025-03086-2 
+			IF citare: 18.4
+		[11.5] Wang, T; Khoo, SY; Ong, ZC; Siow, PY; Wang, T; Multi-scale distance similarity entropy: A novel complexity measurement for gearbox fault diagnosis; ENG APPL ARTIF INTEL, vol.161 (2025), DOI:10.1016/j.engappai.2025.112308 
+			IF citare: 8.0
+		[11.6] Bittel, L; Mele, AA; Eisert, J; Leone, L; Optimal Trace-Distance Bounds for Free-Fermionic States: Testing and Improved Tomography; PRX QUANTUM, vol.6 (2025), DOI:10.1103/pzx6-nkfb 
+			IF citare: 11.0
+		[11.7] Turner, L; Guta, M; Adesso, G; All non-Gaussian states are advantageous for channel discrimination: robustness of non-convex continuous variable quantum resources; NEW J PHYS, vol.27 (2025), DOI:10.1088/1367-2630/ae05bf 
+			IF citare: 2.8
+		[11.8] Dias, MA; de Assis, FM; Exploring Non-Gaussianity Reduction in Quantum Channels; ENTROPY-SWITZ, vol.27 (2025), DOI:10.3390/e27070768 
+			IF citare: 2.0
+		[11.9] Lumia, L; Aupetit-Diallo, G; Dubail, J; Collura, M; Accuracy of a time-dependent generalized Gibbs ensemble approach under weak dissipation; PHYS REV A, vol.112 (2025), DOI:10.1103/x9c1-hyxh 
+			IF citare: 2.9
+		[11.10] Zhu, XR; Zhang, C; An, Z; Zeng, B; Unified framework for calculating convex roof resource measures; NPJ QUANTUM INFORM, vol.11 (2025), DOI:10.1038/s41534-025-01012-1 
+			IF citare: 8.3
+		[11.11] Thapliyal, K; Perina, J Jr; Haderka, O; Michálek, V; Machulka, R; Experimental photon addition and subtraction in multi-mode and entangled optical fields; OPT LETT, vol.49 (2024), DOI:10.1364/OL.532242 
+			IF citare: 3.3
+		[11.12] Perina, J; Thapliyal, K; Haderka, O; Michálek, V; Machulka, R; Sub-Poissonian twin beams; OPT QUANTUM, vol.2 (2024), DOI:10.1364/OPTICAQ.509228 
+			IF citare: 0.0
+		[11.13] Strinati, MC; Conti, C; Non-Gaussianity in the quantum parametric oscillator; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.063519 
+			IF citare: 2.9
+		[11.14] Lumia, L; Tirrito, E; Fazio, R; Collura, M; Measurement-induced transitions beyond Gaussianity: A single particle description; PHYS REV RES, vol.6 (2024), DOI:10.1103/PhysRevResearch.6.023176 
+			IF citare: 4.2
+		[11.15] Thapliyal, K; Perina, J Jr; Haderka, O; Michálek, V; Machulka, R; Experimental characterization of multimode photon-subtracted twin beams; PHYS REV RES, vol.6 (2024), DOI:10.1103/PhysRevResearch.6.013065 
+			IF citare: 4.2
+		[11.16] Perina, J JR; Thapliyal, K; Haderka, O; Michálek, V; Machulka, R; Generalized sub-Poissonian states of two-beam fields; OPT EXPRESS, vol.32 (2024), DOI:10.1364/OE.511065 
+			IF citare: 3.3
+		[11.17] Zheng, Q; Zhi, QJ; Degree of quantum non-Gaussianity in a spin; EUR PHYS J D, vol.77 (2023), DOI:10.1140/epjd/s10053-023-00757-8 
+			IF citare: 1.5
+		[11.18] Bu, KF; Gu, WC; Jaffe, A; Quantum entropy and central limit theorem; P NATL ACAD SCI USA, vol.120 (2023), DOI:10.1073/pnas.2304589120 
+			IF citare: 9.4
+		[11.19] Lami, L; Shirokov, ME; Attainability and Lower Semi-continuity of the Relative Entropy of Entanglement and Variations on the Theme; ANN HENRI POINCARE, vol.24 (2023), DOI:10.1007/s00023-023-01313-1 
+			IF citare: 1.4
+		[11.20] Fu, SS; Li, XH; Luo, SL; Dynamics of atomic magic in the Jaynes-Cummings model; QUANTUM INF PROCESS, vol.22 (2022), DOI:10.1007/s11128-022-03756-7 
+			IF citare: 2.5
+		[11.21] Hahn, O; Holmvall, P; Stadler, P; Ferrini, G; Ferraro, A; Deterministic Gaussian conversion protocols for non-Gaussian single-mode resources; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.062446 
+			IF citare: 2.9
+		[11.22] Kahan, A; Ermann, L; Cormick, C; Trapped ion in an optical cavity: Numerical study of an optomechanical transition in the few-photon regime; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.043705 
+			IF citare: 2.971
+		[11.23] Walschaers, M; Non-Gaussian Quantum States and Where to Find Them; PRX QUANTUM, vol.2 (2021), DOI:10.1103/PRXQuantum.2.030204 
+			IF citare: 0.0
+		[11.24] Lami, L; Regula, B; Takagi, R; Ferrari, G; Framework for resource quantification in infinite-dimensional general probabilistic theories; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.032424 
+			IF citare: 2.971
+		[11.25] Howl, R; Vedral, V; Naik, D; Christodoulou, M; Rovelli, C; Iyer, A; Non-Gaussianity as a Signature of a Quantum Theory of Gravity; PRX QUANTUM, vol.2 (2021), DOI:10.1103/PRXQuantum.2.010325 
+			IF citare: 0.0
+nr.autori: 2 		 IF: 2.991 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 25 		 UAIC I.9(Citari): 1478.4200 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[12] 	 Marian, P; Ghiu, I; Marian, TA; Gaussification through decoherence; PHYS REV A, vol.88, art.no.12316 (2013), DOI:10.1103/PhysRevA.88.012316 
+		[12.1] Gu, Y; Wang, J; Relaxation of a thermally bathed harmonic oscillator: A study based on the quantum group-theoretical formalism; PHYSICA A, vol.679 (2025), DOI:10.1016/j.physa.2025.131004 
+			IF citare: 3.1
+		[12.2] Xiang, SH; Zhao, YJ; Shi, ZG; Non-Gaussianity and entanglement swapping of two-mode entangled squeezed-coherent state; EUR PHYS J PLUS, vol.140 (2025), DOI:10.1140/epjp/s13360-025-06259-3 
+			IF citare: 2.9
+		[12.3] Zhan, XF; Xu, XX; Noiselessly amplified thermal states and after multi-photon addition or subtraction; CAN J PHYS, vol.103 (2025), DOI:10.1139/cjp-2023-0331 
+			IF citare: 1.0
+		[12.4] Xiang, SH; Li, SS; Mi, XW; Developing improved measures of non-Gaussianity and Gaussianity for quantum states based on normalized Hilbert-Schmidt distance; CHINESE PHYS B, vol.32 (2023), DOI:10.1088/1674-1056/acb0bd 
+			IF citare: 1.5
+		[12.5] Kanari-Naish, LA; Clarke, J; Qvarfort, S; Vanner, MR; Two-mode Schrodinger-cat states with nonlinear optomechanics: generation and verification of non-Gaussian mechanical entanglement; QUANTUM SCI TECHNOL, vol.7 (2022), DOI:10.1088/2058-9565/ac6dfd 
+			IF citare: 6.7
+		[12.6] Campaioli, F; Yu, CS; Pollock, FA; Modi, K; Resource speed limits: maximal rate of resource variation; NEW J PHYS, vol.24 (2022), DOI:10.1088/1367-2630/ac7346 
+			IF citare: 3.3
+		[12.7] Kahan, A; Ermann, L; Cormick, C; Trapped ion in an optical cavity: Numerical study of an optomechanical transition in the few-photon regime; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.043705 
+			IF citare: 2.971
+nr.autori: 3 		 IF: 2.991 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 7 		 UAIC I.9(Citari):  166.4733 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[13] 	 Ghiu, I; Marian, P; Marian, TA; Measures of non-Gaussianity for one-mode field states; PHYS SCRIPTA, vol.T153, art.no.14028 (2013), DOI:10.1088/0031-8949/2013/T153/014028 
+		[13.1] Dodonov, VV; Variance-Based Uncertainty Relations: A Concise Review of Inequalities Discovered Since 1927; QUANTUM REP, vol.7 (2025), DOI:10.3390/quantum7030034 
+			IF citare: 1.3
+		[13.2] Zhan, XF; Xu, XX; Noiselessly amplified thermal states and after multi-photon addition or subtraction; CAN J PHYS, vol.103 (2025), DOI:10.1139/cjp-2023-0331 
+			IF citare: 1.0
+		[13.3] Korolev, SB; Bashmakova, EN; Golubeva, TY; Estimation of the set of states obtained in particle number measurement schemes; LASER PHYS LETT, vol.21 (2024), DOI:10.1088/1612-202X/ad6e6f 
+			IF citare: 1.4
+		[13.4] Xiang, SH; Huang, LJ; Mi, XW; Non-Gaussianity detection of single-mode rotationally symmetric quantum states via cumulant method; CHINESE PHYS B, vol.33 (2024), DOI:10.1088/1674-1056/ad2506 
+			IF citare: 1.5
+		[13.5] Thapliyal, K; Perina, J Jr; Haderka, O; Michálek, V; Machulka, R; Experimental characterization of multimode photon-subtracted twin beams; PHYS REV RES, vol.6 (2024), DOI:10.1103/PhysRevResearch.6.013065 
+			IF citare: 4.2
+		[13.6] Xiang, SH; Li, SS; Mi, XW; Developing improved measures of non-Gaussianity and Gaussianity for quantum states based on normalized Hilbert-Schmidt distance; CHINESE PHYS B, vol.32 (2023), DOI:10.1088/1674-1056/acb0bd 
+			IF citare: 1.5
+		[13.7] Fitzke, E; Niederschuh, F; Walther, T; Simulating the photon statistics of multimode Gaussian states by automatic differentiation of generating functions; APL PHOTONICS, vol.8 (2023), DOI:10.1063/5.0129638 
+			IF citare: 5.4
+		[13.8] Xiang, C; Li, SS; Wen, SS; Xiang, SH; Alternative non-Gaussianity measures for quantum states based on quantum fidelity; CHINESE PHYS B, vol.31 (2022), DOI:10.1088/1674-1056/ac1928 
+			IF citare: 1.7
+nr.autori: 3 		 IF: 1.296 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):  146.6667 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[14] 	 Isar, A; Man'ko, MA; Marian, P; The 19th Central European Workshop on Quantum Optics; PHYS SCRIPTA, vol.T153, art.no.10301 (2013), DOI:10.1088/0031-8949/2013/T153/010301 
+nr.autori: 3 		 IF: 1.296 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[15] 	 Marian, P; Marian, TA; Uhlmann fidelity between two-mode Gaussian states; PHYS REV A, vol.86, art.no.22340 (2012), DOI:10.1103/PhysRevA.86.022340 
+		[15.1] Fan, JJ; Deng, XH; Zhang, ZD; Ultrafast optical spectroscopy with quantum light and quantum control; PROG QUANT ELECTRON, vol.107 (2026), DOI:10.1016/j.pquantelec.2026.100613 
+			IF citare: 12.5
+		[15.2] Zubarev, A; Cuzminschi, M; Isar, A; Secure Quantum Teleportation of Squeezed Thermal States; SYMMETRY-BASEL, vol.17 (2025), DOI:10.3390/sym17111804 
+			IF citare: 2.2
+		[15.3] Lei, X; Li, JT; Zhou, XY; Yan, JL; Ji, MW; Yan, ZH; Jia, XJ; Xie, CD; Peng, KC; Deterministic Nonlocal Quantum Gate with Room-Temperature Memory Modules; PHYS REV LETT, vol.135 (2025), DOI:10.1103/xt77-2gpw 
+			IF citare: 9.0
+		[15.4] Heib, T; Lageyre, P; Ferreri, A; Wilhelm, FK; Paraoanu, GS; Burgarth, D; Schell, AW; Bruschi, DE; Bounding the rotating wave approximation for coupled harmonic oscillators; J PHYS A-MATH THEOR, vol.58 (2025), DOI:10.1088/1751-8121/adcd16 
+			IF citare: 2.1
+		[15.5] Zhang, BZ; Zhuang, QT; Energy-dependent barren plateau in bosonic variational quantum circuits; QUANTUM SCI TECHNOL, vol.10 (2025), DOI:10.1088/2058-9565/ad80bf 
+			IF citare: 5.0
+		[15.6] Yan, TT; Guo, J; Hou, JC; Qi, XF; He, K; Gaussian unsteerable channels and computable quantifications of Gaussian steering; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.052427 
+			IF citare: 2.9
+		[15.7] Senese, R; Robertson, JH; Essler, FHL; Out-of-equilibrium full counting statistics in Gaussian theories of quantum magnets; SCIPOST PHYS, vol.17 (2024), DOI:10.21468/SciPostPhys.17.5.139 
+			IF citare: 5.4
+		[15.8] Chakraborty, G; Chakraborty, S; Basu, T; Mukherjee, M; Quantum control of heat current; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.042216 
+			IF citare: 2.9
+		[15.9] Mehrabankar, S; Mahmoudi, P; Abbasnezhad, F; Afshar, D; Isar, A; Effect of noisy environment on secure quantum teleportation of unimodal Gaussian states; QUANTUM INF PROCESS, vol.23 (2024), DOI:10.1007/s11128-024-04545-0 
+			IF citare: 2.2
+		[15.10] Sen, S; Gangopadhyay, S; Probing the quantum nature of gravity using a Bose-Einstein condensate; PHYS REV D, vol.110 (2024), DOI:10.1103/PhysRevD.110.026014 
+			IF citare: 5.3
+		[15.11] Huang, ZX; Baragiola, BQ; Menicucci, NC; Wilde, MM; Limited quantum advantage for stellar interferometry via continuous-variable teleportation; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.052434 
+			IF citare: 2.9
+		[15.12] Gupta, R; Roy, S; Das, T; Sen, A; Quantum illumination with noisy probes: Conditional advantages of non-Gaussianity; PHYS LETT A, vol.505 (2024), DOI:10.1016/j.physleta.2024.129446 
+			IF citare: 2.6
+		[15.13] Xu, JW; Imaginarity of Gaussian states; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.062203 
+			IF citare: 2.6
+		[15.14] Griffet, C; Arnhem, M; De Bièvre, S; Cerf, NJ; Interferometric measurement of the quadrature coherence scale using two replicas of a quantum optical state; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.023730 
+			IF citare: 2.6
+		[15.15] Hovhannisyan, KV; Nemati, S; Henkel, C; Anders, J; Long-Time Equilibration Can Determine Transient Thermality; PRX QUANTUM, vol.4 (2023), DOI:10.1103/PRXQuantum.4.030321 
+			IF citare: 9.3
+		[15.16] Hesabi, S; Bera, A; Chrusinski, D; Memory effects displayed in the evolution of continuous variable system; PHYS LETT A, vol.478 (2023), DOI:10.1016/j.physleta.2023.128894 
+			IF citare: 2.3
+		[15.17] Gong, ZH; Rodriguez, N; Gagatsos, CN; Guha, S; Bash, BA; Quantum-Enhanced Transmittance Sensing; IEEE J-STSP, vol.17 (2023), DOI:10.1109/JSTSP.2022.3222680 
+			IF citare: 8.7
+		[15.18] Rodríguez, LAA; Schell, AW; Bruschi, DE; Introduction to gravitational redshift of quantum photons propagating in curved spacetime; J PHYS CONF SER, vol.2531 (2023), DOI:10.1088/1742-6596/2531/1/012016 
+			IF citare: 0.0
+		[15.19] Wu, W; An, JH; Quantum speed limit of a noisy continuous-variable system; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.062438 
+			IF citare: 2.9
+		[15.20] Bezerra, IP; Vasconcelos, HM; Glancy, S; Quadrature squeezing and temperature estimation from the Fock distribution; QUANTUM INF PROCESS, vol.21 (2022), DOI:10.1007/s11128-022-03677-5 
+			IF citare: 2.5
+		[15.21] Jonsson, R; Di Candia, R; Gaussian quantum estimation of the loss parameter in a thermal environment; J PHYS A-MATH THEOR, vol.55 (2022), DOI:10.1088/1751-8121/ac83fa 
+			IF citare: 2.1
+		[15.22] Zubarev, A; Cuzminschi, M; Isar, A; Continuous variable quantum teleportation of a thermal state in a thermal environment; RESULTS PHYS, vol.39 (2022), DOI:10.1016/j.rinp.2022.105700 
+			IF citare: 5.3
+		[15.23] Nair, R; Tham, GY; Gu, M; Optimal Gain Sensing of Quantum-Limited Phase-Insensitive Amplifiers; PHYS REV LETT, vol.128 (2022), DOI:10.1103/PhysRevLett.128.180506 
+			IF citare: 8.6
+		[15.24] Koumetio, AA; Deuto, GY; Tene, AG; Tchoffo, M; Effect of Non-Commutative Space on Quantum Correlations in Two Bilinearly Coupled Harmonic Oscillators Interacting with its Environment; INT J THEOR PHYS, vol.61 (2022), DOI:10.1007/s10773-022-05065-2 
+			IF citare: 1.4
+		[15.25] Poggi, PM; Campbell, S; Deffner, S; Diverging Quantum Speed Limits: A Herald of Classicality; PRX QUANTUM, vol.2 (2021), DOI:10.1103/PRXQuantum.2.040349 
+			IF citare: 0.0
+		[15.26] Ioannou, C; Nair, R; Fernandez-Corbaton, I; Gu, ML; Rockstuhl, C; Lee, C; Optimal circular dichroism sensing with quantum light: Multiparameter estimation approach; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.052615 
+			IF citare: 2.971
+		[15.27] Lee, C; Lawrie, B; Pooser, R; Lee, KG; Rockstuhl, C; Tame, M; Quantum Plasmonic Sensors; CHEM REV, vol.121 (2021), DOI:10.1021/acs.chemrev.0c01028 
+			IF citare: 72.087
+		[15.28] Yang, H; Roga, W; Pritchard, JD; Jeffers, J; Gaussian state-based quantum illumination with simple photodetection; OPT EXPRESS, vol.29 (2021), DOI:10.1364/OE.416151 
+			IF citare: 3.833
+		[15.29] Gong, ZH; Gagatsos, CN; Guha, S; Bash, BA; Fundamental Limits of Loss Sensing over Bosonic Channels; IEEE INT SYMP INFO, vol.missing (2021), DOI:10.1109/ISIT45174.2021.9517810 
+			IF citare: 0.0
+nr.autori: 2 		 IF: 3.042 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 29 		 UAIC I.9(Citari): 1966.9100 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[16] 	 Björk, G; Söderholm, J; Sánchez-Soto, LL; Klimov, AB; Ghiu, I; Marian, P; Marian, TA; Quantum degrees of polarization; OPT COMMUN, vol.283, pp.4440-4447 (2010), DOI:10.1016/j.optcom.2010.04.088 
+		[16.1] Smeets, J; Asenov, P; Serafini, A; QEDtool: A python package for numerical quantum information in quantum electrodynamics; COMPUT PHYS COMMUN, vol.324 (2026), DOI:10.1016/j.cpc.2026.110127 
+			IF citare: 3.4
+		[16.2] Gyaprasa; Joshi, R; Tunable decoherence of quantum polarization states via birefringence-frequency coupling using liquid crystal; OPT COMMUN, vol.608 (2026), DOI:10.1016/j.optcom.2026.132984 
+			IF citare: 2.5
+		[16.3] Besaga, VR; Lopushenko, IV; Sieryi, O; Bykov, A; Setzpfandt, F; Meglinski, I; Bridging Classical and Quantum Approaches for Quantitative Sensing of Turbid Media with Polarization-Entangled Photons; LASER PHOTONICS REV, vol.missing (2026), DOI:10.1002/lpor.202501172 
+			IF citare: 10.0
+		[16.4] Ren, G; Linear optical scheme for Hadamard gate realization and its application in an interferometric system; PHYS SCRIPTA, vol.100 (2025), DOI:10.1088/1402-4896/ae2dd8 
+			IF citare: 2.6
+		[16.5] Boyanovsky, D; Probing dynamical axion quasiparticles with two-photon correlations; PHYS REV B, vol.112 (2025), DOI:10.1103/rf3t-9wfh 
+			IF citare: 3.7
+		[16.6] Qi, BX; Li, Y; Chen, XZ; Flat Optics for Polarization Structure Engineering from 2D to 3D; ADV OPT MATER, vol.13 (2025), DOI:10.1002/adom.202502164 
+			IF citare: 7.2
+		[16.7] Zhang, LS; Zou, CJ; Wang, Y; Setzpfandt, F; Besaga, VR; Polarization in quantum photonic sensing [Invited]; CHIN OPT LETT, vol.23 (2025), DOI:10.3788/COL202523.092701 
+			IF citare: 2.8
+		[16.8] Boyanovsky, D; Synthetic and cosmological axion hybridization: Entangled photons, Hanbury Brown-Twiss, and quantum beats; PHYS REV RES, vol.7 (2025), DOI:10.1103/8bsv-2h9g 
+			IF citare: 4.2
+		[16.9] Jatwani, A; Verma, A; A comprehensive study of nonclassicality in non-gaussian pair coherent state; PHYS SCRIPTA, vol.100 (2025), DOI:10.1088/1402-4896/adc641 
+			IF citare: 2.6
+		[16.10] Del Río-lima, A; Gutierrez-valdés, A; Mojica-casique, C; Ballesteros-flores, F; Villanueva-reyes, IA; Colín-rodríguez, R; Gardea-flores, CA; Poveda-cuevas, FJ; Seman, JA; Homemade open-source full-Stokes polarimeter based on division of amplitude; APPL OPTICS, vol.63 (2024), DOI:10.1364/AO.528130 
+			IF citare: 1.7
+		[16.11] Pedram, A; Besaga, VR; Gassab, L; Setzpfandt, F; Müstecaplioglu, ÖE; Quantum estimation of the stokes vector rotation for a general polarimetric transformation; NEW J PHYS, vol.26 (2024), DOI:10.1088/1367-2630/ad7979 
+			IF citare: 2.8
+		[16.12] Pedram, A; Besaga, VR; Setzpfandt, F; Müstecaplioglu, ÖE; Nonlocality Enhanced Precision in Quantum Polarimetry via Entangled Photons; ADV QUANTUM TECHNOL, vol.7 (2024), DOI:10.1002/qute.202400059 
+			IF citare: 4.3
+		[16.13] Zhang, XX; Ning, TL; Liu, LH; Li, YQ; Influence of Fast Axis Angle of Wave Plate on Accuracy of Spatially Modulated Polarization Measurements; ACTA OPT SIN, vol.44 (2024), DOI:10.3788/AOS240753 
+			IF citare: 1.6
+		[16.14] Teo, YS; Shringarpure, SU; Jeon, H; Prasannan, N; Brecht, B; Silberhorn, C; Evans, M; Mogilevtsev, D; Sanchez-Soto, LL; Evidence-Based Certification of Quantum Dimensions; PHYS REV LETT, vol.133 (2024), DOI:10.1103/PhysRevLett.133.050204 
+			IF citare: 9.0
+		[16.15] Saito, S; SU(N) N ) symmetry of coherent photons controlled by rotated waveplates; HELIYON, vol.10 (2024), DOI:10.1016/j.heliyon.2024.e34423 
+			IF citare: 3.6
+		[16.16] Saito, S; Dirac equation for photons in a fibre: Origin of polarisation; HELIYON, vol.10 (2024), DOI:10.1016/j.heliyon.2024.e28367 
+			IF citare: 3.6
+		[16.17] Saito, S; Quantum field theory for coherent photons: isomorphism between stokes parameters and spin expectation values; FRONT PHYS-LAUSANNE, vol.11 (2024), DOI:10.3389/fphy.2023.1225334 
+			IF citare: 2.1
+		[16.18] Kumar, V; Bisht, DS; Garg, H; Mean wavelength-based Fresnel lens solar collector for eliminating the hotpot problem in daylighting systems; APPL OPTICS, vol.62 (2023), DOI:10.1364/AO.503622 
+			IF citare: 1.7
+		[16.19] Saito, S; Quantum commutation relationship for photonic orbital angular momentum; FRONT PHYS-LAUSANNE, vol.11 (2023), DOI:10.3389/fphy.2023.1225346 
+			IF citare: 1.9
+		[16.20] Saito, S; Spin and orbital angular momentum of coherent photons in a waveguide; FRONT PHYS-LAUSANNE, vol.11 (2023), DOI:10.3389/fphy.2023.1225360 
+			IF citare: 1.9
+		[16.21] Hernandez-Cely, C; Salazar-Ariza, K; Torres, R; Definition of a second-order degree of polarization in terms of the complex degree of coherence; J OPT SOC AM A, vol.40 (2023), DOI:10.1364/JOSAA.482652 
+			IF citare: 1.4
+		[16.22] Prasannan, N; Sperling, J; Brecht, B; Silberhorn, C; Direct Measurement of Higher-Order Nonlinear Polarization Squeezing; PHYS REV LETT, vol.129 (2022), DOI:10.1103/PhysRevLett.129.263601 
+			IF citare: 8.6
+		[16.23] Goldberg, AZ; Quantum polarimetry; PROG OPTICS, vol.67 (2022), DOI:10.1016/bs.po.2022.01.001 
+			IF citare: 0.0
+		[16.24] Ning, TL; Li, YQ; Zhou, GD; Sun, YY; Liu, K; Optimized spatially modulated polarimetry with an efficient calibration method and hybrid gradient descent reconstruction; APPL OPTICS, vol.61 (2022), DOI:10.1364/AO.451055 
+			IF citare: 1.9
+		[16.25] Wu, TY; Pan, Q; Lin, CS; Shi, L; Zhao, SH; Zhang, YJ; Wang, XY; Dong, C; Influence of Source Parameters on the Polarization Properties of Beams for Practical Free-Space Quantum Key Distribution; ENTROPY-SWITZ, vol.23 (2021), DOI:10.3390/e23091224 
+			IF citare: 2.738
+		[16.26] Ning, TL; Li, YQ; Zhou, GD; Liu, K; Wang, JZ; Single-shot measurement of polarization state at low light field using Mueller-mapping star test polarimetry; OPT COMMUN, vol.496 (2021), DOI:10.1016/j.optcom.2021.127130 
+			IF citare: 2.335
+		[16.27] Goldberg, AZ; De La Hoz, P; Björk, G; Klimov, AB; Grassl, M; Leuchs, G; Sánchez-Soro, LL; Quantum concepts in optical polarization; ADV OPT PHOTONICS, vol.13 (2021), DOI:10.1364/AOP.404175 
+			IF citare: 24.75
+		[16.28] Saito, S; Poincare Rotator for Vortexed Photons; FRONT PHYS-LAUSANNE, vol.9 (2021), DOI:10.3389/fphy.2021.646228 
+			IF citare: 3.718
+nr.autori: 7 		 IF: 1.517 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 28 		 UAIC I.9(Citari):  378.9743 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17] 	 Ghiu, I; Björk, G; Marian, P; Marian, TA; Probing light polarization with the quantum Chernoff bound; PHYS REV A, vol.82, art.no.23803 (2010), DOI:10.1103/PhysRevA.82.023803 
+		[17.1] Goldberg, AZ; Quantum polarimetry; PROG OPTICS, vol.67 (2022), DOI:10.1016/bs.po.2022.01.001 
+			IF citare: 0.0
+		[17.2] Goldberg, AZ; De La Hoz, P; Björk, G; Klimov, AB; Grassl, M; Leuchs, G; Sánchez-Soro, LL; Quantum concepts in optical polarization; ADV OPT PHOTONICS, vol.13 (2021), DOI:10.1364/AOP.404175 
+			IF citare: 24.75
+		[17.3] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+nr.autori: 4 		 IF: 2.861 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 3 		 UAIC I.9(Citari):  141.6750 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[18] 	 Marian, P; Marian, TA; ON A POWER SERIES INVOLVING CLASSICAL ORTHOGONAL POLYNOMIALS; ROM J PHYS, vol.55, pp.631-644 (2010), DOI:missing 
+nr.autori: 2 		 IF: 0.34 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[19] 	 Boca, M; Ghiu, I; Marian, P; Marian, TA; Quantum Chernoff bound as a measure of nonclassicality for one-mode Gaussian states; PHYS REV A, vol.79, art.no.14302 (2009), DOI:10.1103/PhysRevA.79.014302 
+		[19.1] Ion, I; Ghiu, I; Analytical expression of the geometric quantum discord generated by asymmetric cloning; INT J QUANTUM INF, vol.missing (2026), DOI:10.1142/S0219749925400131 
+			IF citare: 0.8
+		[19.2] Xu, JW; Quantifying the imaginarity of quantum states via Tsallis relative entropy; PHYS LETT A, vol.528 (2024), DOI:10.1016/j.physleta.2024.130024 
+			IF citare: 2.6
+		[19.3] Li, WJ; Xie, W; Efficient estimation of the quantum Chernoff bound; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.022415 
+			IF citare: 2.9
+		[19.4] Yan, XJ; Yin, Z; Li, LS; Quantum a-fidelity of diagonalizable second-order Hamiltonians in multi-dimensional systems; PHYS LETT A, vol.503 (2024), DOI:10.1016/j.physleta.2024.129418 
+			IF citare: 2.6
+		[19.5] Cîrneci, C; Ghiu, I; Analysis of Quantum Correlations Obtained Using Local Optimal Universal Asymmetric Cloners; ENTROPY-SWITZ, vol.25 (2023), DOI:10.3390/e25010029 
+			IF citare: 2.1
+		[19.6] Zhang, Y; Luo, SL; Spin nonclassicality via variance; THEOR MATH PHYS+, vol.208 (2021), DOI:10.1134/S0040577921070060 
+			IF citare: 0.685
+		[19.7] Fu, SS; Luo, SL; Zhang, Y; Dynamics of field nonclassicality in the Jaynes-Cummings model; QUANTUM INF PROCESS, vol.20 (2021), DOI:10.1007/s11128-020-02963-4 
+			IF citare: 1.965
+		[19.8] Ghiu, I; THE QUANTUM AFFINITY OF QUBITS SUBJECTED TO NOISY QUANTUM CHANNELS; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+nr.autori: 4 		 IF: 2.866 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):   98.6750 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[20] 	 Marian, P; Marian, TA; Entanglement of Formation for an Arbitrary Two-Mode Gaussian State; PHYS REV LETT, vol.101, art.no.220403 (2008), DOI:10.1103/PhysRevLett.101.220403 
+		[20.1] Gao, BY; Klco, N; Finite Gaussian assistance protocols and a conic metric for extremizing spacelike vacuum entanglement; PHYS REV A, vol.113 (2026), DOI:10.1103/cm73-wdxv 
+			IF citare: 2.9
+		[20.2] Gori, M; Sarkis, M; Tkatchenko, A; Multipartite Gaussian entanglement measure with applications to graph states and bosonic field theory; J PHYS A-MATH THEOR, vol.58 (2025), DOI:10.1088/1751-8121/ae21a9 
+			IF citare: 2.1
+		[20.3] Direkci, S; Winkler, K; Gut, C; Aspelmeyer, M; Chen, YB; Universality of Stationary Entanglement in an Optomechanical System Driven by Non-Markovian Noise and Squeezed Light; PHYS REV LETT, vol.135 (2025), DOI:10.1103/vzhk-cdc3 
+			IF citare: 9.0
+		[20.4] Abdo, B; Shanks, W; Jinka, O; Rozen, JR; Orcutt, J; Teleportation and Entanglement Swapping of Continuous Quantum Variables of Microwave Radiation; PHYS REV X, vol.15 (2025), DOI:10.1103/9cpm-kr4h 
+			IF citare: 15.7
+		[20.5] Mouhti, I; Tirbiyine, A; Khenfouch, M; Labrag, A; El Qars, J; Quantumness of correlations in a nondegenerate three-level laser; INT J QUANTUM INF, vol.22 (2024), DOI:10.1142/S0219749924500424 
+			IF citare: 0.8
+		[20.6] Liu, JR; Ge, WC; Zubairy, MS; Classical-Nonclassical Polarity of Gaussian States; PHYS REV LETT, vol.132 (2024), DOI:10.1103/PhysRevLett.132.240201 
+			IF citare: 9.0
+		[20.7] Gao, BY; Klco, N; Partial-transpose-guided entanglement classes and minimum noise filtering in many-body Gaussian quantum systems; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.062413 
+			IF citare: 2.9
+		[20.8] Bao, LY; Qi, B; Dong, DY; Stabilizing preparation of quantum Gaussian states via continuous measurement; AUTOMATICA, vol.164 (2024), DOI:10.1016/j.automatica.2024.111622 
+			IF citare: 5.9
+		[20.9] Guanzon, JJ; Winnel, MS; Lund, AP; Ralph, TC; Noiseless linear amplification and loss-tolerant quantum relay using coherent-state superpositions; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.032411 
+			IF citare: 2.6
+		[20.10] Li, BH; Das, A; Tserkis, S; Narang, P; Lam, PK; Assad, SM; On the equivalence between squeezing and entanglement potential for two-mode Gaussian states; SCI REP-UK, vol.13 (2023), DOI:10.1038/s41598-023-38572-1 
+			IF citare: 3.8
+		[20.11] Amazioug, M; Teklu, B; Asjad, M; Enhancement of magnon-photon-phonon entanglement in a cavity magnomechanics with coherent feedback loop; SCI REP-UK, vol.13 (2023), DOI:10.1038/s41598-023-30693-x 
+			IF citare: 3.8
+		[20.12] Hidki, A; Lakhfif, A; El Qars, J; Nassik, M; Quantum coherence versus quantum correlations in a double cavity magnomechanical system; INT J MOD PHYS B, vol.37 (2023), DOI:10.1142/S0217979223502454 
+			IF citare: 2.6
+		[20.13] Klco, N; Beck, DH; Savage, MJ; Entanglement structures in quantum field theories: Negativity cores and bound entanglement in the vacuum; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.012415 
+			IF citare: 2.6
+		[20.14] Kiselev, AD; Ranim, A; Rybin, AV; Speed of Evolution and Correlations in Multi-Mode Bosonic Systems; ENTROPY-SWITZ, vol.24 (2022), DOI:10.3390/e24121774 
+			IF citare: 2.7
+		[20.15] Dias, J; Winnel, MS; Munro, WJ; Ralph, TC; Nemoto, K; Distributing entanglement in first-generation discrete- and continuous-variable quantum repeaters; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.052604 
+			IF citare: 2.9
+		[20.16] Benech, E; Auyuanet, A; Lezama, A; Einstein-Podolsky-Rosen steering in symmetrical Gaussian states; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.042201 
+			IF citare: 2.9
+		[20.17] Teklu, B; Bina, M; Paris, MGA; Noisy propagation of Gaussian states in optical media with finite bandwidth; SCI REP-UK, vol.12 (2022), DOI:10.1038/s41598-022-15865-5 
+			IF citare: 4.6
+		[20.18] Guanzon, JJ; Winnel, MS; Lund, AP; Ralph, TC; Ideal Quantum Teleamplification up to a Selected Energy Cutoff Using Linear Optics; PHYS REV LETT, vol.128 (2022), DOI:10.1103/PhysRevLett.128.160501 
+			IF citare: 8.6
+		[20.19] Teklu, B; Continuous-variable entanglement dynamics in Lorentzian environment; PHYS LETT A, vol.432 (2022), DOI:10.1016/j.physleta.2022.128022 
+			IF citare: 2.6
+		[20.20] Benrass, N; Lakhfif, A; Amazioug, M; Habiballah, N; Nassik, M; Purity as a measure of entanglement between two distant mechanical mirrors; INT J MOD PHYS B, vol.36 (2022), DOI:10.1142/S0217979222500369 
+			IF citare: 1.7
+		[20.21] Benrass, N; Aoune, D; Habiballah, N; Nassik, M; Quantification of different quantum correlations in a double cavity optomechanical system; MOD PHYS LETT A, vol.37 (2022), DOI:10.1142/S0217732322500079 
+			IF citare: 1.4
+		[20.22] Kiselev, AD; Ali, R; Rybin, A; Lindblad Dynamics and Disentanglement in Multi-Mode Bosonic Systems; ENTROPY-SWITZ, vol.23 (2021), DOI:10.3390/e23111409 
+			IF citare: 2.738
+		[20.23] Amazioug, M; Daoud, M; Measure and control of quantum correlations in optomechanics; EUR PHYS J D, vol.75 (2021), DOI:10.1140/epjd/s10053-021-00178-5 
+			IF citare: 1.611
+		[20.24] El Qars, J; Total versus quantum correlations in a two-mode Gaussian state; COMMUN THEOR PHYS, vol.73 (2021), DOI:10.1088/1572-9494/abeb60 
+			IF citare: 2.877
+		[20.25] Hu, LY; Zhang, LP; Chen, XT; Ye, W; Guo, Q; Fan, HY; Operator Transpose within Normal Ordering and its Applications for Quantifying Entanglement; ANN PHYS-BERLIN, vol.533 (2021), DOI:10.1002/andp.202000589 
+			IF citare: 0.0
+		[20.26] Zhang, BZ; Zhuang, QT; Entanglement formation in continuous-variable random quantum networks; NPJ QUANTUM INFORM, vol.7 (2021), DOI:10.1038/s41534-021-00370-w 
+			IF citare: 10.758
+nr.autori: 2 		 IF: 7.18 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 26 		 UAIC I.9(Citari): 1220.8400 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[21] 	 Marian, P; Marian, TA; Gaussian entanglement of symmetric two-mode Gaussian states; EUR PHYS J-SPEC TOP, vol.160, pp.281-289 (2008), DOI:10.1140/epjst/e2008-00731-x 
+		[21.1] Benech, E; Auyuanet, A; Lezama, A; Einstein-Podolsky-Rosen steering in symmetrical Gaussian states; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.042201 
+			IF citare: 2.9
+nr.autori: 2 		 IF: 0.689 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 1 		 UAIC I.9(Citari):   34.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[22] 	 Marian, P; Marian, TA; Non-gaussian continuous-variable teleportation; INT J QUANTUM INF, vol.6, pp.721-726 (2008), DOI:10.1142/S0219749908004018 
+nr.autori: 2 		 IF: 0.774 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[23] 	 Marian, P; Marian, TA; Bures distance as a measure of entanglement for symmetric two-mode Gaussian states; PHYS REV A, vol.77, art.no.62319 (2008), DOI:10.1103/PhysRevA.77.062319 
+		[23.1] Borovyk, V; Vellambi, BN; Distance measures for quantum states and channels: properties and applications; PHILOS T R SOC A, vol.383 (2025), DOI:10.1098/rsta.2024.0425 
+			IF citare: 3.7
+		[23.2] Ma, HL; Sun, ZH; Dong, DY; Chen, CL; Rabitz, H; Tomography of Quantum States From Structured Measurements via Quantum-Aware Transformer; IEEE T CYBERNETICS, vol.55 (2025), DOI:10.1109/TCYB.2025.3556466 
+			IF citare: 10.5
+		[23.3] Elghaayda, S; Zhou, X; Mansour, M; Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole; CLASSICAL QUANT GRAV, vol.41 (2024), DOI:10.1088/1361-6382/ad70ea 
+			IF citare: 3.7
+		[23.4] Xu, JW; Imaginarity of Gaussian states; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.062203 
+			IF citare: 2.6
+		[23.5] Li, HH; Li, N; Luo, SL; Probing correlations in two-mode bosonic fields via Gaussian noise channels; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.062415 
+			IF citare: 2.6
+		[23.6] Elghaayda, S; Abd-Rabbou, MY; Mansour, M; Quantum interferometric power and Bures distance entanglement versus normalized steered coherence under random telegraph noise; MOD PHYS LETT A, vol.38 (2023), DOI:10.1142/S0217732323500578 
+			IF citare: 1.5
+		[23.7] Rodríguez, LAA; Schell, AW; Bruschi, DE; Introduction to gravitational redshift of quantum photons propagating in curved spacetime; J PHYS CONF SER, vol.2531 (2023), DOI:10.1088/1742-6596/2531/1/012016 
+			IF citare: 0.0
+		[23.8] Kiselev, AD; Ranim, A; Rybin, AV; Speed of Evolution and Correlations in Multi-Mode Bosonic Systems; ENTROPY-SWITZ, vol.24 (2022), DOI:10.3390/e24121774 
+			IF citare: 2.7
+		[23.9] Hidki, A; Lakhfif, A; El Qars, J; Nassik, M; Quantifying quantum correlations in a double cavity-magnon system; EUR PHYS J D, vol.76 (2022), DOI:10.1140/epjd/s10053-022-00377-8 
+			IF citare: 1.8
+		[23.10] Stein, S; Wiebe, N; Ang, J; Li, A; Benchmarking Quantum Processor Performance through Quantum Distance Metrics Over An Algorithm Suite; IEEE SYM PARA DISTR, vol.missing (2022), DOI:10.1109/IPDPSW55747.2022.00106 
+			IF citare: 0.0
+		[23.11] Kiselev, AD; Ali, R; Rybin, A; Lindblad Dynamics and Disentanglement in Multi-Mode Bosonic Systems; ENTROPY-SWITZ, vol.23 (2021), DOI:10.3390/e23111409 
+			IF citare: 2.738
+		[23.12] Kroshnin, A; Spokoiny, V; Suvorikova, A; STATISTICAL INFERENCE FOR BURES-WASSERSTEIN BARYCENTERS; ANN APPL PROBAB, vol.31 (2021), DOI:10.1214/20-AAP1618 
+			IF citare: 2.038
+		[23.13] Mohamed, ABA; Khalil, EM; Yassen, MF; Eleuch, H; Two-Qubit Local Fisher Information Correlation beyond Entanglement in a Nonlinear Generalized Cavity with an Intrinsic Decoherence; ENTROPY-SWITZ, vol.23 (2021), DOI:10.3390/e23030311 
+			IF citare: 2.738
+nr.autori: 2 		 IF: 2.908 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 13 		 UAIC I.9(Citari):  431.1400 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[24] 	 Marian, P; Marian, TA; CONTINUOUS-VARIABLE TELEPORTATION: A NEW LOOK; ROM J PHYS, vol.53, pp.1153-1163 (2008), DOI:missing 
+nr.autori: 2 		 IF: 0.279 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[25] 	 Marian, P; Marian, TA; Optimal purifications and fidelity for displaced thermal states; PHYS REV A, vol.76, art.no.54307 (2007), DOI:10.1103/PhysRevA.76.054307 
+		[25.1] Ullah, A; Naseem, MT; Müstecaplioglu, ÖE; Mixing thermal coherent states for precision and range enhancement in quantum thermometry; QUANTUM SCI TECHNOL, vol.10 (2025), DOI:10.1088/2058-9565/ad994a 
+			IF citare: 5.0
+		[25.2] He, QL; Sun, J; Song, XS; Xiao, YJ; Enhancement of multiatom non-classical correlations and quantum state transfer in atom-cavity-fiber system*; CHINESE PHYS B, vol.30 (2021), DOI:10.1088/1674-1056/abb7f4 
+			IF citare: 1.652
+nr.autori: 2 		 IF: 2.893 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(Citari):   76.5200 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[26] 	 Marian, P; Marian, TA; Continuous-variable teleportation in the characteristic-function description; PHYS REV A, vol.74, art.no.42306 (2006), DOI:10.1103/PhysRevA.74.042306 
+		[26.1] Lu, ZX; Zuo, X; Fan, ZY; Li, J; Optomagnonic continuous-variable quantum teleportation enhanced by non-Gaussian distillation; PHYS REV RES, vol.7 (2025), DOI:10.1103/7215-zhbv 
+			IF citare: 4.2
+		[26.2] Zhou, LJ; Cai, YX; Zhao, ZK; Liu, CJ; Zhao, T; Hu, LY; Entanglement source preparation via three-photon quantum scissors enhanced by realistic conditions; PHYS REV A, vol.112 (2025), DOI:10.1103/l3wl-7qsh 
+			IF citare: 2.9
+		[26.3] He, MJ; Liu, SY; Enhancing quantum teleportation with continuous-variable cluster states via photon subtraction; PHYS REV A, vol.112 (2025), DOI:10.1103/1jvj-r27q 
+			IF citare: 2.9
+		[26.4] Sharma, M; Kumar, C; Arora, S; Arvind; Continuous-variable quantum teleportation, U(2)-invariant squeezing, and non-Gaussian resource states; PHYS REV A, vol.112 (2025), DOI:10.1103/w71d-smt1 
+			IF citare: 2.9
+		[26.5] Zhou, TA; Xu, G; Guo, YW; Shang, T; Li, ZP; Chen, XB; Guo, Y; Optical frequency comb-based multichannel parallel continuous-variable quantum network coding; PHYS REV APPL, vol.23 (2025), DOI:10.1103/PhysRevApplied.23.064003 
+			IF citare: 4.4
+		[26.6] Arora, S; Kumar, C; Arvind; Continuous-variable quantum teleportation using a photon-subtracted and photon-added two-mode squeezed coherent state; PHYS REV A, vol.111 (2025), DOI:10.1103/PhysRevA.111.022402 
+			IF citare: 2.9
+		[26.7] Mehrabankar, S; Mahmoudi, P; Abbasnezhad, F; Afshar, D; Isar, A; Effect of noisy environment on secure quantum teleportation of unimodal Gaussian states; QUANTUM INF PROCESS, vol.23 (2024), DOI:10.1007/s11128-024-04545-0 
+			IF citare: 2.2
+		[26.8] Kumar, C; Non-Gaussian two mode squeezed thermal states in continuous variable quantum teleportation; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad7543 
+			IF citare: 2.6
+		[26.9] Deepak; Chatterjee, A; Analyzing performance of f-deformed displaced Fock state in continuous-variable quantum teleportation; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad6ebd 
+			IF citare: 2.6
+		[26.10] He, MJ; Liu, SY; Performance optimization of continuous-variable quantum teleportation with generalized photon-varying non-Gaussian operations; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.012425 
+			IF citare: 2.9
+		[26.11] Kumar, C; Sharma, M; Arora, S; Continuous Variable Quantum Teleportation in a Dissipative Environment: Comparison of Non-Gaussian Operations Before and After Noisy Channel; ADV QUANTUM TECHNOL, vol.7 (2024), DOI:10.1002/qute.202300344 
+			IF citare: 4.3
+		[26.12] Villaseñor, E; Winnel, MS; Ralph, TC; Aguinaldo, R; Green, J; Malaney, R; Protecting classical-quantum signals in free-space optical channels; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.062616 
+			IF citare: 2.6
+		[26.13] Zhao, Z; Zhang, H; Huang, Y; Hu, LY; Phase estimation of a Mach-Zehnder interferometer via the Laguerre excitation squeezed state; OPT EXPRESS, vol.31 (2023), DOI:10.1364/OE.489303 
+			IF citare: 3.2
+		[26.14] Kumar, C; Arora, S; Success probability and performance optimization in non-Gaussian continuous-variable quantum teleportation; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.012418 
+			IF citare: 2.6
+		[26.15] Qiu, XJ; Huang, JL; Fu, Z; Jia, F; Coherent state representation of squeezing operator and its applications; RESULTS PHYS, vol.43 (2022), DOI:10.1016/j.rinp.2022.106100 
+			IF citare: 5.3
+		[26.16] He, MJ; Malaney, R; Teleportation of hybrid entangled states with continuous-variable entanglement; SCI REP-UK, vol.12 (2022), DOI:10.1038/s41598-022-21283-4 
+			IF citare: 4.6
+		[26.17] Gonzalez-Raya, T; Casariego, M; Fesquet, F; Renger, M; Salari, V; Möttönen, M; Omar, Y; Deppe, F; Fedorov, KG; Sanz, M; Open-Air Microwave Entanglement Distribution for Quantum Teleportation; PHYS REV APPL, vol.18 (2022), DOI:10.1103/PhysRevApplied.18.044002 
+			IF citare: 4.6
+		[26.18] Patra, A; Gupta, R; Roy, S; Sen, A; Significance of fidelity deviation in continuous-variable teleportation; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.022433 
+			IF citare: 2.9
+		[26.19] Xu, JY; Mao, Y; Chen, YX; Xu, XW; Guo, Y; Machine Learning Assisted Prediction for Free-Space Continuous Variable Quantum Teleportation; IEEE PHOTONICS J, vol.14 (2022), DOI:10.1109/JPHOT.2022.3186391 
+			IF citare: 2.4
+		[26.20] Zubarev, A; Cuzminschi, M; Isar, A; Continuous variable quantum teleportation of a thermal state in a thermal environment; RESULTS PHYS, vol.39 (2022), DOI:10.1016/j.rinp.2022.105700 
+			IF citare: 5.3
+		[26.21] Deepak; Chatterjee, A; Realistic continuous-variable quantum teleportation using a displaced Fock state channel; QUANTUM INF PROCESS, vol.21 (2022), DOI:10.1007/s11128-022-03484-y 
+			IF citare: 2.5
+		[26.22] Xu, JY; Xu, XW; Zuo, ZY; Guo, Y; Continuous variable quantum teleportation through turbulent channels; PHYS SCRIPTA, vol.97 (2022), DOI:10.1088/1402-4896/ac5d70 
+			IF citare: 2.9
+		[26.23] Bose, S; Jeong, H; Quantum teleportation of hybrid qubits and single-photon qubits using Gaussian resources; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.032434 
+			IF citare: 2.9
+		[26.24] Zhang, LP; Jia, F; Zhang, H; Ye, W; Xia, Y; Hu, LY; Huang, JH; Improving entanglement of even entangled coherent states via superposition of number-conserving operations; RESULTS PHYS, vol.35 (2022), DOI:10.1016/j.rinp.2022.105324 
+			IF citare: 5.3
+		[26.25] Villaseñor, E; Malaney, R; A Three-Mode Erasure Code for Continuous Variable Quantum Communications; IEEE GLOB COMM CONF, vol.missing (2022), DOI:10.1109/GLOBECOM48099.2022.10001648 
+			IF citare: 0.0
+		[26.26] Zuo, ZY; Wang, YJ; Liao, Q; Guo, Y; Overcoming the uplink limit of satellite-based quantum communication with deterministic quantum teleportation; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.022615 
+			IF citare: 2.971
+		[26.27] Liu, CJ; Li, MX; Yuan, HC; Xu, XX; Can orthogonalization enhance the EPR correlation and the teleportation fidelity of a two-mode squeezed vacuum?; J OPT SOC AM B, vol.38 (2021), DOI:10.1364/JOSAB.418640 
+			IF citare: 2.058
+		[26.28] Bose, S; Kumar, MS; Analysis of necessary and sufficient conditions for quantum teleportation with non-Gaussian resources; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.032432 
+			IF citare: 2.971
+		[26.29] Villasenor, E; Malaney, R; Enhancing Continuous Variable Quantum Teleportation using Non-Gaussian Resources; IEEE GLOB COMM CONF, vol.missing (2021), DOI:10.1109/GLOBECOM46510.2021.9685767 
+			IF citare: 0.0
+		[26.30] Villaseñor, E; He, MJ; Wang, ZQ; Malaney, R; Win, MZ; Enhanced Uplink Quantum Communication With Satellites via Downlink Channels; IEEE T QUANTUM ENG, vol.2 (2021), DOI:10.1109/TQE.2021.3091709 
+			IF citare: 0.0
+nr.autori: 2 		 IF: 3.047 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 30 		 UAIC I.9(Citari): 1049.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[27] 	 Marian, P; Marian, TA; Scutaru, H; Distinguishability and nonclassicality of one-mode Gaussian states - art. no. 022104; PHYS REV A, vol.69, art.no.22104 (2004), DOI:10.1103/PhysRevA.69.022104 
+		[27.1] Chiriacò, G; Computable measures of non-Markovianity for Gaussian free fermion systems; EUR PHYS J B, vol.98 (2025), DOI:10.1140/epjb/s10051-025-01055-5 
+			IF citare: 1.7
+		[27.2] Li, Y; Li, WL; Li, XL; Ergotropic Mpemba effect in non-Markovian quantum systems; PHYS REV A, vol.112 (2025), DOI:10.1103/5xrr-x2rm 
+			IF citare: 2.9
+		[27.3] Oliveira, AC; Nonclassicality measures of single-mode quantum states; INT J QUANTUM INF, vol.23 (2025), DOI:10.1142/S0219749925300025 
+			IF citare: 0.8
+		[27.4] Li, Y; Li, XL; Li, WL; Quantum synchronization in an all-optical stroboscopic quantum simulator; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.062201 
+			IF citare: 2.9
+		[27.5] Rohith, M; Kannan, S; Sudheesh, C; Homodyne nonclassical area as a nonclassicality indicator; J PHYS B-AT MOL OPT, vol.56 (2023), DOI:10.1088/1361-6455/acb678 
+			IF citare: 1.5
+		[27.6] Burke, PC; Nakerst, G; Haque, M; Assigning temperatures to eigenstates; PHYS REV E, vol.107 (2023), DOI:10.1103/PhysRevE.107.024102 
+			IF citare: 2.2
+		[27.7] Ferrari, G; Lami, L; Theurer, T; Plenio, MB; Asymptotic State Transformations of Continuous Variable Resources; COMMUN MATH PHYS, vol.398 (2023), DOI:10.1007/s00220-022-04523-6 
+			IF citare: 2.2
+		[27.8] Li, Y; Li, XL; Jin, JS; Dissipation-Induced Information Scrambling in a Collision Model; ENTROPY-SWITZ, vol.24 (2022), DOI:10.3390/e24030345 
+			IF citare: 2.7
+nr.autori: 3 		 IF: 2.902 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 8 		 UAIC I.9(Citari):  139.3333 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[28] 	 Marian, P; Marian, TA; Scutaru, H; Bures distance as a measure of entanglement for two-mode squeezed thermal states - art. no. 062309; PHYS REV A, vol.68, art.no.62309 (2003), DOI:10.1103/PhysRevA.68.062309 
+		[28.1] De Simone, L; Capra, L; Vesperini, A; Rossi, L; Di Cairano, L; Franzosi, R; Geometric Aspects of Entanglement; ENTROPY-SWITZ, vol.28 (2026), DOI:10.3390/e28030299 
+			IF citare: 2.0
+		[28.2] Gori, M; Sarkis, M; Tkatchenko, A; Multipartite Gaussian entanglement measure with applications to graph states and bosonic field theory; J PHYS A-MATH THEOR, vol.58 (2025), DOI:10.1088/1751-8121/ae21a9 
+			IF citare: 2.1
+		[28.3] Zubarev, A; Cuzminschi, M; Isar, A; Secure Quantum Teleportation of Squeezed Thermal States; SYMMETRY-BASEL, vol.17 (2025), DOI:10.3390/sym17111804 
+			IF citare: 2.2
+		[28.4] Yang, Y; Xu, LL; Gao, ZZ; Meng, XG; The von Neumann entropy and quantum statistical features of a degenerate parametric amplifier system; PHYSICA A, vol.678 (2025), DOI:10.1016/j.physa.2025.130954 
+			IF citare: 3.1
+		[28.5] Elghaayda, S; Zhou, X; Mansour, M; Distribution of distance-based quantum resources outside a radiating Schwarzschild black hole; CLASSICAL QUANT GRAV, vol.41 (2024), DOI:10.1088/1361-6382/ad70ea 
+			IF citare: 3.7
+		[28.6] Kumar, C; Non-Gaussian two mode squeezed thermal states in continuous variable quantum teleportation; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad7543 
+			IF citare: 2.6
+		[28.7] Hamdouni, Y; Diffusion coefficients preserving long-time correlations: consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system; J STAT MECH-THEORY E, vol.2024 (2024), DOI:10.1088/1742-5468/ad6efc 
+			IF citare: 1.9
+		[28.8] Hou, XY; Zhou, Z; Wang, X; Guo, H; Chien, CC; Local geometry and quantum geometric tensor of mixed states; PHYS REV B, vol.110 (2024), DOI:10.1103/PhysRevB.110.035144 
+			IF citare: 3.7
+		[28.9] Yan, XJ; Yin, Z; Li, LS; Quantum a-fidelity of diagonalizable second-order Hamiltonians in multi-dimensional systems; PHYS LETT A, vol.503 (2024), DOI:10.1016/j.physleta.2024.129418 
+			IF citare: 2.6
+		[28.10] Xu, JW; Imaginarity of Gaussian states; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.062203 
+			IF citare: 2.6
+		[28.11] Patra, S; Mukherjee, A; Mukherjee, A; Vidhyadhiraja, NS; Taraphder, A; Lal, S; Frustration shapes multi-channel Kondo physics: a star graph perspective; J PHYS-CONDENS MAT, vol.35 (2023), DOI:10.1088/1361-648X/acd09c 
+			IF citare: 2.3
+		[28.12] Li, HH; Li, N; Luo, SL; Probing correlations in two-mode bosonic fields via Gaussian noise channels; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.062415 
+			IF citare: 2.6
+		[28.13] Bhuvaneswari, S; Muthuganesan, R; Radha, R; Thermal quantum correlations and teleportation in a graphene sheet; APPL PHYS B-LASERS O, vol.129 (2023), DOI:10.1007/s00340-023-08013-y 
+			IF citare: 2.0
+		[28.14] Elghaayda, S; Abd-Rabbou, MY; Mansour, M; Quantum interferometric power and Bures distance entanglement versus normalized steered coherence under random telegraph noise; MOD PHYS LETT A, vol.38 (2023), DOI:10.1142/S0217732323500578 
+			IF citare: 1.5
+		[28.15] Croitoru, A; Isar, A; Time Evolution of Quantum Coherence of Two Bosonic Modes in Noisy Environments; J RUSS LASER RES, vol.43 (2022), DOI:10.1007/s10946-022-10021-w 
+			IF citare: 0.9
+		[28.16] Calamanciuc, M; Isar, A; Evolution of Gaussian Renyi-2 quantum correlations in a squeezed thermal environment; INT J QUANTUM INF, vol.20 (2022), DOI:10.1142/S0219749921500362 
+			IF citare: 1.2
+		[28.17] Dobre, A; Isar, A; OPEN QUANTUM DYNAMICS OF GAUSSIAN HILBERT-SCHMIDT GEOMETRIC DISCORD; ROM REP PHYS, vol.74 (2022), DOI:missing 
+			IF citare: 2.7
+		[28.18] Abdel-Khalek, S; Khalil, EM; Alqannas, HS; Properties of Pancharatnam Phase and Entanglement of a Five-Level Atom Interacting with a Squeezed Field; J RUSS LASER RES, vol.42 (2021), DOI:10.1007/s10946-021-09943-8 
+			IF citare: 0.81
+		[28.19] Jee, HH; Sparaciari, C; Berta, M; Resource distillation in convex Gaussian resource theories; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022420 
+			IF citare: 2.971
+		[28.20] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+		[28.21] Cuzminschi, M; Isar, A; QUANTUM ENTANGLEMENT AND QUANTUM STEERING OF TWO BOSONIC MODES IN NOISY ENVIRONMENTS; ROM J PHYS, vol.66 (2021), DOI:missing 
+			IF citare: 1.662
+		[28.22] Cuzminschi, M; Isar, A; QUANTUM STEERING OF TWO BOSONIC MODES IN THE TWO-RESERVOIR MODEL; ROM REP PHYS, vol.73 (2021), DOI:missing 
+			IF citare: 2.085
+nr.autori: 3 		 IF: 2.589 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 22 		 UAIC I.9(Citari):  407.9933 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[29] 	 Marian, P; Marian, TA; Scutaru, H; Quantifying nonclassicality of one-mode Gaussian states of the radiation field; PHYS REV LETT, vol.88, art.no.153601 (2002), DOI:10.1103/PhysRevLett.88.153601 
+		[29.1] Wang, XT; Luo, SL; Zhang, Y; Phase-Sensitive Superposition of Quantum States; ANN PHYS-BERLIN, vol.538 (2026), DOI:10.1002/andp.70170 
+			IF citare: 2.5
+		[29.2] Borovyk, V; Vellambi, BN; Distance measures for quantum states and channels: properties and applications; PHILOS T R SOC A, vol.383 (2025), DOI:10.1098/rsta.2024.0425 
+			IF citare: 3.7
+		[29.3] Tang, L; Wu, F; Quantifying nonclassicality via metric-adjusted skew information; PHYS REV A, vol.112 (2025), DOI:10.1103/wwjf-lh44 
+			IF citare: 2.9
+		[29.4] Feng, LX; Luo, SL; Entanglement and Magic Correlations Generated by Discrete Beam-Splitters; ANN PHYS-BERLIN, vol.537 (2025), DOI:10.1002/andp.202500288 
+			IF citare: 2.5
+		[29.5] Oliveira, AC; Nonclassicality measures of single-mode quantum states; INT J QUANTUM INF, vol.23 (2025), DOI:10.1142/S0219749925300025 
+			IF citare: 0.8
+		[29.6] Langrenez, C; Arvidsson-Shukur, DRM; De Bièvre, S; Convex roofs witnessing Kirkwood-Dirac nonpositivity; J PHYS A-MATH THEOR, vol.58 (2025), DOI:10.1088/1751-8121/add58f 
+			IF citare: 2.1
+		[29.7] Chabane, A; Mohammdi, S; Gharbi, A; Paris, MGA; Isospectral oscillators as a resource for quantum information processing; INT J QUANTUM INF, vol.23 (2025), DOI:10.1142/S0219749925500042 
+			IF citare: 0.8
+		[29.8] Rogers, S; Muth, T; Ge, WC; Quantifying nonclassicality of mixed Fock states; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.042602 
+			IF citare: 2.9
+		[29.9] Hertz, A; Goldberg, AZ; Heshami, K; Quadrature coherence scale of linear combinations of Gaussian functions in phase space; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.012408 
+			IF citare: 2.9
+		[29.10] Liu, JR; Ge, WC; Zubairy, MS; Classical-Nonclassical Polarity of Gaussian States; PHYS REV LETT, vol.132 (2024), DOI:10.1103/PhysRevLett.132.240201 
+			IF citare: 9.0
+		[29.11] Li, HH; Li, N; Luo, SL; Zhang, Y; Characterizing SU(1,1) nonclassicality via variance; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad2f93 
+			IF citare: 2.6
+		[29.12] Yan, LN; Hu, JW; Yang, GH; Zhang, LQ; Nonclassical quantifier based on skewed information; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.012203 
+			IF citare: 2.9
+		[29.13] Fonseca-Romero, KM; Reis, M; Oliveira, AC; Quantum roughness as sensitivity to diffusion noise: Quantifying non-classicality of multi-mode systems; PHYS LETT A, vol.486 (2023), DOI:10.1016/j.physleta.2023.129097 
+			IF citare: 2.3
+		[29.14] Griffet, C; Arnhem, M; De Bièvre, S; Cerf, NJ; Interferometric measurement of the quadrature coherence scale using two replicas of a quantum optical state; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.023730 
+			IF citare: 2.6
+		[29.15] Hertz, A; De Bièvre, S; Decoherence and nonclassicality of photon-added and photon-subtracted multimode Gaussian states; PHYS REV A, vol.107 (2023), DOI:10.1103/PhysRevA.107.043713 
+			IF citare: 2.6
+		[29.16] Rohith, M; Kannan, S; Sudheesh, C; Homodyne nonclassical area as a nonclassicality indicator; J PHYS B-AT MOL OPT, vol.56 (2023), DOI:10.1088/1361-6455/acb678 
+			IF citare: 1.5
+		[29.17] Li, XH; Luo, SL; Zhang, Y; Detecting nonclassicality via Gaussian noise channel; EUR PHYS J PLUS, vol.137 (2022), DOI:10.1140/epjp/s13360-022-03594-7 
+			IF citare: 3.4
+		[29.18] Fu, SS; Li, XH; Luo, SL; Dynamics of atomic magic in the Jaynes-Cummings model; QUANTUM INF PROCESS, vol.22 (2022), DOI:10.1007/s11128-022-03756-7 
+			IF citare: 2.5
+		[29.19] Zhang, Y; Liu, SH; Jing, BX; He, QY; Luo, SL; Revealing nonclassicality via s-ordered phase-space distribution; SCI CHINA PHYS MECH, vol.65 (2022), DOI:10.1007/s11433-022-1968-8 
+			IF citare: 6.4
+		[29.20] Fu, SS; Luo, SL; Zhang, Y; On Non-Convexity of the Nonclassicality Measure via Operator Ordering Sensitivity; FRONT PHYS-LAUSANNE, vol.10 (2022), DOI:10.3389/fphy.2022.955786 
+			IF citare: 3.1
+		[29.21] Dai, H; Luo, SL; Detecting spin nonclassicality via average skew information; EUR PHYS J PLUS, vol.137 (2022), DOI:10.1140/epjp/s13360-022-02875-5 
+			IF citare: 3.4
+		[29.22] Thekkadath, GS; Sempere-Llagostera, S; Bell, BA; Patel, RB; Kim, MS; Walmsley, IA; Experimental Demonstration of Gaussian Boson Sampling with Displacement; PRX QUANTUM, vol.3 (2022), DOI:10.1103/PRXQuantum.3.020336 
+			IF citare: 9.7
+		[29.23] Merlin, J; Devibala, E; Ahmed, ABM; Operational resource measure of nonclassicality for number states filtered coherent states; EUR PHYS J D, vol.76 (2022), DOI:10.1140/epjd/s10053-022-00372-z 
+			IF citare: 1.8
+		[29.24] Zhang, Y; Luo, SL; FROM THE WIGNER FUNCTION TO THE s-ORDERED PHASE-SPACE DISTRIBUTION VIA A GAUSSIAN NOISE CHANNEL; THEOR MATH PHYS+, vol.210 (2022), DOI:10.1134/S0040577922030126 
+			IF citare: 1.0
+		[29.25] Abgaryan, V; Khvedelidze, A; Torosyan, A; Kenfack - Zyczkowski indicator of nonclassicality for two non-equivalent representations of Wigner function of qutrit; PHYS LETT A, vol.412 (2021), DOI:10.1016/j.physleta.2021.127591 
+			IF citare: 2.707
+		[29.26] Zhang, Y; Luo, SL; Spin nonclassicality via variance; THEOR MATH PHYS+, vol.208 (2021), DOI:10.1134/S0040577921070060 
+			IF citare: 0.685
+		[29.27] Zhang, Y; Luo, SL; Quantifying Decoherence of Gaussian Noise Channels; J STAT PHYS, vol.183 (2021), DOI:10.1007/s10955-021-02758-6 
+			IF citare: 1.762
+		[29.28] Zhang, Y; Luo, SL; Entropy excesses as quantifiers of nonclassicality; EUR PHYS J PLUS, vol.136 (2021), DOI:10.1140/epjp/s13360-021-01459-z 
+			IF citare: 3.758
+		[29.29] Zhang, Y; Luo, SL; Quantifying nonclassicality of multimode bosonic fields via skew information; COMMUN THEOR PHYS, vol.73 (2021), DOI:10.1088/1572-9494/abdf44 
+			IF citare: 2.877
+		[29.30] Goldberg, AZ; De La Hoz, P; Björk, G; Klimov, AB; Grassl, M; Leuchs, G; Sánchez-Soro, LL; Quantum concepts in optical polarization; ADV OPT PHOTONICS, vol.13 (2021), DOI:10.1364/AOP.404175 
+			IF citare: 24.75
+		[29.31] Fu, SS; Luo, SL; Zhang, Y; Dynamics of field nonclassicality in the Jaynes-Cummings model; QUANTUM INF PROCESS, vol.20 (2021), DOI:10.1007/s11128-020-02963-4 
+			IF citare: 1.965
+		[29.32] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+nr.autori: 3 		 IF: 7.323 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 32 		 UAIC I.9(Citari):  889.1667 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[30] 	 Marian, P; Marian, TA; Scutaru, H; Inseparability of mixed two-mode Gaussian states generated with a SU(1,1) interferometer; J PHYS A-MATH GEN, vol.34, pp.6969-6980 (2001), DOI:10.1088/0305-4470/34/35/322 
+		[30.1] Maskour, MA; El Maaroufi, A; Maroufi, B; Daoud, M; Warped Riemannian metrics for manifolds of two-mode entangled Gaussian states under beam splitting and squeezing unitary operations; INT J GEOM METHODS M, vol.missing (2025), DOI:10.1142/S0219887826500246 
+			IF citare: 2.2
+		[30.2] Dodonov, VV; Variance-Based Uncertainty Relations: A Concise Review of Inequalities Discovered Since 1927; QUANTUM REP, vol.7 (2025), DOI:10.3390/quantum7030034 
+			IF citare: 1.3
+		[30.3] Maskour, MA; Maroufi, B; Daoud, M; Riemannian Manifolds of Two-mode Gaussian States Evolving Under Parametric Conversion and Amplification Processes; INT J THEOR PHYS, vol.64 (2025), DOI:10.1007/s10773-025-05990-y 
+			IF citare: 1.7
+		[30.4] Ren, G; Chen, F; Phase sensitivity and entanglement of superposition coherent states in Mach-Zehnder interferometer; MOD PHYS LETT B, vol.37 (2023), DOI:10.1142/S0217984923501014 
+			IF citare: 1.8
+		[30.5] Liu, JR; Ge, WC; Zubairy, MS; Distribution of Gaussian entanglement in linear-optical systems; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.022433 
+			IF citare: 2.971
+		[30.6] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 6 		 UAIC I.9(Citari):  106.2800 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[31] 	 Marian, P; Marian, TA; Environment-induced nonclassical behaviour; EUR PHYS J D, vol.11, pp.257-265 (2000), DOI:10.1007/s100530070091 
+nr.autori: 2 		 IF: 1.421 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[32] 	 Marian, P; Marian, TA; Evolution of mixing during the damping of a number state; J PHYS A-MATH GEN, vol.33, pp.3595-3603 (2000), DOI:10.1088/0305-4470/33/18/306 
+nr.autori: 2 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[33] 	 Marian, P; Marian, TA; Superposition states in cavities fed by injected atoms; J PHYS II, vol.7, pp.1753-1760 (1997), DOI:missing 
+nr.autori: 2 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[34] 	 Marian, P; Marian, TA; Generalized characteristic functions for a single-mode radiation field; PHYS LETT A, vol.230, pp.276-282 (1997), DOI:10.1016/S0375-9601(97)00272-7 
+		[34.1] Dodonov, VV; Variance-Based Uncertainty Relations: A Concise Review of Inequalities Discovered Since 1927; QUANTUM REP, vol.7 (2025), DOI:10.3390/quantum7030034 
+			IF citare: 1.3
+nr.autori: 2 		 IF: 1.267 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 1 		 UAIC I.9(Citari):   18.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[35] 	 Marian, P; Second-order squeezed states; PHYS REV A, vol.55, pp.3051-3058 (1997), DOI:10.1103/PhysRevA.55.3051 
+		[35.1] Gazeau, JP; Hussin, V; Moran, J; Zelaya, K; Two-mode squeezed state quantisation and semiclassical portraits; ANN PHYS-NEW YORK, vol.441 (2022), DOI:10.1016/j.aop.2022.168888 
+			IF citare: 3.0
+		[35.2] Zelaya, K; Hussin, ; Rosas-Ortiz, O; Constructing squeezed states of light with associated Hermite polynomials; EUR PHYS J PLUS, vol.136 (2021), DOI:10.1140/epjp/s13360-021-01536-3 
+			IF citare: 3.758
+nr.autori: 1 		 IF: 2.764 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 2 		 UAIC I.9(Citari):  155.1600 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[36] 	 Marian, P; Marian, TA; Destruction of higher-order squeezing by thermal noise; J PHYS A-MATH GEN, vol.29, pp.6233-6245 (1996), DOI:10.1088/0305-4470/29/19/009 
+		[36.1] Pistorius, T; Weimer, H; Variational analysis of driven-dissipative bosonic fields; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.063711 
+			IF citare: 2.971
+nr.autori: 2 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 1 		 UAIC I.9(Citari):   34.7100 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[37] 	 Marian, P; Marian, TA; Photon number and counting statistics for a field with Gaussian characteristic function; ANN PHYS-NEW YORK, vol.245, pp.98-112 (1996), DOI:10.1006/aphy.1996.0004 
+nr.autori: 2 		 IF: 1.957 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[38] 	 MARIAN, P; MARIAN, TA; PHOTO-COUNT STATISTICS OF QUANTUM-MECHANICAL SUPERPOSITIONS OF COHERENT STATES; PHYS LETT A, vol.198, pp.163-166 (1995), DOI:10.1016/0375-9601(94)01019-Q 
+nr.autori: 2 		 IF: 1.267 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[39] 	 MARIAN, P; MARIAN, TA; SQUEEZED STATES WITH THERMAL NOISE .1. PHOTON-NUMBER STATISTICS; PHYS REV A, vol.47, pp.4474-4486 (1993), DOI:10.1103/PhysRevA.47.4474 
+		[39.1] Hanks, M; Lee, SV; Lo Piparo, N; Munro, WJ; Nishio, S; Nemoto, K; Kim, MS; Use of faulty states in cat-code error correction; PHYS REV A, vol.113 (2026), DOI:10.1103/vb9n-g6gx 
+			IF citare: 2.9
+		[39.2] Li, SY; Yue, YJ; Hu, Y; Gong, RY; Zhao, QC; Peng, ZH; Ian, H; Song, PT; Xiang, ZL; Zhang, J; Efficient convex optimization for bosonic state tomography; PHYS REV APPL, vol.24 (2025), DOI:10.1103/55gp-mfg6 
+			IF citare: 4.4
+		[39.3] Fiurásek, J; Certification of stellar ranks of quantum states of light with a pair of click detectors; PHYS REV A, vol.112 (2025), DOI:10.1103/hct3-6hgn 
+			IF citare: 2.9
+		[39.4] Blahnik, S; Shandera, S; Modulating non-Gaussianity via hidden sector entanglement; PHYS REV D, vol.112 (2025), DOI:10.1103/vmsn-swp3 
+			IF citare: 5.3
+		[39.5] Gu, Y; Wang, J; Relaxation of a thermally bathed harmonic oscillator: A study based on the quantum group-theoretical formalism; PHYSICA A, vol.679 (2025), DOI:10.1016/j.physa.2025.131004 
+			IF citare: 3.1
+		[39.6] Tang, L; Wu, F; Quantifying nonclassicality via metric-adjusted skew information; PHYS REV A, vol.112 (2025), DOI:10.1103/wwjf-lh44 
+			IF citare: 2.9
+		[39.7] Mandal, K; Entanglement dynamics in intensity-dependent double Jaynes-Cummings model for squeezed coherent thermal states; J PHYS B-AT MOL OPT, vol.58 (2025), DOI:10.1088/1361-6455/adf92d 
+			IF citare: 1.5
+		[39.8] He, L; Zhao, J; Li, HY; Guo, XM; Guo, YQ; High-order coherence of super-bunching squeezed thermal states and squeezed number states of light fields; ACTA PHYS SIN-CH ED, vol.74 (2025), DOI:10.7498/aps.74.20250395 
+			IF citare: 0.8
+		[39.9] Zhang, T; Hou, JC; Qi, XF; An Easily Computable Measure of Gaussian Quantum Imaginarity; ANN PHYS-BERLIN, vol.537 (2025), DOI:10.1002/andp.202500171 
+			IF citare: 2.5
+		[39.10] Monika; Kaur, K; Singh, V; Rebari, S; Asymmetric quantum harmonic Otto engine under hot squeezed thermal reservoir; J NON-EQUIL THERMODY, vol.50 (2025), DOI:10.1515/jnet-2024-0110 
+			IF citare: 4.2
+		[39.11] Giani, A; Win, MZ; Conti, A; Quantum Sensing and Communication via Non-Gaussian States; IEEE J SEL AREAS INF, vol.6 (2025), DOI:10.1109/JSAIT.2024.3491692 
+			IF citare: 2.2
+		[39.12] Ghanbari, S; Lin, J; Maclellan, B; Robichaud, L; Roztocki, P; Lo, HK; Optimization of deterministic photonic-graph-state generation via local operations; PHYS REV A, vol.110 (2024), DOI:10.1103/PhysRevA.110.052605 
+			IF citare: 2.9
+		[39.13] Xu, JW; Quantifying the imaginarity of quantum states via Tsallis relative entropy; PHYS LETT A, vol.528 (2024), DOI:10.1016/j.physleta.2024.130024 
+			IF citare: 2.6
+		[39.14] Cangemi, LM; Bhadra, C; Levy, A; Quantum engines and refrigerators; PHYS REP, vol.1087 (2024), DOI:10.1016/j.physrep.2024.07.001 
+			IF citare: 29.5
+		[39.15] Mandal, K; Radhakrishnan, C; Satyanarayana, M; The role of thermal and squeezed photons in the entanglement dynamics of the double Jaynes-Cummings model; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad5913 
+			IF citare: 2.6
+		[39.16] Strinati, MC; Conti, C; Non-Gaussianity in the quantum parametric oscillator; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.063519 
+			IF citare: 2.9
+		[39.17] Jarzyna, M; Kunz, L; Zwolinski, W; Jachura, M; Banaszek, K; Photon information efficiency limits in deep-space optical communications; OPT ENG, vol.63 (2024), DOI:10.1117/1.OE.63.4.041209 
+			IF citare: 1.2
+		[39.18] Calcinari, A; Gielen, S; Generalized Gaussian states in group field theory and su(1,1) quantum cosmology; PHYS REV D, vol.109 (2024), DOI:10.1103/PhysRevD.109.066022 
+			IF citare: 5.3
+		[39.19] Yan, LN; Hu, JW; Yang, GH; Zhang, LQ; Nonclassical quantifier based on skewed information; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.012203 
+			IF citare: 2.9
+		[39.20] Cuzminschi, M; Zubarev, A; Iordache, SM; Isar, A; Influence of the seed of measurement on the work extracted in a quantum Szilard engine; ISCIENCE, vol.26 (2023), DOI:10.1016/j.isci.2023.108563 
+			IF citare: 4.6
+		[39.21] Borówka, S; Pylypenko, U; Mazelanik, M; Parniak, M; Continuous wideband microwave-to-optical converter based on room-temperature Rydberg atoms; NAT PHOTONICS, vol.18 (2024), DOI:10.1038/s41566-023-01295-w 
+			IF citare: 32.9
+		[39.22] Guerrini, S; Win, MZ; Conti, A; Photon-varied quantum states: Unified characterization; PHYS REV A, vol.108 (2023), DOI:10.1103/PhysRevA.108.022425 
+			IF citare: 2.6
+		[39.23] Angeletti, J; Shi, HW; Lakshmanan, T; Vitali, D; Zhuang, QT; Microwave Quantum Illumination with Correlation-To-Displacement Conversion; PHYS REV APPL, vol.20 (2023), DOI:10.1103/PhysRevApplied.20.024030 
+			IF citare: 3.8
+		[39.24] Avagyan, A; Knill, E; Glancy, S; Multi-mode Gaussian state analysis with total-photon counting; J PHYS B-AT MOL OPT, vol.56 (2023), DOI:10.1088/1361-6455/ace175 
+			IF citare: 1.5
+		[39.25] Mandal, K; Satyanarayana, MV; Atomic Inversion and Entanglement Dynamics for Squeezed Coherent Thermal States in the Jaynes-Cummings Model; INT J THEOR PHYS, vol.62 (2023), DOI:10.1007/s10773-023-05389-7 
+			IF citare: 1.3
+		[39.26] Liu, HG; He, JZ; Wang, JH; Performance optimization on finite-time quantum Carnot engines and refrigerators based on spin-1/2 systems driven by a squeezed reservoir; CHINESE PHYS B, vol.32 (2023), DOI:10.1088/1674-1056/aca207 
+			IF citare: 1.5
+		[39.27] Fitzke, E; Niederschuh, F; Walther, T; Simulating the photon statistics of multimode Gaussian states by automatic differentiation of generating functions; APL PHOTONICS, vol.8 (2023), DOI:10.1063/5.0129638 
+			IF citare: 5.4
+		[39.28] Giani, A; Win, MZ; Conti, A; Source Engineering for Quantum Key Distribution with Noisy Photon-Added Squeezed States; IEEE ICC, vol.missing (2023), DOI:10.1109/ICC45041.2023.10279710 
+			IF citare: 0.0
+		[39.29] Ataman, S; Covariance-based separability criterion for the output state of a SU(2) system; EUR PHYS J D, vol.76 (2022), DOI:10.1140/epjd/s10053-022-00559-4 
+			IF citare: 1.8
+		[39.30] Ferreri, A; Pfeifer, H; Wilhelm, FK; Hofferberth, S; Bruschi, DE; Interplay between optomechanics and the dynamical Casimir effect; PHYS REV A, vol.106 (2022), DOI:10.1103/PhysRevA.106.033502 
+			IF citare: 2.9
+		[39.31] Zubarev, A; Cuzminschi, M; Isar, A; Continuous variable quantum teleportation of a thermal state in a thermal environment; RESULTS PHYS, vol.39 (2022), DOI:10.1016/j.rinp.2022.105700 
+			IF citare: 5.3
+		[39.32] Shahidani, S; Thermodynamic forces and flows between a thermal bath and a squeezed thermal bath: Application to optomechanical systems; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.063516 
+			IF citare: 2.9
+		[39.33] Blakely, JN; Pethel, SD; Quantum limits to classically spoofing an electromagnetic signal; PHYS REV RES, vol.4 (2022), DOI:10.1103/PhysRevResearch.4.023178 
+			IF citare: 4.2
+		[39.34] Giani, A; Win, MZ; Conti, A; Quantum Discrimination of Noisy Photon-Subtracted Squeezed States; IEEE GLOB COMM CONF, vol.missing (2022), DOI:10.1109/GLOBECOM48099.2022.10001626 
+			IF citare: 0.0
+		[39.35] Pistorius, T; Weimer, H; Variational analysis of driven-dissipative bosonic fields; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.063711 
+			IF citare: 2.971
+		[39.36] Truong, DM; Ho, CS; Tran, DQ; Detecting nonclassicality and non-Gaussianity by the Wigner function and quantum teleportation in photon-added-and-subtracted two modes pair coherent state; J COMPUT ELECTRON, vol.20 (2021), DOI:10.1007/s10825-021-01753-0 
+			IF citare: 1.983
+		[39.37] Jarzyna, M; Attaining classical capacity per unit cost of noisy bosonic Gaussian channels; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.022605 
+			IF citare: 2.971
+		[39.38] Pierobon, G; Cariolaro, G; Dattoli, G; On the role of Hermite-like polynomials in the Fock representations of Gaussian states; J MATH PHYS, vol.62 (2021), DOI:10.1063/1.5127516 
+			IF citare: 1.469
+		[39.39] Frigerio, M; Olivares, S; Paris, MGA; Steering nonclassicality of Gaussian states; PHYS REV A, vol.103 (2021), DOI:10.1103/PhysRevA.103.022209 
+			IF citare: 2.971
+nr.autori: 2 		 IF: 2.764 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 39 		 UAIC I.9(Citari): 1851.6500 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[40] 	 MARIAN, P; MARIAN, TA; SQUEEZED STATES WITH THERMAL NOISE .2. DAMPING AND PHOTON-COUNTING; PHYS REV A, vol.47, pp.4487-4495 (1993), DOI:10.1103/PhysRevA.47.4487 
+		[40.1] Gu, Y; Wang, J; Relaxation of a thermally bathed harmonic oscillator: A study based on the quantum group-theoretical formalism; PHYSICA A, vol.679 (2025), DOI:10.1016/j.physa.2025.131004 
+			IF citare: 3.1
+		[40.2] Mandal, K; Entanglement dynamics in intensity-dependent double Jaynes-Cummings model for squeezed coherent thermal states; J PHYS B-AT MOL OPT, vol.58 (2025), DOI:10.1088/1361-6455/adf92d 
+			IF citare: 1.5
+		[40.3] Esakkimuthu, D; Jayapaul, M; Abduljaffer, ABMA; Heralded generation of displaced qudits from quantum optical catalysis; EUR PHYS J D, vol.78 (2024), DOI:10.1140/epjd/s10053-024-00893-9 
+			IF citare: 1.5
+		[40.4] Mandal, K; Radhakrishnan, C; Satyanarayana, M; The role of thermal and squeezed photons in the entanglement dynamics of the double Jaynes-Cummings model; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad5913 
+			IF citare: 2.6
+		[40.5] Papadatos, N; Quantum Stirling heat engine with squeezed thermal reservoir; CHINESE PHYS B, vol.32 (2023), DOI:10.1088/1674-1056/acc7f8 
+			IF citare: 1.5
+		[40.6] Mandal, K; Satyanarayana, MV; Atomic Inversion and Entanglement Dynamics for Squeezed Coherent Thermal States in the Jaynes-Cummings Model; INT J THEOR PHYS, vol.62 (2023), DOI:10.1007/s10773-023-05389-7 
+			IF citare: 1.3
+		[40.7] Bezerra, IP; Vasconcelos, HM; Glancy, S; Quadrature squeezing and temperature estimation from the Fock distribution; QUANTUM INF PROCESS, vol.21 (2022), DOI:10.1007/s11128-022-03677-5 
+			IF citare: 2.5
+nr.autori: 2 		 IF: 2.764 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 7 		 UAIC I.9(Citari):  175.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[41] 	 MARIAN, P; HIGHER-ORDER SQUEEZING AND PHOTON STATISTICS FOR SQUEEZED THERMAL STATES; PHYS REV A, vol.45, pp.2044-2051 (1992), DOI:10.1103/PhysRevA.45.2044 
+		[41.1] Tang, L; Wu, F; Quantifying nonclassicality via metric-adjusted skew information; PHYS REV A, vol.112 (2025), DOI:10.1103/wwjf-lh44 
+			IF citare: 2.9
+		[41.2] Yang, Y; Xu, LL; Gao, ZZ; Meng, XG; The von Neumann entropy and quantum statistical features of a degenerate parametric amplifier system; PHYSICA A, vol.678 (2025), DOI:10.1016/j.physa.2025.130954 
+			IF citare: 3.1
+		[41.3] Kumar, C; Non-Gaussian two mode squeezed thermal states in continuous variable quantum teleportation; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad7543 
+			IF citare: 2.6
+		[41.4] Coelho, S; Queiroz, L; Alves, DT; Squeezing equivalence of quantum harmonic oscillators under different frequency modulations; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad56d6 
+			IF citare: 2.6
+		[41.5] Yan, LN; Hu, JW; Yang, GH; Zhang, LQ; Nonclassical quantifier based on skewed information; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.012203 
+			IF citare: 2.9
+		[41.6] Avagyan, A; Knill, E; Glancy, S; Multi-mode Gaussian state analysis with total-photon counting; J PHYS B-AT MOL OPT, vol.56 (2023), DOI:10.1088/1361-6455/ace175 
+			IF citare: 1.5
+		[41.7] Fitzke, E; Niederschuh, F; Walther, T; Simulating the photon statistics of multimode Gaussian states by automatic differentiation of generating functions; APL PHOTONICS, vol.8 (2023), DOI:10.1063/5.0129638 
+			IF citare: 5.4
+		[41.8] Coelho, SS; Queiroz, L; Alves, DT; Exact Solution of a Time-Dependent Quantum Harmonic Oscillator with Two Frequency Jumps via the Lewis-Riesenfeld Dynamical Invariant Method; ENTROPY-SWITZ, vol.24 (2022), DOI:10.3390/e24121851 
+			IF citare: 2.7
+		[41.9] Bezerra, IP; Vasconcelos, HM; Glancy, S; Quadrature squeezing and temperature estimation from the Fock distribution; QUANTUM INF PROCESS, vol.21 (2022), DOI:10.1007/s11128-022-03677-5 
+			IF citare: 2.5
+		[41.10] Dellios, A; Drummond, PD; Opanchuk, B; Teh, RY; Reid, MD; Simulating macroscopic quantum correlations in linear networks; PHYS LETT A, vol.429 (2022), DOI:10.1016/j.physleta.2021.127911 
+			IF citare: 2.6
+		[41.11] Pierobon, G; Cariolaro, G; Dattoli, G; On the role of Hermite-like polynomials in the Fock representations of Gaussian states; J MATH PHYS, vol.62 (2021), DOI:10.1063/1.5127516 
+			IF citare: 1.469
+nr.autori: 1 		 IF: 2.764 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 11 		 UAIC I.9(Citari):  715.3800 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[42] 	 MARIAN, P; HIGHER-ORDER SQUEEZING PROPERTIES AND CORRELATION-FUNCTIONS FOR SQUEEZED NUMBER STATES; PHYS REV A, vol.44, pp.3325-3330 (1991), DOI:10.1103/PhysRevA.44.3325 
+		[42.1] Korolev, SB; Silin, AA; Generation of squeezed Fock states by particle-number measurements on multimode Gaussian states; LASER PHYS LETT, vol.23 (2026), DOI:10.1088/1612-202X/ae6324 
+			IF citare: 1.4
+		[42.2] Rodríguez-Lara, BM; Becerra, FE; Mapping continuous-variable quantum states onto optical scalar beams; J PHYS-PHOTONICS, vol.8 (2026), DOI:10.1088/2515-7647/ae2fa4 
+			IF citare: 8.4
+		[42.3] He, L; Zhao, J; Li, HY; Guo, XM; Guo, YQ; High-order coherence of super-bunching squeezed thermal states and squeezed number states of light fields; ACTA PHYS SIN-CH ED, vol.74 (2025), DOI:10.7498/aps.74.20250395 
+			IF citare: 0.8
+		[42.4] Strinati, MC; Conti, C; Non-Gaussianity in the quantum parametric oscillator; PHYS REV A, vol.109 (2024), DOI:10.1103/PhysRevA.109.063519 
+			IF citare: 2.9
+		[42.5] Shukla, P; Observation of Amplitude Squared Squeezing in a System of Multi Two-Level Atoms; NONLINEAR OPT QUANTU, vol.57 (2023), DOI:missing 
+			IF citare: 0.7
+		[42.6] Xu, WJ; Yusufu, T; Turek, Y; Studying the squeezing effect and phase-space distribution of a single-photon-added coherent state using a postselected von Neumann measurement; PHYS REV A, vol.105 (2022), DOI:10.1103/PhysRevA.105.022210 
+			IF citare: 2.9
+		[42.7] Aishan, N; Yusufu, T; Turek, Y; Amplitude-squared squeezing of Schrodinger cat states via postselected von Neumann measurement; EUR PHYS J PLUS, vol.137 (2022), DOI:10.1140/epjp/s13360-022-02441-z 
+			IF citare: 3.4
+		[42.8] Pistorius, T; Weimer, H; Variational analysis of driven-dissipative bosonic fields; PHYS REV A, vol.104 (2021), DOI:10.1103/PhysRevA.104.063711 
+			IF citare: 2.971
+		[42.9] Farzan, ME; Faghihi, MJ; Honarasa, G; Nonclassical properties of f -deformed photon-added squeezed Kerr states; PHYSICA A, vol.565 (2021), DOI:10.1016/j.physa.2020.125569 
+			IF citare: 3.778
+nr.autori: 1 		 IF: 2.764 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 9 		 UAIC I.9(Citari):  634.9800 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[43] 	 MARIAN, P; SQUEEZING IN MULTIPHOTON ABSORPTION; J MOD OPTIC, vol.37, pp.285-293 (1990), DOI:10.1080/09500349014550351 
+nr.autori: 1 		 IF: 1.063 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[44] 	 NICULESCU, E; MARIAN, P; GLODEANU, A; CALCULATION OF IONIZATION-ENERGY OF INTERSTITIAL IMPURITIES IN SILICON; REV ROUM PHYS, vol.31, pp.249-256 (1986), DOI:missing 
+nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[45] 	 NICULESCU, E; MARIAN, P; POPESCU, IM; CALCULATION OF ENERGY-LEVELS OF THE SHALLOW AND DEEP DONORS IN SILICON; REV ROUM PHYS, vol.30, pp.779-787 (1985), DOI:missing 
+nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[46] 	 NICULESCU, E; MARIAN, P; POPESCU, IM; ENERGY-LEVELS FOR DONOR IMPURITIES IN GAAS AND GAP; REV ROUM PHYS, vol.30, pp.843-849 (1985), DOI:missing 
+nr.autori: 3 		 IF: 0.0 		 UAIC I.1(ISI):   0.0000 		 nr.citari: 0 		 UAIC I.9(Citari):    0.0000 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total criteriul I.1(UAIC) =  203.2600			Total criteriul I.9(UAIC) = 15349.3483
