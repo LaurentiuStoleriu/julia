@@ -1,0 +1,375 @@
+[1] 	 Nicolae, D; Ciocan, GA; Nemuc, A; Nicolae, V; Talianu, C; Vasilescu, J; Dandocsi, A; Radu, C; Cazacu, MM; Vulturescu, V; Belegante, L; Examining the characteristics of aerosols: a statistical analysis based on a decade of lidar and photometer observations at the Eastern border of ACTRIS; ATMOS MEAS TECH, vol.19, pp.1179-1199 (2026), DOI:10.5194/amt-19-1179-2026 
+nr.autori: 11 		 AIS: 1.031 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2] 	 Timofte, A; Bostan, DC; Apetroaie, C; Miclaus, IM; Cazacu, MM; The 50-Year Evolution of the Planetary Boundary Layer in the Southern Part of Romania: Comparison Between the Determinations by the Stull Method and the Reanalysis Data from ERA5; ATMOSPHERE-BASEL, vol.16, art.no.1247 (2025), DOI:10.3390/atmos16111247 
+nr.autori: 5 		 AIS: 0.534 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[3] 	 Dragoi, L; Cazacu, MM; Breaban, IG; Evaluation of Scenarios for the Application of the Future PM2.5 and PM10 Standards: A Case Study of Three Urban Areas in Romania and Implications for Public Policies; ENVIRONMENTS, vol.12, art.no.373 (2025), DOI:10.3390/environments12100373 
+nr.autori: 3 		 AIS: 0.622 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[4] 	 Tanasa, I; Cazacu, M; Botan, D; Atkinson, JD; Sebestyen, V; Sluser, B; From Aerosol Optical Depth to Risk Assessment: A Novel Framework for Environmental Impact Statistics of Air Quality Using AERONET; ENVIRONMENTS, vol.12, art.no.285 (2025), DOI:10.3390/environments12080285 
+nr.autori: 6 		 AIS: 0.622 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[5] 	 Ciocan, G; Nemuc, A; Belegante, L; Cazacu, MM; Mineral dust intrusions in Southeastern Romania: insights from seventeen years of sun photometer data; J OPTOELECTRON ADV M, vol.27, pp.354-367 (2025), DOI:missing 
+nr.autori: 4 		 AIS: 0.054 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[6] 	 Dragoi, L; Cazacu, MM; Breaban, IG; Analysis of the PM2.5/PM10 Ratio in Three Urban Areas of Northeastern Romania; ATMOSPHERE-BASEL, vol.16, art.no.720 (2025), DOI:10.3390/atmos16060720 
+		[6.1] Logothetis, I; Kerchoulas, A; Kourkoumpas, DS; Mitsotakis, A; Grammelis, P; SUSTAINABILITY-BASEL, vol.17 (2025), DOI:10.3390/su172310842 
+		[6.2] Quintal-Franco, CA; Mendicuti-Ramos, A; Ponce-Caballero, C; Gongora-Echeverría, VR; Aguilar-Escalante, S; EARTH-BASEL, vol.6 (2025), DOI:10.3390/earth6040133 
+nr.autori: 3 		 AIS: 0.534 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[7] 	 Ababei, RV; Garofalide, S; Bulai, G; Dimitriu, GD; Gurlui, S; Cazacu, MM; Unveiling the Correlation Between Lyapunov Coefficients and Deep Learning Performance Using Ceilometer Data; IEEE GEOSCI REMOTE S, vol.22, art.no.6501105 (2025), DOI:10.1109/LGRS.2025.3557150 
+nr.autori: 6 		 AIS: 1.02 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[8] 	 Cazacu, MM; Rosu, AI; Ababei, RV; Rosu, A; Vasincu, D; Nica, DC; Rusu, O; Bruma, AB; Agop, M; Investigating Nonlinear Dynamics in Atmospheric Aerosols during the Transition from Laminar to Turbulent Flow; ATMOSPHERE-BASEL, vol.15, art.no.366 (2024), DOI:10.3390/atmos15030366 
+		[8.1] Li, CH; Zhao, H; Mao, JD; Rao, ZM; Zhou, CY; Gong, X; J AEROSOL SCI, vol.197 (2026), DOI:10.1016/j.jaerosci.2026.106835 
+nr.autori: 9 		 AIS: 0.534 		 nr.citari: 1 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[9] 	 Roman, AM; Cimpoesu, R; Pricop, B; Cazacu, MM; Zegan, G; Istrate, B; Cocean, A; Chelariu, R; Moscu, M; Badarau, G; Cimpoesu, N; Ivanescu, MC; Investigations on the Degradation Behavior of Processed FeMnSi-xCu Shape Memory Alloys; NANOMATERIALS-BASEL, vol.14, art.no.330 (2024), DOI:10.3390/nano14040330 
+		[9.1] Gracheva, A; Polozov, I; Popovich, A; METALS-BASEL, vol.15 (2025), DOI:10.3390/met15070754 
+		[9.2] Yao, X; Zhu, SS; Shuai, CJ; Gao, CD; ELECTROCHIM ACTA, vol.533 (2025), DOI:10.1016/j.electacta.2025.146519 
+		[9.3] Zhou, SR; Chen, TJ; Mi, BS; Ma, X; Wang, JJ; Jin, MJ; Liu, P; Liaw, PK; Li, W; J MATER RES TECHNOL, vol.35 (2025), DOI:10.1016/j.jmrt.2025.03.054 
+		[9.4] Rasheed, MM; Rahman, RAU; Abbas, SZ; Wakeel, A; CAN METALL QUART, vol.65 (2026), DOI:10.1080/00084433.2025.2467016 
+		[9.5] Abbas, A; Hsu, JW; Naqvi, SMA; Lin, HC; Lin, KM; JOM-US, vol.76 (2024), DOI:10.1007/s11837-024-06823-9 
+nr.autori: 12 		 AIS: 0.674 		 nr.citari: 5 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[10] 	 Bostan, DC; Miclaus, IM; Apetroaie, C; Voiculescu, M; Timofte, A; Cazacu, MM; Long-Range Transport Analysis Based on Eastern Atmospheric Circulation and Its Impact on the Dust Event over Moldavia, Romania in August 2022; ATMOSPHERE-BASEL, vol.14, art.no.1366 (2023), DOI:10.3390/atmos14091366 
+		[10.1] Chen, FF; He, Q; Zhao, ZJ; Lu, ZQ; Yang, MF; Ren, G; Wang, J; Zhang, HW; An, DL; Wu, CX; ATMOS POLLUT RES, vol.16 (2025), DOI:10.1016/j.apr.2025.102659 
+		[10.2] Varga, G; Gresina, F; Gelencsér, A; Csávics, A; Rostási, A; RENEW SUST ENERG REV, vol.212 (2025), DOI:10.1016/j.rser.2025.115446 
+nr.autori: 6 		 AIS: 0.554 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[11] 	 Roman, AM; Cimpoesu, R; Pricop, B; Lohan, NM; Cazacu, MM; Bujoreanu, LG; Panaghie, C; Zegan, G; Cimpoesu, N; Murariu, AM; Influence of Dynamic Strain Sweep on the Degradation Behavior of FeMnSi-Ag Shape Memory Alloys; J FUNCT BIOMATER, vol.14, art.no.377 (2023), DOI:10.3390/jfb14070377 
+nr.autori: 10 		 AIS: 0.741 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[12] 	 Dragoi, L; Breaban, IG; Cazacu, MM; 2017-2020 trends of particulate matter PM10 concentrations in the cities of Suceava and Botosani; PRESENT ENV SUST DEV, vol.17, pp.335-349 (2023), DOI:10.47743/pesd2023171023 
+nr.autori: 3 		 AIS: 0.032 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[13] 	 Tanasa, I; Cazacu, M; Sluser, B; Air Quality Integrated Assessment: Environmental Impacts, Risks and Human Health Hazards; APPL SCI-BASEL, vol.13, art.no.1222 (2023), DOI:10.3390/app13021222 
+		[13.1] Wang, N; Zhang, Y; Bai, BY; Wang, ZJ; Xie, YC; Wang, YQ; Zhang, LY; ENVIRON RES COMMUN, vol.7 (2025), DOI:10.1088/2515-7620/adde14 
+		[13.2] Mohammed, SE; Badamasi, H; Unimke, AA; Iya, NID; Olubunmi, AD; Okoro, C; Okezie, O; Olaleye, AA; CURR ANAL CHEM, vol.21 (2025), DOI:10.2174/0115734110302106240404105903 
+		[13.3] Ramadan, MNA; Ali, MAH; Khoo, SY; Alkhedher, M; Alherbawi, M; ECOTOX ENVIRON SAFE, vol.283 (2024), DOI:10.1016/j.ecoenv.2024.116856 
+		[13.4] Berca, M; Tulbure, I; ENVIRON ENG MANAG J, vol.22 (2023), DOI:10.30638/eemj.2023.175 
+		[13.5] Ye, S; Wang, P; Chen, QY; Huang, Y; She, YY; APPL SCI-BASEL, vol.13 (2023), DOI:10.3390/app132413013 
+		[13.6] Wisniewska, M; Sadlowska, A; Herda, K; Urban, T; Nowicki, P; MOLECULES, vol.28 (2023), DOI:10.3390/molecules28196919 
+		[13.7] Duan, JH; Gong, YP; Luo, J; Zhao, ZY; SCI REP-UK, vol.13 (2023), DOI:10.1038/s41598-023-36620-4 
+		[13.8] Velea, L; Udristioiu, MT; Puiu, S; Motisan, R; Amarie, D; ATMOSPHERE-BASEL, vol.14 (2023), DOI:10.3390/atmos14050840 
+nr.autori: 3 		 AIS: 0.428 		 nr.citari: 8 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[14] 	 Cazacu, MM; Rosu, IA; Bibire, L; Vasincu, D; Rotundu, AM; Agop, M; Theoretical and Experimental Designs of the Planetary Boundary Layer Dynamics through a Multifractal Theory of Motion; FRACTAL FRACT, vol.6, art.no.747 (2022), DOI:10.3390/fractalfract6120747 
+		[14.1] Paun, VP; FRACTAL FRACT, vol.7 (2023), DOI:10.3390/fractalfract7050412 
+nr.autori: 6 		 AIS: 0.562 		 nr.citari: 1 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[15] 	 Nica, DC; Cazacu, MM; Constantin, DE; Nedeff, V; Nedeff, F; Vasincu, D; Rosu, IA; Agop, M; Boundary Layer via Multifractal Mass Conductivity through Remote Sensing Data in Atmospheric Dynamics; FRACTAL FRACT, vol.6, art.no.250 (2022), DOI:10.3390/fractalfract6050250 
+		[15.1] Paun, VP; FRACTAL FRACT, vol.7 (2023), DOI:10.3390/fractalfract7050412 
+		[15.2] Chen, WL; Xu, Q; Zhao, KY; Hao, LA; Pu, CH; Yuan, S; Chui, S; Zhao, HX; Yang, K; INT J APPL EARTH OBS, vol.118 (2023), DOI:10.1016/j.jag.2023.103262 
+nr.autori: 8 		 AIS: 0.562 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[16] 	 Radinschi, I; Grammenos, T; Spanou, A; Chattopadhyay, S; Cazacu, MM; Landau-Lifshitz and Weinberg Energy Distributions for the Static Regular Simpson-Visser Space-Time Geometry; SYMMETRY-BASEL, vol.14, art.no.900 (2022), DOI:10.3390/sym14050900 
+nr.autori: 5 		 AIS: 0.406 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17] 	 Rosu, IA; Nica, DC; Cazacu, MM; Agop, M; Cellular Self-Structuring and Turbulent Behaviors in Atmospheric Laminar Channels; FRONT EARTH SC-SWITZ, vol.9, art.no.801020 (2022), DOI:10.3389/feart.2021.801020 
+		[17.1] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[17.2] Rosu, IA; Nica, DC; Dumitras, C; Chitariu, D; Bibire, L; Ghenadi, AS; Dragan, VS; Agop, M; SENSORS-BASEL, vol.22 (2022), DOI:10.3390/s22010158 
+nr.autori: 4 		 AIS: 0.953 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[18] 	 LUTCANU, M; COTEATA, M; BERNEVIG, MA; NECHIFOR, CD; CAZACU, MM; PARASCHIV, P; ISTRATE, B; BADARAU, G; SANDU, IG; CIMPOESU, N; OBTAINING AND ANALYZING THE Al2O3-ZrO2 CERAMIC LAYERS ON METALLIC SUBSTRATE; ARCH METALL MATER, vol.67, pp.479-485 (2022), DOI:10.24425/amm.2022.137780 
+		[18.1] Machedon-Pisu, T; Machedon-Pisu, M; Olah, A; COATINGS, vol.15 (2025), DOI:10.3390/coatings15080866 
+		[18.2] Lutcanu, M; Cimpoesu, R; Abrudeanu, M; Munteanu, C; Moga, SG; Coteata, M; Zegan, G; Benchea, M; Cimpoesu, N; Murariu, AM; CRYSTALS, vol.13 (2023), DOI:10.3390/cryst13040614 
+nr.autori: 10 		 AIS: 0.104 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[19] 	 Roman, AM; Chelariu, R; Cimpoesu, R; Stirbu, I; Ionita, I; Cazacu, MM; Prisecariu, BA; Cimpoesu, N; Pietrusiewicz, P; Sodor, A; ANALYSIS OF THE CORROSION RATE OF FeMn-Si BIODEGRADABLE MATERIAL; ARCH METALL MATER, vol.67, pp.1243-1250 (2022), DOI:10.24425/amm.2022.141048 
+nr.autori: 10 		 AIS: 0.104 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[20] 	 Radinschi, I; Grammenos, T; Chakraborty, G; Chattopadhyay, S; Cazacu, MM; Einstein and Moller Energy-Momentum Distributions for the Static Regular Simpson-Visser Space-Time; SYMMETRY-BASEL, vol.13, art.no.1622 (2021), DOI:10.3390/sym13091622 
+		[20.1] Chakraborty, G; Kaur, H; Gupta, N; INT J MOD PHYS A, vol.missing (2026), DOI:10.1142/S0217751X26460073 
+		[20.2] Chakraborty, G; Chattopadhyay, S; Gupta, N; Kaur, H; MOD PHYS LETT A, vol.40 (2025), DOI:10.1142/S0217732325501810 
+		[20.3] Chakraborty, G; INDIAN J PHYS, vol.99 (2025), DOI:10.1007/s12648-024-03321-1 
+		[20.4] Aygün, S; Aktas, C; NEW ASTRON, vol.105 (2024), DOI:10.1016/j.newast.2023.102110 
+		[20.5] Aygün, S; Aktas, C; NEW ASTRON, vol.101 (2023), DOI:10.1016/j.newast.2023.102014 
+		[20.6] Karimov, RK; Izmailov, RN; Nandi, KK; UNIVERSE-BASEL, vol.8 (2022), DOI:10.3390/universe8100540 
+nr.autori: 5 		 AIS: 0.435 		 nr.citari: 6 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[21] 	 Rosu, IA; Nica, DC; Cazacu, MM; Agop, M; Towards Possible Laminar Channels through Turbulent Atmospheres in a Multifractal Paradigm; ATMOSPHERE-BASEL, vol.12, art.no.1038 (2021), DOI:10.3390/atmos12081038 
+		[21.1] Rosu, IA; Nedeff, F; Nedeff, V; Ancela, JLC; Nica, DC; Frasila, M; Agop, M; Vasincu, D; FRACTAL FRACT, vol.7 (2023), DOI:10.3390/fractalfract7080576 
+		[21.2] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[21.3] Rosu, IA; Nica, DC; Dumitras, C; Chitariu, D; Bibire, L; Ghenadi, AS; Dragan, VS; Agop, M; SENSORS-BASEL, vol.22 (2022), DOI:10.3390/s22010158 
+nr.autori: 4 		 AIS: 0.626 		 nr.citari: 3 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[22] 	 Radinschi, I; Grammenos, T; Sahoo, PK; Chattopadhyay, S; Cazacu, MM; Einstein and Moller energies of a particular asymptotically Reissner-Nordstrom non-singular black hole solution; ASTRON NACHR, vol.342, pp.264-270 (2021), DOI:10.1002/asna.202113917 
+		[22.1] Aygün, S; Aktas, C; NEW ASTRON, vol.101 (2023), DOI:10.1016/j.newast.2023.102014 
+nr.autori: 5 		 AIS: 0.361 		 nr.citari: 1 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[23] 	 Rosu, IA; Cazacu, MM; Agop, M; Multifractal Model of Atmospheric Turbulence Applied to Elastic Lidar Data; ATMOSPHERE-BASEL, vol.12, art.no.226 (2021), DOI:10.3390/atmos12020226 
+		[23.1] Frischer, R; Singh, MP; Porcaro, C; Namazi, H; FRACTALS, vol.33 (2025), DOI:10.1142/S0218348X25300089 
+		[23.2] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[23.3] Rosu, IA; Nica, DC; Dumitras, C; Chitariu, D; Bibire, L; Ghenadi, AS; Dragan, VS; Agop, M; SENSORS-BASEL, vol.22 (2022), DOI:10.3390/s22010158 
+nr.autori: 3 		 AIS: 0.626 		 nr.citari: 3 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[24] 	 Cazacu, MM; Pelin, V; Radinschi, I; Sandu, I; Ciocan, V; Sandu, IG; Gurlui, S; EFFECTS OF METEOROLOGICAL FACTORS ON THE HYDROPHOBIZATION OF SPECIFIC CALCAREOUS GEOMATERIALS FROM REPEDEA - IASI AREA, UNDER THE URBAN AMBIENTAL AIR EXPOSURE; INT J CONSERV SCI, vol.11, pp.1019-1030 (2020), DOI:missing 
+nr.autori: 7 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[25] 	 Radinschi, I; Grammenos, T; Rahaman, F; Cazacu, MM; Spanou, A; Chakraborty, J; On the Energy of a Non-Singular Black Hole Solution Satisfying the Weak Energy Condition; UNIVERSE-BASEL, vol.6, art.no.169 (2020), DOI:10.3390/universe6100169 
+		[25.1] Mourad, MF; Abdelgaber, M; MOD PHYS LETT A, vol.37 (2022), DOI:10.1142/S0217732322500717 
+		[25.2] Mostepanenko, VM; Starobinsky, AA; Velichko, EN; UNIVERSE-BASEL, vol.7 (2021), DOI:10.3390/universe7080296 
+nr.autori: 6 		 AIS: 0.0 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[26] 	 Rosu, IA; Cazacu, MM; Ghenadi, AS; Bibire, L; Agop, M; On a Multifractal Approach of Turbulent Atmosphere Dynamics; FRONT EARTH SC-SWITZ, vol.8, art.no.216 (2020), DOI:10.3389/feart.2020.00216 
+		[26.1] Frischer, R; Singh, MP; Porcaro, C; Namazi, H; FRACTALS, vol.33 (2025), DOI:10.1142/S0218348X25300089 
+		[26.2] Ghizdovat, V; Rusu, O; Frasila, M; Rusu, CM; Agop, M; Vasincu, D; ENTROPY-SWITZ, vol.25 (2023), DOI:10.3390/e25081149 
+		[26.3] Franzke, CLE; Blender, R; O'Kane, TJ; Lembo, V; FRONT PHYS-LAUSANNE, vol.10 (2022), DOI:10.3389/fphy.2022.931596 
+		[26.4] Zhai, C; FRONT PHYS-LAUSANNE, vol.10 (2022), DOI:10.3389/fphy.2022.799217 
+		[26.5] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[26.6] Ciurca, L; Paun, MA; Barhalescu, M; Jarcau, M; Dumitras, C; Corabieru, A; Paun, VA; Agop, M; Paun, VP; U POLITEH BUCH SER A, vol.84 (2022), DOI:missing 
+		[26.7] Rosu, IA; Paun, MA; Barhalescu, M; Saviuc, AI; Jarcau, M; Dumitras, C; Placinta, C; Paun, VA; Agop, M; Paun, VP; U POLITEH BUCH SER A, vol.84 (2022), DOI:missing 
+		[26.8] Tesloianu, ND; Dobreci, L; Ghizdovat, V; Zala, A; Cotirlet, AV; Gavrilut, A; Agop, M; Vasincu, D; Nedelciuc, I; Rusu, CM; Costache, II; ENTROPY-SWITZ, vol.23 (2021), DOI:10.3390/e23040444 
+		[26.9] Dobreci, L; Saviuc, A; Petrescu, TC; Paun, MA; Frasila, M; Nedeff, F; Paun, VA; Dumitrascu, C; Paun, VP; Agop, M; U POLITEH BUCH SER A, vol.83 (2021), DOI:missing 
+nr.autori: 5 		 AIS: 0.0 		 nr.citari: 9 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[27] 	 Radinschi, I; Sahoo, PK; Grammenos, T; Chattopadhyay, S; Cazacu, MM; Localization of Energy and Momentum in an Asymptotically Reissner-Nordstrom Non-Singular Black Hole Space-Time Geometry; UNIVERSE-BASEL, vol.6, art.no.69 (2020), DOI:10.3390/universe6050069 
+		[27.1] Aygün, S; Aktas, C; NEW ASTRON, vol.105 (2024), DOI:10.1016/j.newast.2023.102110 
+		[27.2] Aygün, S; Aktas, C; NEW ASTRON, vol.101 (2023), DOI:10.1016/j.newast.2023.102014 
+		[27.3] Yang, IC; MOD PHYS LETT A, vol.37 (2022), DOI:10.1142/S0217732322501383 
+nr.autori: 5 		 AIS: 0.0 		 nr.citari: 3 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[28] 	 Tîmpu, S; Sfîca, L; Dobri, RV; Cazacu, MM; Nita, AI; Birsan, MV; Tropospheric Dust and Associated Atmospheric Circulations over the Mediterranean Region with Focus on Romania's Territory; ATMOSPHERE-BASEL, vol.11, art.no.349 (2020), DOI:10.3390/atmos11040349 
+		[28.1] Birsan, MV; Lupu, L; Dogaru, D; Havris, LE; Ciupitu, D; ROM REP PHYS, vol.78 (2026), DOI:10.59277/RomRepPhys.2026.78.703 
+		[28.2] Amihaesei, VA; Sfîca, L; Raveh-Rubin, S; Cheval, S; Micu, D; ATMOS RES, vol.332 (2026), DOI:10.1016/j.atmosres.2025.108679 
+		[28.3] Birsan, MV; Sfîca, L; Amihaesei, VA; Nita, IA; Dogaru, D; Lupu, L; ROM J PHYS, vol.70 (2025), DOI:10.59277/RomJPhys.2025.70.805 
+		[28.4] Burghelea, GB; Marmureanu, L; Iorga, G; Antonescu, B; APPL SCI-BASEL, vol.14 (2024), DOI:10.3390/app14188169 
+		[28.5] Manea, A; Birsan, MV; Dima, V; Havris, LE; LAND-BASEL, vol.13 (2024), DOI:10.3390/land13050596 
+		[28.6] Necula, C; Stefan, S; Birsan, MV; Barbu, N; Nita, IA; THEOR APPL CLIMATOL, vol.155 (2024), DOI:10.1007/s00704-024-04854-5 
+		[28.7] Stefanie, HI; Radovici, A; Mereuta, A; Arghius, V; Camarasan, H; Costin, D; Botezan, C; Ginsca, C; Ajtai, N; REMOTE SENS-BASEL, vol.15 (2023), DOI:10.3390/rs15123072 
+		[28.8] Mihai, G; Alexandru, AM; Nita, IA; Birsan, MV; FORESTS, vol.13 (2022), DOI:10.3390/f13081203 
+		[28.9] Mihai, G; Curtu, AL; Alexandru, AM; Nita, IA; Ciocîrlan, E; Birsan, MV; FORESTS, vol.13 (2022), DOI:10.3390/f13050805 
+		[28.10] Asutosh, A; Vinoj, V; Murukesh, N; Ramisetty, R; Mittal, N; SCI REP-UK, vol.12 (2022), DOI:10.1038/s41598-022-10017-1 
+		[28.11] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[28.12] Nita, IA; Apostol, L; Patriche, CV; Sfica, L; Bojariu, R; Birsan, MV; ROM J PHYS, vol.67 (2022), DOI:missing 
+		[28.13] Rosu, IA; Nica, DC; Dumitras, C; Chitariu, D; Bibire, L; Ghenadi, AS; Dragan, VS; Agop, M; SENSORS-BASEL, vol.22 (2022), DOI:10.3390/s22010158 
+		[28.14] Alexandrou, G; Mouzourides, P; Eleftheriou, A; Neophytou, MKA; ATMOSPHERE-BASEL, vol.12 (2021), DOI:10.3390/atmos12101310 
+		[28.15] Dobri, RV; Sfîca, L; Amihaesei, VA; Apostol, L; Timpu, S; REMOTE SENS-BASEL, vol.13 (2021), DOI:10.3390/rs13081478 
+		[28.16] Sfîca, L; Beck, C; Nita, AI; Voiculescu, M; Birsan, MV; Philipp, A; INT J CLIMATOL, vol.41 (2021), DOI:10.1002/joc.6841 
+		[28.17] Stefan, S; Voinea, S; Iorga, G; ATMOS POLLUT RES, vol.11 (2020), DOI:10.1016/j.apr.2020.04.007 
+nr.autori: 6 		 AIS: 0.626 		 nr.citari: 17 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[29] 	 Rosu, IA; Ferrarese, S; Radinschi, I; Ciocan, V; Cazacu, MM; Evaluation of Different WRF Parametrizations over the Region of Iasi with Remote Sensing Techniques; ATMOSPHERE-BASEL, vol.10, art.no.559 (2019), DOI:10.3390/atmos10090559 
+		[29.1] Cuevas, O; Marín, JC; Blázquez, J; Meyer, C; MON NOT R ASTRON SOC, vol.529 (2024), DOI:10.1093/mnras/stae630 
+		[29.2] Chen, XR; Gu, XF; Zhan, YL; Wang, DK; Zhang, YZ; Mumtaz, F; Shi, SY; Liu, QX; REMOTE SENS-BASEL, vol.14 (2022), DOI:10.3390/rs14102327 
+		[29.3] Nelson, MA; Conry, P; Costigan, KR; Brown, MJ; Meech, S; Zajic, D; Bieringer, PE; Annunzio, A; Bieberbach, G; BOUND-LAY METEOROL, vol.183 (2022), DOI:10.1007/s10546-022-00696-8 
+		[29.4] Bellini, A; Golzio, A; Magri, T; Ferrarese, S; Pession, G; Manfrin, M; ATMOSPHERE-BASEL, vol.13 (2022), DOI:10.3390/atmos13020167 
+		[29.5] Golzio, A; Ferrarese, S; Cassardo, C; Diolaiuti, GA; Pelfini, M; BOUND-LAY METEOROL, vol.180 (2021), DOI:10.1007/s10546-021-00617-1 
+		[29.6] Voiculescu, M; ATMOSPHERE-BASEL, vol.12 (2021), DOI:10.3390/atmos12010056 
+		[29.7] Golzio, A; Bollati, IM; Luciani, M; Pelfini, M; Ferrarese, S; APPL SCI-BASEL, vol.10 (2020), DOI:10.3390/app10124243 
+nr.autori: 5 		 AIS: 0.555 		 nr.citari: 7 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[30] 	 Rosu, IA; Cazacu, MM; Prelipceanu, OS; Agop, M; A Turbulence-Oriented Approach to Retrieve Various Atmospheric Parameters Using Advanced Lidar Data Processing Techniques; ATMOSPHERE-BASEL, vol.10, art.no.38 (2019), DOI:10.3390/atmos10010038 
+		[30.1] Zhang, Y; Zhang, DP; Jiang, HY; J MAR SCI ENG, vol.11 (2023), DOI:10.3390/jmse11071440 
+		[30.2] Nica, DC; Voiculescu, M; Constantin, DE; Gîrtu, M; Topliceanu, L; Vasincu, D; Rosu, IA; Agop, M; MATHEMATICS-BASEL, vol.10 (2022), DOI:10.3390/math10061004 
+		[30.3] Rosu, IA; Nica, DC; Dumitras, C; Chitariu, D; Bibire, L; Ghenadi, AS; Dragan, VS; Agop, M; SENSORS-BASEL, vol.22 (2022), DOI:10.3390/s22010158 
+		[30.4] Ajtai, N; Stefanie, H; Mereata, A; Radovici, A; Botezan, C; ATMOSPHERE-BASEL, vol.11 (2020), DOI:10.3390/atmos11040364 
+		[30.5] Molero, F; ATMOSPHERE-BASEL, vol.10 (2019), DOI:10.3390/atmos10110655 
+		[30.6] Wang, LL; Stanic, S; Eichinger, W; Mocnik, G; Drinovec, L; Gregoric, A; ATMOSPHERE-BASEL, vol.10 (2019), DOI:10.3390/atmos10030128 
+nr.autori: 4 		 AIS: 0.555 		 nr.citari: 6 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[31] 	 Sfîca, L; Iordache, I; Ichim, P; Leahu, A; Cazacu, MM; Gurlui, S; Trif, CR; THE INFLUENCE OF WEATHER CONDITIONS AND LOCAL CLIMATE ON PARTICULATE MATTER (PM10) CONCENTRATION IN METROPOLITAN AREA OF IASI, ROMANIA; PRESENT ENV SUST DEV, vol.12, pp.47-69 (2018), DOI:10.2478/pesd-2018-0029 
+		[31.1] Mampitiya, L; Rathnayake, N; Ghosh, R; Hoshino, Y; Rathnayake, U; AEROSOL SCI ENG, vol.missing (2025), DOI:10.1007/s41810-025-00325-0 
+		[31.2] Badiceanu, A; Popescu, AF; Balint, AI; Matei, E; U POLITEH BUCH SER B, vol.87 (2025), DOI:missing 
+		[31.3] Dandocsi, AV; Vasilescu, J; Nemuc, A; Toanca, F; Ilie, A; Tilea, A; Vulturescu, V; Stan, C; U POLITEH BUCH SER A, vol.87 (2025), DOI:missing 
+		[31.4] Birsan, MV; Nita, IA; Alexandru, V; ROM REP PHYS, vol.76 (2024), DOI:10.59277/RomRepPhys.2024.76.708 
+		[31.5] Mihaila, D; Lazurca, LG; Bistricean, IP; Horodnic, VD; Mihaila, EV; Emandi, EM; Prisacariu, A; Nistor, A; Nistor, B; Rosu, C; HELIYON, vol.9 (2023), DOI:10.1016/j.heliyon.2023.e18918 
+		[31.6] Mahler, B; Baiceanu, D; Panciu, TC; Florea, RM; Iorga, AL; Gnat, M; German, CF; Parvu, S; Paraschiv, D; Manea, D; Mihai, M; Ibraim, E; Timar, B; Mihaltan, FD; ATMOSPHERE-BASEL, vol.14 (2023), DOI:10.3390/atmos14050867 
+		[31.7] Sfîca, L; Cretu, CS; Ichim, P; Hritac, R; Breab, IG; SUSTAIN CITIES SOC, vol.94 (2023), DOI:10.1016/j.scs.2023.104568 
+		[31.8] Lolila, F; Mazunga, MS; Ndabeni, NB; AEROSOL AIR QUAL RES, vol.22 (2022), DOI:10.4209/aaqr.220214 
+		[31.9] Khomsi, K; Najmi, H; Chelhaoui, Y; Souhaili, Z; AEROSOL AIR QUAL RES, vol.20 (2020), DOI:10.4209/aaqr.2019.08.0401 
+		[31.10] Bodor, K; Boga, R; Pernyeszi, T; Tonk, S; Deák, G; PRESENT ENV SUST DEV, vol.14 (2020), DOI:10.15551/pesd2020141022 
+		[31.11] Velea, L; Udristioiu, MT; Bojariu, R; Sararu, S; AIP CONF PROC, vol.2218 (2020), DOI:10.1063/5.0001047 
+		[31.12] Amihaesei, VA; Sfica, L; Apostol, L; Leahu, A; PRESENT ENV SUST DEV, vol.13 (2019), DOI:10.15551/pesd2019132005 
+nr.autori: 7 		 AIS: 0.0 		 nr.citari: 12 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[32] 	 Cocean, A; Cocean, I; Cazacu, MM; Bulai, G; Iacomi, F; Gurlui, S; Atmosphere self-cleaning under humidity conditions and influence of the snowflakes and artificial light interaction for water dissociation simulated by the means of COMSOL; APPL SURF SCI, vol.443, pp.83-90 (2018), DOI:10.1016/j.apsusc.2018.02.156 
+		[32.1] Diaconu, M; Garofalide, S; Cocean, G; Cocean, A; Pricop, DA; Cocean, I; Gurlui, S; INT J CONSERV SCI, vol.14 (2023), DOI:10.36868/IJCS.2023.03.17 
+		[32.2] Cocean, I; Cocean, A; Iacomi, F; Gurlui, S; APPL SURF SCI, vol.499 (2020), DOI:10.1016/j.apsusc.2019.04.179 
+nr.autori: 6 		 AIS: 0.671 		 nr.citari: 2 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[33] 	 Bulai, G; Rusu, O; Cazacu, MM; Tudorache, F; Chazallon, B; Focsa, C; Gurlui, S; STRUCTURAL, MAGNETIC AND HUMIDITY SENSING PROPERTIES OF RARE EARTH DOPED COBALT FERRITE THIN FILMS SYNTHESIZED BY PULSED LASER DEPOSITION; J OVONIC RES, vol.14, pp.119-128 (2018), DOI:missing 
+nr.autori: 7 		 AIS: 0.089 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[34] 	 Cazacu, MM; Tudose, O; Balanici, D; Balin, I; RESEARCH AND DEVELOPMENT OF COMMERCIAL LIDAR SYSTEMS IN ROMANIA: CRITICAL REVIEW OF THE ESYRO LIDAR SYSTEMS DEVELOPED BY SC ENVIROSCOPY SRL (ESYRO); EPJ WEB CONF, vol.176, art.no.11005 (2018), DOI:10.1051/epjconf/201817611005 
+		[34.1] Foroushani, MA; Opp, C; Groll, M; J ARID LAND, vol.13 (2021), DOI:10.1007/s40333-020-0079-5 
+nr.autori: 4 		 AIS: 0.0 		 nr.citari: 1 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[35] 	 Pelin, V; Rusu, O; Cazacu, MM; Gurlui, S; Sandu, AV; Radinschi, I; Ciocan, V; Sandu, I; Assessment of Hydrophobic Coating on Porous Calcareous Rocks Surface Exposed in Urban Ambient Air Pollution; IOP CONF SER-MAT SCI, vol.374, art.no.12091 (2018), DOI:10.1088/1757-899X/374/1/012091 
+		[35.1] Abu El-Hassan, R; Abd El-Tawab, NA; INT J CONSERV SCI, vol.14 (2023), DOI:10.36868/IJCS.2023.04.06 
+		[35.2] Sandu, I; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[35.3] Hassane, M; Ali, HM; Nazel, T; INT J CONSERV SCI, vol.12 (2021), DOI:missing 
+		[35.4] Ghorai, SM; Kapoor, N; Tiwari, A; Puri, S; INT J CONSERV SCI, vol.12 (2021), DOI:missing 
+nr.autori: 8 		 AIS: 0.0 		 nr.citari: 4 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[36] 	 Radinschi, I; Cazacu, MM; Covatariu, G; Ciocan, V; Verdes, M; Helepciuc, CM; THE EFFECT OF THE USE OF COMPUTER SIMULATIONS AND VIRTUAL PHYSICS LABORATORY IN GENDER PERFORMANCE OF PHYSICS LEARNING; ICERI PROC, vol.missing, pp.549-555 (2018), DOI:missing 
+nr.autori: 6 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[37] 	 Radinschi, I; Grammenos, T; Rahaman, F; Spanou, A; Cazacu, MM; Chattopadhyay, S; Pasqua, A; Localization of Energy-Momentum for a Black Hole Spacetime Geometry with Constant Topological Euler Density; ADV HIGH ENERGY PHYS, vol.2018, art.no.5212696 (2018), DOI:10.1155/2018/5212696 
+		[37.1] Mangut, M; Gürtug, O; Sakalli, I; PHYS SCRIPTA, vol.99 (2024), DOI:10.1088/1402-4896/ad3504 
+		[37.2] El-Nabulsi, RA; MOD PHYS LETT A, vol.36 (2021), DOI:10.1142/S0217732321500425 
+		[37.3] Guendelman, E; Nissimov, E; Pacheva, S; MOD PHYS LETT A, vol.34 (2019), DOI:10.1142/S0217732319500512 
+nr.autori: 7 		 AIS: 0.456 		 nr.citari: 3 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[38] 	 Radinschi, I; Fratiman, V; Cazacu, MM; Ciocan, V; Covatariu, G; JAVASCRIPT COMPUTER SIMULATION FOR DAMPED OSCILLATIONS IN A SERIES RLC CIRCUIT, A TOOL TO IMPROVE STUDENTS' LEARNING; EDULEARN PROC, vol.missing, pp.6015-6024 (2018), DOI:missing 
+nr.autori: 5 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[39] 	 Silviu, G; Cazacu, MM; Adrian, T; Oana, R; Georgiana, B; Dimitriu, D; SPACE- AND TIME-RESOLVED RAMAN AND BREAKDOWN SPECTROSCOPY: ADVANCED LIDAR TECHNIQUES; EPJ WEB CONF, vol.176, art.no.1028 (2018), DOI:10.1051/epjconf/201817601028 
+nr.autori: 6 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[40] 	 Cocean, A; Pelin, V; Cazacu, MM; Cocean, I; Sandu, I; Gurlui, S; Iacomi, F; Thermal effects induced by laser ablation in non-homogeneous limestone covered by an impurity layer; APPL SURF SCI, vol.424, pp.324-329 (2017), DOI:10.1016/j.apsusc.2017.03.172 
+		[40.1] Dreskovic, N; Hrelja, E; Ibragic, S; Bujak, E; Novkovic, M; Radulovic, S; INT J CONSERV SCI, vol.17 (2026), DOI:10.36868/IJCS.2026.01.08 
+		[40.2] Tao, Y; An, CW; Luo, XD; Gu, L; Qi, X; JOM-US, vol.78 (2026), DOI:10.1007/s11837-026-08125-8 
+		[40.3] Ghosh, S; Sahaluddin, M; Abdulhafez, M; Pwint, MY; Cui, XT; Bedewy, M; ADV MATER TECHNOL-US, vol.11 (2026), DOI:10.1002/admt.202502433 
+		[40.4] Cocean, A; Cocean, G; Postolachi, C; Garofalide, S; Pricop, DA; Munteanu, BS; Bulai, G; Cimpoesu, N; Motrescu, I; Pelin, V; Ababei, RV; Dimitriu, DG; Cocean, I; Gurlui, S; QUANTUM BEAM SCI, vol.8 (2024), DOI:10.3390/qubs8020016 
+		[40.5] Chen, BP; Li, YC; Tang, CA; COMPUT GEOTECH, vol.165 (2024), DOI:10.1016/j.compgeo.2023.105848 
+		[40.6] Cocean, G; Cocean, A; Garofalide, S; Pelin, V; Munteanu, BS; Pricop, DA; Motrescu, I; Dimitriu, DG; Cocean, I; Gurlui, S; POLYMERS-BASEL, vol.15 (2023), DOI:10.3390/polym15193953 
+		[40.7] He, ZR; Shen, YZ; Tao, J; Xiong, WB; Shu, S; Song, SS; J MATER RES TECHNOL, vol.26 (2023), DOI:10.1016/j.jmrt.2023.08.249 
+		[40.8] Zhao, XW; Sun, CC; Cheng, P; Jin, PJ; INT J CONSERV SCI, vol.14 (2023), DOI:10.36868/IJCS.2023.02.11 
+		[40.9] Cocean, A; Cocean, G; Diaconu, M; Garofalide, S; Husanu, F; Munteanu, BS; Cimpoesu, N; Motrescu, I; Puiu, I; Postolachi, C; Cocean, I; Gurlui, S; INT J MOL SCI, vol.24 (2023), DOI:10.3390/ijms24043892 
+		[40.10] Czerniec, J; Koziol, K; Jankowski, M; Lewinska, P; Santos, CAG; Maciuk, K; INT J CONSERV SCI, vol.14 (2023), DOI:missing 
+		[40.11] Sandu, I; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[40.12] Cocean, G; Cocean, A; Postolachi, C; Garofalide, S; Bulai, G; Munteanu, BS; Cimpoesu, N; Cocean, I; Gurlui, S; POLYMERS-BASEL, vol.14 (2022), DOI:10.3390/polym14081537 
+		[40.13] Hassane, M; Azar, S; Rychkov, A; Ali, HM; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[40.14] Ibrahim, MM; Mohamed, WS; Mohamed, HM; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[40.15] Lototska, O; Kochubei, V; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[40.16] Cocean, A; Cocean, I; Gurlu, S; U POLITEH BUCH SER A, vol.83 (2021), DOI:missing 
+		[40.17] Bouzetine, K; Hamiane, M; Brahimi, A; Belaidi, M; INT J CONSERV SCI, vol.11 (2020), DOI:missing 
+		[40.18] Narayanmugam, R; Subramaniam, S; Perumalpillai, P; INT J CONSERV SCI, vol.11 (2020), DOI:missing 
+		[40.19] Abdelaal, S; Sandu, ICA; INT J CONSERV SCI, vol.10 (2019), DOI:missing 
+		[40.20] Narayanmugam, R; Subramaniam, S; Perumalpillai, P; INT J CONSERV SCI, vol.10 (2019), DOI:missing 
+		[40.21] Singh, M; Kumar, SV; INT J CONSERV SCI, vol.9 (2018), DOI:missing 
+		[40.22] Ratoi, B; Pelin, V; Sandu, I; Branzila, M; Sandu, IG; INT J CONSERV SCI, vol.9 (2018), DOI:missing 
+nr.autori: 7 		 AIS: 0.627 		 nr.citari: 22 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[41] 	 Banica, A; Bobric, ED; Cazacu, MM; Timofte, A; Gurlui, S; Breaban, IG; INTEGRATED ASSESSMENT OF EXPOSURE TO TRAFFIC-RELATED AIR POLLUTION IN IASI CITY, ROMANIA; ENVIRON ENG MANAG J, vol.16, pp.2147-2163 (2017), DOI:missing 
+nr.autori: 6 		 AIS: 0.086 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[42] 	 Radinschi, I; Fratiman, V; Ciocan, V; Cazacu, MM; Interactive computer simulations for standing waves; COMPUT APPL ENG EDUC, vol.25, pp.521-529 (2017), DOI:10.1002/cae.21818 
+		[42.1] Escobar, DLT; Lopez, NDL; EUR J PHYS, vol.47 (2026), DOI:10.1088/1361-6404/ae3f65 
+		[42.2] Castilla, R; Pena, M; COMPUT APPL ENG EDUC, vol.31 (2023), DOI:10.1002/cae.22619 
+		[42.3] Abad, EC; García, MJG; Diez-Jimenez, E; Moreno-Marcos, PM; Sisamon, CC; COMPUT APPL ENG EDUC, vol.29 (2021), DOI:10.1002/cae.22415 
+		[42.4] Aykutlu, I; Bezen, S; Bayrak, C; TURK J EDUC, vol.10 (2021), DOI:10.19128/turje.744113 
+		[42.5] Glane, S; EUR J PHYS, vol.40 (2019), DOI:10.1088/1361-6404/ab2836 
+		[42.6] Gubsky, D; Zemlyakov, V; INT J ELEC ENG EDUC, vol.56 (2019), DOI:10.1177/0020720918788711 
+		[42.7] Chacón, R; Posada, H; Toledo, A; Gouveia, M; COMPUT APPL ENG EDUC, vol.26 (2018), DOI:10.1002/cae.21985 
+		[42.8] Ha, O; Fang, N; COMPUT APPL ENG EDUC, vol.26 (2018), DOI:10.1002/cae.21930 
+		[42.9] Abad, EC; García, MJG; Blázquez, RR; Castejon, C; García-Prada, JC; COMPUT APPL ENG EDUC, vol.26 (2018), DOI:10.1002/cae.21955 
+		[42.10] Korkmaz, N; Öztürk, I; Kiliç, R; COMPUT APPL ENG EDUC, vol.26 (2018), DOI:10.1002/cae.21972 
+nr.autori: 4 		 AIS: 0.101 		 nr.citari: 10 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[43] 	 Cazacu, MM; Tudose, O; Boscornea, A; Buzdugan, L; Timofte, A; Nicolae, D; VERTICAL AND TEMPORAL VARIATION OF AEROSOL MASS CONCENTRATION AT MAGURELE - ROMANIA DURING EMEP/PEGASOS CAMPAIGN; ROM REP PHYS, vol.69, art.no.706 (2017), DOI:missing 
+nr.autori: 6 		 AIS: 0.255 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[44] 	 Covatariu, G; Cazacu, MM; Radinschi, I; Ciocan, V; Fratiman, V; Turcanu, FE; STATISTICAL SURVEY OF THE OUTCOME OF EFFECTIVE USE OF COMPUTER SIMULATIONS IN STUDENTS' LEARNING; EDULEARN PROC, vol.missing, pp.887-893 (2017), DOI:missing 
+nr.autori: 6 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[45] 	 Pelin, V; Rusu, O; Sandu, I; Vasilache, V; Gurlui, S; Sandu, AV; Cazacu, MM; Sandu, IG; Approaching on Colorimetric Change of Porous Calcareous Rocks Exposed in Urban Environmental Conditions from Iasi - Romania; IOP CONF SER-MAT SCI, vol.209, art.no.12080 (2017), DOI:10.1088/1757-899X/209/1/012080 
+		[45.1] García-Talegón, J; Iñigo, AC; Paredes, J; Correa, RAS; Azofra, E; COLOR TECHNOL, vol.141 (2025), DOI:10.1111/cote.12761 
+		[45.2] Sandu, I; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[45.3] García-Talegón, J; Iñigo, AC; Sepúlveda, R; Azofra, E; CHEMENGINEERING, vol.6 (2022), DOI:10.3390/chemengineering6040061 
+		[45.4] Hassane, M; Azar, S; Rychkov, A; Ali, HM; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[45.5] Ibrahim, MM; Mohamed, WS; Mohamed, HM; INT J CONSERV SCI, vol.13 (2022), DOI:missing 
+		[45.6] Occhipinti, R; Stroscio, A; Belfiore, CM; Barone, G; Mazzoleni, P; CONSTR BUILD MATER, vol.302 (2021), DOI:10.1016/j.conbuildmat.2021.124356 
+		[45.7] Matteini, M; Fratini, F; Rescic, S; Baldan, M; Campana, L; Cuzman, OA; INT J CONSERV SCI, vol.11 (2020), DOI:missing 
+		[45.8] Macchia, A; Brunori, V; Rivaroli, L; Coronas, P; Balzani, C; Rovella, N; INT J CONSERV SCI, vol.11 (2020), DOI:missing 
+		[45.9] Ratoi, B; Pelin, V; Sandu, I; Branzila, M; Sandu, IG; INT J CONSERV SCI, vol.9 (2018), DOI:missing 
+		[45.10] Pelin, V; Breaban, IG; Sandu, I; Gurlui, S; REV CHIM-BUCHAREST, vol.68 (2017), DOI:missing 
+nr.autori: 8 		 AIS: 0.0 		 nr.citari: 10 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[46] 	 Cazacu, MM; Tudose, OG; Timofte, A; Rusu, O; Apostol, L; Leontie, L; Gurlui, S; A CASE STUDY OF THE BEHAVIOR OF AEROSOL OPTICAL PROPERTIES UNDER THE INCIDENCE OF A SAHARAN DUST INTRUSION EVENT; APPL ECOL ENV RES, vol.14, pp.183-194 (2016), DOI:10.15666/aeer/1403_183194 
+		[46.1] Ajtai, N; Stefanie, H; Mereata, A; Radovici, A; Botezan, C; ATMOSPHERE-BASEL, vol.11 (2020), DOI:10.3390/atmos11040364 
+nr.autori: 7 		 AIS: 0.16 		 nr.citari: 1 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[47] 	 Belegante, L; Cazacu, MM; Timofte, A; Toanca, F; Vasilescu, J; Rusu, MI; Ajtai, N; Stefanie, HI; Vetres, I; Ozunu, A; Gurlui, S; CASE STUDY OF THE FIRST VOLCANIC ASH EXERCISE IN ROMANIA USING REMOTE SENSING TECHNIQUES; ENVIRON ENG MANAG J, vol.14, pp.2503-2514 (2015), DOI:missing 
+nr.autori: 11 		 AIS: 0.074 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[48] 	 Timofte, A; Belegante, L; Cazacu, MM; Albina, B; Talianu, C; Gurlui, S; Study of planetary boundary layer height from LIDAR measurements and ALARO model; J OPTOELECTRON ADV M, vol.17, pp.911-917 (2015), DOI:missing 
+nr.autori: 6 		 AIS: 0.078 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[49] 	 Cazacu, MM; Timofte, A; Unga, F; Albina, B; Gurlui, S; AERONET data investigation of the aerosol mixtures over Iasi area, One-year time scale overview; J QUANT SPECTROSC RA, vol.153, pp.57-64 (2015), DOI:10.1016/j.jqsrt.2014.09.004 
+		[49.1] Carstea, E; Fragkos, K; Siomos, N; Antonescu, B; Belegante, L; THEOR APPL CLIMATOL, vol.137 (2019), DOI:10.1007/s00704-019-02805-z 
+		[49.2] Ratoi, B; Pelin, V; Sandu, I; Branzila, M; Sandu, IG; INT J CONSERV SCI, vol.9 (2018), DOI:missing 
+		[49.3] Pelin, V; Sandu, I; Munteanu, M; Iurcovschi, CT; Gurlui, S; Sandu, AV; Vasilache, V; Branzila, M; Sandu, IG; IOP CONF SER-MAT SCI, vol.133 (2016), DOI:10.1088/1757-899X/133/1/012061 
+		[49.4] Videen, G; Sun, WB; Kocifaj, M; Kai, KJ; Kawamoto, K; Horvath, H; Mishchenko, M; J QUANT SPECTROSC RA, vol.153 (2015), DOI:10.1016/j.jqsrt.2015.01.005 
+nr.autori: 5 		 AIS: 0.756 		 nr.citari: 4 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[50] 	 Papayannis, A; Nicolae, D; Kokkalis, P; Binietoglou, I; Talianu, C; Belegante, L; Tsaknakis, G; Cazacu, MM; Vetres, I; Ilic, L; Optical, size and mass properties of mixed type aerosols in Greece and Romania as observed by synergy of lidar and sunphotometers in combination with model simulations: A case study; SCI TOTAL ENVIRON, vol.500, pp.277-294 (2014), DOI:10.1016/j.scitotenv.2014.08.101 
+		[50.1] Kong, Z; Fei, RN; Cheng, Y; Wang, XH; Xu, N; Wang, Z; Zheng, KX; Zhao, CS; Liu, D; Hua, DX; Gong, ZF; Peng, W; Mei, L; OPT LASER TECHNOL, vol.191 (2025), DOI:10.1016/j.optlastec.2025.113354 
+		[50.2] Michailidis, K; Garane, K; Karagkiozidis, D; Peletidou, G; Voudouri, KA; Balis, D; Bais, A; ATMOS RES, vol.311 (2024), DOI:10.1016/j.atmosres.2024.107700 
+		[50.3] Hu, XZ; Liu, D; Xiao, D; Zhang, K; Bi, L; Zhang, JX; Li, WZ; Li, XT; Deng, JS; Zhou, YD; Liu, Q; Wu, L; Liu, C; Wan, XP; Chen, WT; Chen, XL; Zhou, JF; ACTA OPT SIN, vol.43 (2023), DOI:10.3788/AOS231150 
+		[50.4] Mytilinaios, M; Basart, S; Ciamprone, S; Cuesta, J; Dema, C; Di Tomaso, E; Formenti, P; Gkikas, A; Jorba, O; Kahn, R; García-Pando, CP; Trippetta, S; Mona, L; ATMOS CHEM PHYS, vol.23 (2023), DOI:10.5194/acp-23-5487-2023 
+		[50.5] Ilic, L; Jovanovic, A; Kuzmanoski, M; Lazic, L; Madonna, F; Rosoldi, M; Mytilinaios, M; Marinou, E; Nickovic, S; J GEOPHYS RES-ATMOS, vol.127 (2022), DOI:10.1029/2021JD035093 
+		[50.6] Wang, XY; Dai, GY; Wu, SH; Sun, KW; Song, XQ; Chen, WZ; Li, RZ; Yin, JP; Wang, XT; REMOTE SENS-BASEL, vol.13 (2021), DOI:10.3390/rs13163259 
+		[50.7] Kong, Z; Ma, T; Chen, K; Gong, ZF; Mei, L; APPL OPTICS, vol.58 (2019), DOI:10.1364/AO.58.008612 
+		[50.8] Carstea, E; Fragkos, K; Siomos, N; Antonescu, B; Belegante, L; THEOR APPL CLIMATOL, vol.137 (2019), DOI:10.1007/s00704-019-02805-z 
+		[50.9] Talianu, C; Seibert, P; ATMOS CHEM PHYS, vol.19 (2019), DOI:10.5194/acp-19-6235-2019 
+		[50.10] Solomos, S; Bougiatioti, A; Soupiona, O; Papayannis, A; Mylonaki, M; Papanikolaou, C; Argyrouli, A; Nenes, A; ATMOS ENVIRON, vol.197 (2019), DOI:10.1016/j.atmosenv.2018.10.025 
+		[50.11] Chaikovsky, A; Bril, A; Fedarenka, A; Peshcharankou, V; Denisov, S; Asipenka, F; Slesar, A; Korol, M; Dick, V; Chen, B; Sverdlik, L; PROC SPIE, vol.11047 (2019), DOI:10.1117/12.2516356 
+		[50.12] Papagiannopoulos, N; Mona, L; Amodeo, A; D'Amico, G; Claramunt, PG; Pappalardo, G; Alados-Arboledas, L; Guerrero-Rascado, JL; Amiridis, V; Kokkalis, P; Apituley, A; Baars, H; Schwarz, A; Wandinger, U; Binietoglou, I; Nicolae, D; Bortoli, D; Comerón, A; Rodríguez-Gómez, A; Sicard, M; Papayannis, A; Wiegner, M; ATMOS CHEM PHYS, vol.18 (2018), DOI:10.5194/acp-18-15879-2018 
+		[50.13] Siomos, N; Balis, DS; Voudouri, KA; Giannakaki, E; Filioglou, M; Amiridis, V; Papayannis, A; Fragkos, K; ATMOS CHEM PHYS, vol.18 (2018), DOI:10.5194/acp-18-11885-2018 
+		[50.14] Soupiona, O; Papayannis, A; Kokkalis, P; Mylonaki, M; Tsaknakis, G; Argyrouli, A; Vratolis, S; ATMOS ENVIRON, vol.183 (2018), DOI:10.1016/j.atmosenv.2018.04.011 
+		[50.15] Tsekeri, A; Lopatin, A; Amiridis, V; Marinou, E; Igloffstein, J; Siomos, N; Solomos, S; Kokkalis, P; Engelmann, R; Baars, H; Gratsea, M; Raptis, PI; Binietoglou, I; Mihalopoulos, N; Kalivitis, N; Kouvarakis, G; Bartsotas, N; Kallos, G; Basart, S; Schuettemeyer, D; Wandinger, U; Ansmann, A; Chaikovsky, AP; Dubovik, O; ATMOS MEAS TECH, vol.10 (2017), DOI:10.5194/amt-10-4995-2017 
+		[50.16] Kokkalis, P; Amiridis, V; Allan, JD; Papayannis, A; Solomos, S; Binietoglou, I; Bougiatioti, A; Tsekeri, A; Nenes, A; Rosenberg, PD; Marenco, F; Marinou, E; Vasilescu, J; Nicolae, D; Coe, H; Bacak, A; Chaikovsky, A; ATMOS RES, vol.183 (2017), DOI:10.1016/j.atmosres.2016.09.007 
+		[50.17] Papayannis, A; Argyrouli, A; Bougiatioti, A; Remoundaki, E; Vratolis, S; Nenes, A; Solomos, S; Komppula, M; Giannakaki, E; Kalogiros, J; Banks, R; Eleftheriadis, K; Mantas, E; Diapouli, E; Tzanis, CG; Kazadzis, S; Binietoglou, I; Labzovskii, L; Hey, JV; Zerefos, CS; SCI TOTAL ENVIRON, vol.574 (2017), DOI:10.1016/j.scitotenv.2016.09.054 
+		[50.18] Vrancken, P; Wirth, M; Ehret, G; Barny, H; Rondeau, P; Veerman, H; APPL OPTICS, vol.55 (2016), DOI:10.1364/AO.55.009314 
+		[50.19] Perrone, MR; Burlizzi, P; ENVIRON SCI POLLUT R, vol.23 (2016), DOI:10.1007/s11356-016-6575-7 
+		[50.20] Chaikovsky, A; Dubovik, O; Holben, B; Bril, A; Goloub, P; Tanré, D; Pappalardo, G; Wandinger, U; Chaikovskaya, L; Denisov, S; Grudo, J; Lopatin, A; Karol, Y; Lapyonok, T; Amiridis, V; Ansmann, A; Apituley, A; Alados-Arboledas, L; Binietoglou, I; Boselli, A; D'Amico, G; Freudenthaler, V; Giles, D; Granados-Muñoz, MJ; Kokkalis, P; Nicolae, D; Oshchepkov, S; Papayannis, A; Perrone, MR; Pietruczuk, A; Rocadenbosch, F; Sicard, M; Slutsker, I; Talianu, C; De Tomasi, F; Tsekeri, A; Wagner, J; Wang, X; ATMOS MEAS TECH, vol.9 (2016), DOI:10.5194/amt-9-1181-2016 
+		[50.21] Gkikas, A; Basart, S; Hatzianastassiou, N; Marinou, E; Amiridis, V; Kazadzis, S; Pey, J; Querol, X; Jorba, O; Gass, S; Baldasano, JM; ATMOS CHEM PHYS, vol.16 (2016), DOI:10.5194/acp-16-8609-2016 
+		[50.22] Granados-Muñoz, MJ; Navas-Guzmán, F; Guerrero-Rascado, JL; Bravo-Aranda, JA; Binietoglou, I; Pereira, SN; Basart, S; Baldasano, JM; Belegante, L; Chaikovsky, A; Comerón, A; D'Amico, G; Dubovik, O; Ilic, L; Kokkalis, P; Muñoz-Porcar, C; Nickovic, S; Nicolae, D; Olmo, FJ; Papayannis, A; Pappalardo, G; Rodríguez, A; Schepanski, K; Sicard, M; Vukovic, A; Wandinger, U; Dulac, F; Alados-Arboledas, L; ATMOS CHEM PHYS, vol.16 (2016), DOI:10.5194/acp-16-7043-2016 
+nr.autori: 10 		 AIS: 1.132 		 nr.citari: 22 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[51] 	 Albina, B; Cazacu, MM; Timofte, A; Dimitriu, DG; Gurlui, SO; Studies of Planetary Boundary Layer by Infrared Thermal Imagery; AIP CONF PROC, vol.1634, pp.174-179 (2014), DOI:10.1063/1.4903034 
+nr.autori: 5 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[52] 	 Unga, F; Cazacu, MM; Timofte, A; Bostan, D; Mortier, A; Dimitriu, DG; Gurlui, S; Goloub, P; STUDY OF TROPOSPHERIC AEROSOL TYPES OVER IASI, ROMANIA, DURING SUMMER OF 2012; ENVIRON ENG MANAG J, vol.12, pp.297-303 (2013), DOI:missing 
+nr.autori: 8 		 AIS: 0.066 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[53] 	 Cazacu, MM; Timofte, A; Talianu, C; Nicolae, D; Danila, MN; Unga, F; Dimitriu, DG; Gurlui, S; Grimsvotn Volcano: atmospheric volcanic ash cloud investigations, modelling-forecast and experimental environmental approach upon the Romanian area; J OPTOELECTRON ADV M, vol.14, pp.517-522 (2012), DOI:missing 
+nr.autori: 8 		 AIS: 0.102 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[54] 	 Danila, MN; Gurlui, S; Cazacu, MM; Python Utility: Laser-atmosphere interaction extended to Network Data Management; missing, vol.missing, pp.90-92 (2012), DOI:missing 
+nr.autori: 3 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[55] 	 Vetres, I; Ionel, I; Cazacu, MM; Balin, I; NECESSITY OF COMPLEMENTARY VERTICALLY-RESOLVED LIDAR OBSERVATION FOR GROUND AIR POLLUTION ANALYSIS IN WESTERN ROMANIA; J ENVIRON PROT ECOL, vol.13, pp.409-419 (2012), DOI:missing 
+nr.autori: 4 		 AIS: 0.02 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[56] 	 Cazacu, MM; Timofte, A; Balin, I; Dimitriu, DG; Gurlui, S; COMPLEMENTARY ATMOSPHERIC URBAN POLLUTION STUDIES IN THE NORTH-EAST REGION OF ROMANIA, IASI COUNTY; ENVIRON ENG MANAG J, vol.10, pp.139-145 (2011), DOI:missing 
+nr.autori: 5 		 AIS: 0.085 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[57] 	 Timofte, A; Cazacu, MM; Radulescu, R; Belegante, L; Dimitriu, DG; Gurlui, S; ROMANIAN LIDAR INVESTIGATION OF THE EYJAFJALLAJOKULL VOLCANIC ASH; ENVIRON ENG MANAG J, vol.10, pp.91-97 (2011), DOI:missing 
+nr.autori: 6 		 AIS: 0.085 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[58] 	 Tudose, OG; Cazacu, MM; Timofte, A; Balin, I; ESYROLIDAR system developments for troposphere monitoring of aerosols and clouds properties; PROC SPIE, vol.8177, art.no.817716 (2011), DOI:10.1117/12.910640 
+nr.autori: 4 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[59] 	 Covasnianu, A; Cazacu, MM; Balin, I; ADVANCED DTM GENERATION USING AIRBORNE LIDAR TECHNIQUE; GEOGR TECH, vol.3, pp.1-7 (2008), DOI:missing 
+nr.autori: 3 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[60] 	 Grimberg, R; Savin, A; Steigmann, R; Andreescu, A; Iftimie, N; Cazacu, MM; Lifetime Prediction of Pressure Tubes in PHWR Nuclear Power Plants using Eddy Current Data; STUD APPL ELECTROMAG, vol.31, pp.257-+ (2008), DOI:10.3233/978-1-58603-896-0-257 
+nr.autori: 6 		 AIS: 0.0 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[61] 	 Covasnianu, A; Cazacu, M; Libralesso, N; Galisson, L; Memier, M; Balin, I; Digital Terrain Model by airborne LIDAR technique: an essential tool for hydrologic risks assessment; J OPTOELECTRON ADV M, vol.9, pp.3529-3532 (2007), DOI:missing 
+nr.autori: 6 		 AIS: 0.161 		 nr.citari: 0 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[62] 	 Iacomi, F; Apetroaei, N; Calin, G; Zodieriu, G; Cazacu, MM; Scarlat, C; Goian, V; Menzel, D; Jursic, I; Schoenes, J; Structure and surface morphology of Mn-implanted TiO2; THIN SOLID FILMS, vol.515, pp.6402-6406 (2007), DOI:10.1016/j.tsf.2006.11.188 
+		[62.1] Açikgöz, M; Rudowicz, C; COORDIN CHEM REV, vol.539 (2025), DOI:10.1016/j.ccr.2025.216740 
+		[62.2] Fariza, M; Norazlina, A; Azman, T; Ahmad, MK; Murakami, K; INT J NANOELECTRON M, vol.17 (2024), DOI:missing 
+		[62.3] Norazlina, A; Mohamad, F; Talib, A; Ahmad, MK; Nafarizal, N; Soon, CF; Suriani, AB; Mamat, MH; Murakami, K; Shimomura, M; INT J INTEGR ENG, vol.12 (2020), DOI:10.30880/ijie.2020.12.02.014 
+		[62.4] Zhao, YF; Li, C; Lu, S; Liu, RX; Hu, JY; Gong, YY; Niu, LY; J SOLID STATE CHEM, vol.235 (2016), DOI:10.1016/j.jssc.2016.01.002 
+		[62.5] Zhang, L; Zhu, LP; Hu, L; Li, YG; Song, H; Ye, ZZ; RSC ADV, vol.6 (2016), DOI:10.1039/c6ra06606b 
+		[62.6] Quan, F; Hu, Y; Zhang, X; Wei, CH; APPL SURF SCI, vol.320 (2014), DOI:10.1016/j.apsusc.2014.09.089 
+		[62.7] Raja, KS; Misra, M; ECS TRANSACTIONS, vol.33 (2011), DOI:10.1149/1.3564867 
+		[62.8] Güler, S; Rameev, B; Khaibullin, RI; Lopatin, ON; Aktas, B; J MAGN MAGN MATER, vol.322 (2010), DOI:10.1016/j.jmmm.2009.12.014 
+		[62.9] Güler, S; Rameev, B; Khaibullin, RI; Lopatin, ON; Aktas, B; J PHYS CONF SER, vol.153 (2009), DOI:10.1088/1742-6596/153/1/012052 
+		[62.10] Bhattacharyya, S; Pucci, A; Zitoun, D; Gedanken, A; NANOTECHNOLOGY, vol.19 (2008), DOI:10.1088/0957-4484/19/49/495711 
+		[62.11] Gao, LJ; Chow, L; Vanfleet, R; Jin, K; Zhang, ZH; Duan, XF; Xu, B; Zhu, BY; Cao, LX; Qiu, XG; Zhao, BR; SOLID STATE COMMUN, vol.148 (2008), DOI:10.1016/j.ssc.2008.07.043 
+		[62.12] Ying, L; Xiao-Yu, K; Hui-Li, L; Ai-Jie, M; Li-Juan, T; CHEM PHYS LETT, vol.461 (2008), DOI:10.1016/j.cplett.2008.06.086 
+		[62.13] Shi, ZM; Yan, L; Jin, L; Lu, XM; Zhao, G; J NON-CRYST SOLIDS, vol.353 (2007), DOI:10.1016/j.jnoncrysol.2007.02.048 
+nr.autori: 10 		 AIS: 0.653 		 nr.citari: 13 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+P =    9.6310 			 I =    3.8017 			 C =   34.6563 			U =    4.0520 
